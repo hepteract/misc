@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python tactical_report.py

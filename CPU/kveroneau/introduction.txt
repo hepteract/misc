@@ -1,0 +1,94 @@
+Simple CPU Simulator -- Introduction
+
+This file is provided as an introduction to how this works internally, please see the other text files for usage.
+
+The CPU core is fully customizable, but if any of the op-codes are changed, it can break compatibility with other binary files.
+That being said, if your goal of using this code is to build your own virtual machine for your application, then feel free to change the op-codes to suit your requirements.
+
+CPU Klass(sub-class of CPUCore):
+  In the __init__ of this class is where the CPU Memory, persistent storage, and shared memory is initialized.
+  mem is a Memory class, using the default size of 4096 bytes.
+  The __init__ function also manages the loading of an initial binary file into the CPU itself.
+  Example to load and run a binary file:
+    c = CPU('myapp')
+    c.run()
+  You can add a parameter into run() to tell it where to start executing, say if your binary file has a header.
+
+CPUCore Klass:
+  This class is where all the magic happens, you shouldn't need to alter anything in here unless you have very specific requirements.
+  Instead you should either sub-class this and implement the needed __init__ method to initialize memory and devices, or
+  use the included CPU class which has support for standard OS disk and memory storage.
+
+CPURegisters Klass:
+  This class controls the CPU registers, you can subclass this and add/remove registers by changing the class variables.
+  registers variable is a list of all the available registers.
+  pushable variable is a list of registers which can be pushed onto the stack without any adverse effects at runtime.
+
+InvalidInterrupt Exception:
+  This exception is raised if your binary code attempts to call an unhandled interrupt.
+
+CPUException Exception:
+  This exception is raised if there is a bytecode runtime error, usually caused by an error in the user's bytecode.
+
+HelloWorldHook Klass(sub-class of BaseCPUHook):
+  This is an example CPU Hook to display how a hook is created and used, it provided 3 functions to your binary.
+  This CPU hook is attached to CPU I/O ports 32 and 33.
+  I/O port 32 just stores hello world to CPU memory.
+  I/O port 33 is an example of a debugging function which displays the current state of the CPU registers.
+
+ConIOHook Klass(sub-class of BaseCPUHook):
+  This implements a basic tty-based display and keyboard for basic input/output operations from the CPU.
+  This CPU hook is attached to CPU I/O ports 4000, and 8000.
+  I/O port 4000 is input only and reads a single key stroke from the keyboard.
+  I/O port 8000 is output only and writes a character to the screen.
+
+BaseCPUHook Klass:
+  This class is intended to be extended with your own CPU Hook code.  Please see HelloWorldHook as an example.
+  To attach a hook to a CPU in your Python code:
+    c = CPU('myapp')
+    c.add_cpu_hook(MyAwesomeHook)
+    c.run()
+  You must define in your CPU Hook which op-code to attach to, and which op-name it can be referenced as in the Coder.
+  If you never wish to use the coder with this hook, and are using a standard hex-editor, then you can omit the opname attribute.
+
+Coder Klass:
+  This class implements a command-line interface to create binary files and debug them.  See the documentation on how to use the various commands available.
+  Example to load a binary file and immediately jump into the debugger with it:
+    import readline
+    c = CPU('myapp')
+    cli = Coder()
+    cli.configure(c)
+    cli.cmdloop()
+  A CPU instance needs to be passed into the Coder, or it will not work.  You can also pass an empty CPU instance as well, to start a fresh new application.
+
+Storage Klass(sub-class of Memory):
+  This class implements a disk file storage unit for persistent storage.
+  Example:
+    self.storage = Storage('storage', 4096)
+
+Memory Klass:
+  This class is initialized with the size of memory to allocate(using mmap).
+  There are many functions in this class which control the memory access facility, which the CPU uses.
+  These functions will not be directly edited or used by you, as they are already implemented in the CPU op-codes.
+  Essentually, this class is exposed as an array.  The CPU gets and sets memory locations using array syntax:
+    mem[36] = 4
+  This class also keeps track of the current pointer location, which is used by the CPU for various operations.
+  It is also able to read a null-terminated string with a helper function.
+  Other features include the clearing of all memory, local block copying, and local block clearing.
+  Example:
+    self.mem = Memory(64)
+
+Unit Klass:
+  This is the base data Unit which this CPU Virtual Machine uses to exchange data between code, memory, and disk.
+  This class is meant to be sub-classed, see other Unit classes below for examples on how sub-classing works.
+
+UInt8 Klass:
+  This is a Unit that only supports 8-bit integers.
+
+UInt16 Klass:
+  This is a Unit that only supports 16-bit integers. This Unit is mostly used with memory addresses.
+
+UInt32 Klass:
+  This is a Unit that only supports 32-bit integers. This is not used much in the code at all, as the VM isn't really 32-bit address enabled.
+
+Please read the other included text files for more information on how to use this CPU simulator toolkit.

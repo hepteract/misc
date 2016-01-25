@@ -1,0 +1,9 @@
+{
+  "home" : {
+    "type" : "place",
+    "title" : "House",
+    "description" : "Welcome to your home.",
+    "events" : []
+  },
+  "spawn" : "home"
+}

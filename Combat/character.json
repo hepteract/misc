@@ -1,0 +1,27 @@
+{
+  "septeract":{
+    "armor":"hide",
+    "weapon":"mace",
+    "health":20,
+    "stats":{
+      "STR":0,
+      "DEX":0,
+      "INT":0,
+      "END":0,
+      "CON":0
+    }
+  },
+
+  "war1473":{
+    "armor":"chain",
+    "weapon":"sword",
+    "health":20,
+    "stats":{
+      "STR":0,
+      "DEX":0,
+      "INT":0,
+      "END":0,
+      "CON":0
+    }
+  }
+}

@@ -1,0 +1,29 @@
+#!/bin/bash
+
+exec python -c '
+import marshal
+import types
+import sys
+f = open(sys.argv[1])
+last = ""
+i = 0
+while last != "\x00" and i < 3000:
+    last = f.read(1)
+    i += 1
+f.read(4)
+decode = f.read().decode("bz2")
+raw = marshal.loads(decode)
+mods = []
+for name, module in raw[0].items():
+    name = name.split(".")[0]
+    mod = types.ModuleType(name)
+    mod.__dict__["__exec__"] = raw[1]
+    exec module in mod.__dict__
+    mods.append(mod)
+    if name != "__main__":
+        sys.modules[name] = mod
+for module in mods:
+    for name, value in module.__dict__.items():
+        if name.endswith("main"):
+            value(f, raw[1], sys.argv[2:], mods)
+' $0 $@

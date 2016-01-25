@@ -1,0 +1,54 @@
+{
+  "sword":{
+    "weight":5,
+    "precision":15,
+    "damage":20,
+    "bonus":0,
+    "block":5,
+    "class":{
+      "melee":0.5,
+      "pierce":1}
+  },
+
+  "dagger":{
+    "weight":1,
+    "precision":10,
+    "damage":20,
+    "bonus":0,
+    "block":0,
+    "sneak":2,
+    "class":{
+      "pierce":1.1}
+  },
+
+  "axe":{
+    "weight":8,
+    "precision":0,
+    "damage":10,
+    "bonus":20,
+    "block":1,
+    "class":{
+      "melee":0.5,
+      "pierce":0.5}
+  },
+
+  "mace":{
+    "weight":8,
+    "precision":0,
+    "damage":10,
+    "bonus":10,
+    "block":1,
+    "class":{
+      "melee":1}
+  },
+
+  "hammer":{
+    "weight":15,
+    "precision":-10,
+    "damage":15,
+    "bonus":15,
+    "block":1,
+    "class":{
+      "melee":1}
+  }
+}

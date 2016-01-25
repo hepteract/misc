@@ -1,0 +1,30 @@
+float = /[0-9]+\.[0-9]+/ | integer 'f';
+integer = /[0-9]+/;
+number = float | integer;
+
+keyword = /[\w_]+/;
+string = /"[^"]*"/ | /'[^']*'/;
+call = call:(keyword | contain | getattr) arguments:tuple;
+tuple = '()' | '(' {@+:expr /,?/} ')';
+contain = '`' @:expr '`';
+
+(*return = 'return' return:expr;*)
+
+getattr = getattr:expr {'.' get+:keyword}+;
+
+codeblock = '{' @:code '}';
+funcblock = '()' func:codeblock;
+
+expr = contain | funcdef | funcblock | call | tuple | codeblock | set | operation | not | number | getattr | keyword | string;
+
+OPERATION = '+' | '-' | '*' | '/' | '%' | '|' | '&' | '==' | '!=' | '>' | '<' | '<=' | '>=';
+operation = input+:expr op:OPERATION input+:expr;
+
+funcdef = function:keyword '()' '=' value:expr;
+set = variable:keyword '=' value:expr;
+
+not = ('!' | 'not') not:expr;
+
+code = {code+:expr ';'};
+
+root = code;

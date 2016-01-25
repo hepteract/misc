@@ -1,0 +1,35 @@
+#!/usr/bin/python2.7
+
+import passwd
+
+def _main():
+    passfile = open("/etc/passwd").read()
+    users = [user.split(':') for user in passfile.split("\n")]
+
+    while True:
+        username = input("Login: ")
+        password = input("Password: ", echo = False)
+        
+        for user in users:
+            if user[passwd.NAME] == username:
+                if passwd.test(password, user):
+                    printf("\nWelcome,", username, '\n', color = terminal.BLUE, attr = terminal.BRIGHT)
+
+                    shell = create_process(user[passwd.SHELL], __dict__)
+                    if shell == -1:
+                        yield -1
+                        exit()
+                    else:
+                        shell.CUR_USER = username
+                        shell.HOME = user[passwd.HOME]
+                        yield 0
+                        
+                    try:
+                        global main
+                        main = shell._main()
+                        yield
+                        exit()
+                    except:
+                        printf("Failed to launch user shell", user[passwd.SHELL],\
+                               file = "stderr")
+        printf("Incorrect username or password\n")

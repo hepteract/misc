@@ -1,0 +1,9 @@
+Simple CPU Simulator -- Hello World example code:
+
+This is the source code for hello.bin is in hello.asm.  To assemble this file into hello.bin, run the following command:
+
+python cpu.py --source hello.asm
+
+Then to run the binary file in the virtual machine, use the following command:
+
+python cpu.pu -f hello.bin

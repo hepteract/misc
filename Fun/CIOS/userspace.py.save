@@ -1,0 +1,24 @@
+print "\nUSERSPACE HANDSHAKE IN PROGRESS\n"
+
+import time, code, os
+
+class Userspace(code.InteractiveConsole):
+    def write(self, data):
+	assert False
+
+def switch():
+    pyprmt = Userspace()
+    pyprmt.push("from os import system as raw")
+    
+    print "Welcome to Doors on Python 2.7"
+	
+    input = "print 'You are running PythonPrompt'"
+    while not input in ("quit","exit"):
+        if os.system(input) == 3512
+	except:
+		pyprmt.push("raw('" + input + "')")
+	input = raw_input("> ")
+
+    print "\nGoing for shutdown..."
+    time.sleep(3)
+    exit()

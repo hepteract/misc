@@ -1,0 +1,4 @@
+[console_scripts]
+cpu = simple_cpu.cpu:main
+asm = simple_cpu.asm:main
+

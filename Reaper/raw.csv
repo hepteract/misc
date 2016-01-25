@@ -1,0 +1,3001 @@
+﻿Gender,GivenName,MiddleInitial,Surname,TropicalZodiac,Occupation,BloodType
+male,Israel,C,Sanchez,Leo,"Veterinary assistants and laboratory animal caretaker",O+
+male,William,K,Perez,Scorpio,"Short-order cook",O+
+male,Frank,M,Macey,Pisces,"Gaming investigator",O+
+male,Dale,B,Castaneda,Scorpio,Counselor,B+
+male,Willard,J,Young,Libra,"Nuclear engineer",B+
+male,Rick,L,Luke,Aquarius,"Personnel development specialist",O+
+male,William,C,Verduzco,Aries,"Licensed vocational nurse",O+
+male,Maximo,I,Ready,Libra,"Child protective services social worker",A+
+male,Arthur,D,Rodriguez,Leo,"Braille clerk",B+
+female,Alice,A,Miller,Virgo,Choreographer,O+
+female,Sabrina,M,Rupe,Leo,"Animal care and service worker",A+
+male,James,V,Thomas,Virgo,"Gas appliance repairer",A+
+male,James,H,Baez,Aries,"Casino cashier",A+
+male,Adam,B,Cao,Leo,"Administrative clerk",B+
+male,James,H,Sullivan,Cancer,"Vascular sonographer",O+
+female,Mary,J,Stephens,Scorpio,"Maxillofacial radiologist",B+
+male,Roger,T,Smith,Aries,"Magnetic resonance (MR) technologist",B+
+male,Joshua,J,Johnson,Aquarius,"Buyers' agent",O+
+female,Florence,M,Reeves,Virgo,Paraprofessional,A+
+male,Paul,T,Robinson,Gemini,"Environmental chemist",A+
+male,John,E,Gorman,Scorpio,"Oncology nurse",O+
+male,Jerry,M,Mitchell,Gemini,"Certified public accountant",O+
+male,Pedro,R,Dennis,Sagittarius,"Assistant cook",O+
+male,James,J,Denny,Gemini,"Revenue officer",O+
+female,Valerie,M,Black,Cancer,Welder,O-
+male,Gregory,M,Zuniga,Aquarius,"Charter bus driver",O+
+male,James,K,Rodriquez,Gemini,Paperhanger,A+
+male,Joseph,D,Mendez,Taurus,"Management consultant",AB+
+female,Mary,T,Bail,Taurus,"Management analyst",O+
+female,Jacqueline,M,Perkins,Scorpio,"Telecommunications equipment installer",O+
+female,Donna,S,Solomon,Libra,"Support staff specialist",O+
+male,John,M,Taylor,Aries,"Radio and telecommunications equipment repairer",A+
+female,Brenda,A,Johnson,Taurus,"Beauty care specialist",B+
+male,Fred,K,Ray,Pisces,"Corporate investigator",O+
+male,Stewart,A,Watters,Aquarius,"Transit and railroad police",A+
+female,Teena,W,Stewart,Scorpio,"Horse trainer",A+
+male,Alfred,C,Homer,Cancer,"Parking enforcement worker",B-
+female,Denise,C,Boll,Scorpio,"Residential electrician",A+
+female,Edith,T,Prado,Taurus,Exterminator,A+
+male,Michael,D,Valle,Scorpio,"Real estate rental agent",O+
+female,Donna,A,Stanko,Gemini,"Tumor registrar",O+
+female,Vivian,J,Vincent,Aries,"Lease operator",A+
+female,Phyllis,J,Brett,Cancer,Geropsychologist,O+
+male,Thomas,G,Mayer,Taurus,"Insulation worker",A+
+female,Tomika,E,Andrade,Capricorn,"Credit clerk",O+
+male,John,E,Price,Aquarius,"Staffing specialist",A+
+female,Sherri,C,Blake,Taurus,"Labor contractor",O+
+male,James,L,Howard,Aries,"Mine examiner",A+
+female,Dianne,A,Scott,Aquarius,"Landscaping worker",B+
+male,Nicholas,R,Callender,Sagittarius,"Decontamination technician",O+
+female,Jennifer,F,Morgan,Sagittarius,"Support staff specialist",A+
+female,Sue,G,Woodfin,Libra,"Management assistant",O-
+male,Chris,B,Barker,Aries,"Account clerk",B+
+male,Robert,J,Hunter,Pisces,"Dental assistant",A+
+male,Jeffery,V,Clerk,Leo,"Kindergarten teacher",B+
+female,Shannon,W,Salisbury,Taurus,"Data processor",O+
+male,Timothy,J,Stewart,Aries,"Library media aide",A+
+male,Francis,D,Breton,Taurus,"Financial aid director",O+
+female,Barbara,N,Wilson,Pisces,"Mechanical drafter",A+
+male,Robert,A,Tunnell,Gemini,"Position classifier",B+
+female,Mary,S,Chavez,Gemini,Electrologist,A+
+male,Paul,C,Sylvester,Aries,"Compensation and benefits technician",A+
+male,Arthur,G,Young,Cancer,"Glass repairer",A+
+female,Amelia,R,Campbell,Aquarius,Machinist,B+
+female,Rosemary,R,Milligan,Gemini,"INS agent",A-
+female,Willie,M,Trimble,Leo,"Sound engineering technician",B+
+female,Marquita,D,Westmoreland,Scorpio,"Staff development specialist",B-
+male,Michael,S,Chambless,Cancer,"Construction job cost estimator",A-
+male,Anthony,L,Nida,Aquarius,"Subway operator",A+
+female,Shirley,E,Thomas,Taurus,"Rehabilitation counselor",A+
+female,Jane,S,Tilley,Scorpio,"Heating equipment technician",O+
+female,Rosie,C,Kessler,Libra,Psychiatrist,AB+
+female,Kristin,S,Tabb,Libra,"Personal and home care aide",A+
+male,Bobby,S,Hampton,Pisces,"Time checker",A+
+male,Stephen,L,Winkler,Virgo,"Theoretical chemist",B-
+female,Lottie,D,Holt,Leo,"Business management analyst",A-
+male,Edward,P,Bland,Taurus,"Network administrator",O+
+male,Dennis,B,Lerner,Pisces,"Meat packer",A+
+male,Luis,J,Sylvester,Capricorn,"Electronics technician",O-
+male,Richard,H,Hatchett,Virgo,Silversmith,AB+
+male,Ernest,K,Higgins,Taurus,"Information clerk",O+
+male,Thomas,L,Logan,Sagittarius,"Heating, air-conditioning, and refrigeration mechanic",B+
+male,Richard,Z,Paddock,Sagittarius,"Library media assistant",A+
+male,Rodney,G,Powell,Aries,"Electronics engineer",O+
+male,Ricardo,L,Petersen,Gemini,"Maxillofacial radiologist",B+
+male,Robert,T,Wood,Virgo,Chemist,B+
+male,Earl,H,Hein,Taurus,"Telephone station repairer",O-
+female,Petra,A,Kaplan,Virgo,Welder,O+
+female,Norma,M,Tinsley,Cancer,"Brake repairer",A+
+male,Daniel,B,Ball,Cancer,"Veterinary technologist",A+
+female,Conception,J,Sullivan,Gemini,"CART provider",B+
+female,Tracy,D,Brower,Scorpio,President,B+
+male,Barry,C,Shatley,Sagittarius,Physicist,A+
+male,Michael,T,Gragg,Aquarius,"Chemical technician",O-
+male,Joseph,J,McCoy,Scorpio,Professor,A+
+female,Glenna,M,Moore,Taurus,Chiropractor,O+
+female,Shonna,W,Solis,Sagittarius,"Quality control technician",O+
+male,Chris,H,Ward,Capricorn,Auditor,O+
+male,Kelly,M,Grant,Scorpio,"Asbestos abatement worker",B+
+female,Ramonita,A,Perez,Taurus,"General internist",AB+
+male,Wesley,D,Dickey,Cancer,"Industrial property manager",A+
+male,Luis,A,Clark,Scorpio,"Oncology nurse",O+
+male,Bart,S,Silverman,Capricorn,"Employee benefits specialist",O+
+male,John,L,Hess,Leo,"Industrial equipment technician",O+
+male,Joseph,T,Wee,Capricorn,Keeper,O+
+male,Joseph,N,Brown,Gemini,"Localization translator",B+
+female,Kerry,C,Norman,Cancer,"Clock repairer",AB+
+male,Dana,M,Magana,Capricorn,Commissioner,O+
+male,Jack,C,Jackson,Pisces,"Aerospace engineering and operations technician",B+
+male,Kenneth,M,Mui,Leo,Macroeconomist,B+
+male,Donald,H,Roman,Pisces,"Inside wire installer",O+
+male,Austin,S,White,Leo,"Crop scientist",O+
+male,Ryan,C,Walton,Virgo,"Sociocultural anthropologist",O+
+female,Rene,J,Charleston,Leo,"Soil scientist",B+
+female,Linda,R,Jackson,Scorpio,"Parts salesperson",O+
+female,Dorothy,S,Gasser,Leo,"Transportation engineer",O+
+female,Sara,J,Brundage,Sagittarius,"Personal and home care aide",A+
+female,Michelle,D,Harney,Pisces,"Teacher assistant",A+
+male,Donald,M,McKellar,Cancer,"Brokerage clerk",O+
+female,Maureen,J,Chapman,Gemini,"Garment presser",AB+
+female,Courtney,D,Echols,Leo,"Highway maintenance worker",O+
+male,Todd,M,Fair,Pisces,"Insurance underwriter",B+
+male,William,R,Bean,Gemini,"Admitting interviewer",B+
+female,Dale,B,Jeffers,Scorpio,"Retail manager",O+
+female,Joanne,D,Priest,Aquarius,"X-ray technician",O+
+male,Stanley,J,Turner,Scorpio,"Radiation therapist",O+
+male,Eugene,J,Gonzalez,Leo,"Guide interpreter",O-
+male,Dale,E,Weekes,Libra,"Pesticide handler",O+
+male,Ernest,C,Bernard,Gemini,"Extruding and drawing machine operators",AB+
+female,Lori,S,Shears,Gemini,"Nursing assistant",O+
+male,George,E,Knowles,Pisces,"Clinical social worker",AB-
+male,Kenneth,C,Knox,Aquarius,Demographer,B+
+female,Bonnie,J,Bengtson,Virgo,"Inhalation therapist",B+
+male,Bart,R,Rios,Pisces,"Escort interpreter",A+
+male,Joseph,S,Turner,Scorpio,"Continuous mining machine operator",O+
+male,James,D,Fogarty,Pisces,"Information systems manager",O+
+male,Lee,S,Byrne,Cancer,"Cleaning, washing, and metal pickling equipment operator",A+
+female,Alicia,S,McDonald,Gemini,"Mail machine operator",A+
+male,Jose,K,Franklin,Cancer,"Loan collection officer",B+
+female,Theresa,R,Luter,Aries,"Financial manager",O-
+male,Thomas,E,Hardy,Sagittarius,"Medical technologist",A+
+male,Jason,V,Napoli,Aquarius,"National account executive",O+
+male,Morgan,M,Swanger,Libra,"Brattice builder",O+
+male,Ralph,N,Castro,Aquarius,"Oxy-gas cutter",A+
+male,John,S,Shriner,Cancer,"Machine operator",A+
+female,Sandra,W,O'Neill,Pisces,"Office administrator",O+
+male,Floyd,W,Brown,Scorpio,Microbiologist,O+
+female,Betty,C,Cudd,Taurus,"Executive administrative assistant",O+
+female,Marsha,R,Ashton,Sagittarius,"Customs inspector",A+
+female,Mickey,S,Holland,Libra,"Nuclear technician",B+
+male,Greg,F,Davis,Taurus,"Closing agent",B+
+female,Yvonne,C,Parks,Taurus,"Film and video editor",O+
+male,Andres,C,Ferrell,Virgo,"Claims representative",A+
+female,Rachel,N,Fuller,Scorpio,"Market research analyst",B+
+female,Gail,A,Raffa,Aries,"Gas compressor and gas pumping station operator",A+
+male,William,T,Battle,Gemini,"Production cost estimator",B+
+female,Catherine,D,Sage,Capricorn,"Customer service representative",A+
+female,Hattie,C,Salinas,Taurus,"Personal chef",O+
+male,Robert,L,Thompson,Capricorn,"Medical equipment preparer",O+
+female,Esther,J,Harris,Scorpio,"Law clerk",O-
+female,Jackie,E,Nelson,Leo,"Advisor investigator",O-
+female,Laverna,H,Walker,Leo,"Time recorder",A+
+female,Lucille,C,Midkiff,Gemini,Lobbyist,O+
+female,Wanda,J,Dennis,Pisces,"Theoretical mathematician",A-
+female,Monica,J,Arnett,Aries,"Cardiac and vascular nurse",B+
+female,Josephine,J,Altman,Virgo,"Bookkeeping clerk",O+
+male,Edmund,A,Robinson,Pisces,"Electronic data processor",O+
+male,Jess,J,Osborn,Virgo,"Publicity expert",A+
+male,Nicholas,S,Ramirez,Sagittarius,"Building construction estimator",A+
+female,Laura,W,Roberts,Sagittarius,"Claims examiner",B+
+male,John,M,White,Scorpio,"Unclaimed property officer",AB+
+female,Anna,D,Berry,Aquarius,"Computer technology trainer",A+
+female,Peggy,C,Smith,Aries,"Keypunch operator",O+
+male,James,E,Moses,Cancer,"Automotive engineer",O-
+male,Jeremy,M,Curry,Virgo,"Credit checker",O+
+male,Brian,S,Baker,Aquarius,"Transplant nurse",O+
+female,Mollie,I,Avery,Aquarius,"Registered nurse anesthetist",O+
+female,Bobbi,N,Montez,Capricorn,"GED teacher",O+
+male,George,J,Whitmer,Aries,"Bench jeweler",O+
+female,Carrie,A,Melton,Sagittarius,"Ophthalmic nurse",A+
+female,Elsa,G,Stickley,Sagittarius,"Real estate rental agent",A+
+male,Michael,D,Gonzales,Sagittarius,"Radiologic nurse",B+
+female,Louise,B,Ross,Libra,"ATF agent",O+
+male,Ronald,A,Murdoch,Sagittarius,"Accounting clerk",A+
+male,Bruce,D,Frank,Scorpio,Umpire,AB+
+male,Eugene,I,Yang,Leo,"News writer",A+
+male,Nathaniel,M,Martino,Libra,"Telephone line installer",O+
+female,Laure,K,Benoit,Aquarius,"Respiratory therapy technician",O+
+female,Nicole,D,Lewis,Aquarius,"Elevator constructor",O+
+male,Calvin,M,Walters,Libra,"Physical geographer",A+
+female,Stacy,J,Rojas,Sagittarius,"Administrative project coordinator",A+
+male,Rico,A,Wilborn,Libra,"Labor economist",B+
+male,William,C,Turner,Virgo,"Multimedia artist",O+
+female,Ola,J,Buss,Cancer,"Auditing clerk",A-
+male,Joseph,S,Aguirre,Sagittarius,Molder,B+
+female,Erica,D,Carnes,Libra,Astronomer,A+
+male,Esteban,E,Willie,Gemini,"Food service worker",B+
+male,Robert,A,Henderson,Pisces,"Clinical laboratory scientist",O+
+female,Coreen,D,Heinemann,Libra,"Employee training specialist",A+
+male,Thomas,S,Long,Aquarius,"Community support worker",O+
+male,Kevin,V,Jones,Capricorn,"Personal care aide",A+
+male,Earl,M,Matheney,Leo,"Pipe organ repairer",O+
+female,Lonna,L,Fuentes,Libra,"Abdominal sonographer",O-
+female,Cathy,L,Davis,Sagittarius,"Legal assistant",O+
+male,Carol,L,Gaul,Gemini,"Office and administrative support worker manager",A+
+male,Herman,M,Styles,Gemini,"Guide interpreter",AB+
+female,Betty,M,Culp,Libra,"Wastewater treatment plant and system operator",A+
+male,Kevin,M,Jackson,Pisces,"Gaming manager",A+
+male,Ralph,M,Gaither,Taurus,"Poultry farmer",B+
+female,Arlene,G,Relyea,Taurus,Checker,B+
+female,Shirley,R,Fisher,Leo,"Ticket agent",A-
+female,Tiffany,R,Ransom,Taurus,"Web programmer",O+
+female,Mindy,A,Sanroman,Cancer,"Winch operator",O+
+female,Ruby,M,Chambers,Taurus,Veterinarian,A+
+female,Edith,D,Rainer,Aquarius,Illustrator,O+
+female,Jennifer,D,Davis,Scorpio,"Railcar repairer",A+
+male,Jose,B,Smith,Sagittarius,"Public address system announcer",O+
+female,Hazel,K,Anderson,Taurus,Compositor,A+
+female,Shawana,R,Dugan,Leo,Historian,O+
+male,David,M,Perry,Taurus,Commissioner,A+
+female,Rebecca,D,Irvin,Aquarius,"Unclaimed property officer",B+
+male,Randall,D,Tomlin,Virgo,Stenocaptioner,B-
+female,Ina,S,Rye,Virgo,"Data typist",A+
+male,Henry,A,White,Gemini,"Strength trainer",B+
+female,Elfriede,J,Ferrara,Leo,Songwriter,A+
+male,Bradford,M,Turner,Pisces,"Training consultant",O+
+female,Hayley,L,Bell,Leo,"Landscape contractor",A+
+male,Greg,T,Allen,Pisces,"Data processor",O+
+male,George,C,Adolph,Leo,"Plan examiner",O+
+female,Crystal,W,Ferrara,Virgo,"Power tool repairer",O+
+male,Tony,S,Groff,Pisces,"Hand packer",O-
+female,Monica,J,Griffen,Pisces,"Time and attendance clerk",B+
+female,Carolyn,T,Johnson,Scorpio,Coder,O+
+male,John,B,Cummings,Virgo,"School bus driver",AB+
+male,Clarence,P,Runkle,Libra,"Baggage porter",O+
+female,Niki,A,Smith,Pisces,"News anchor",A+
+male,Andrew,R,Jaffe,Gemini,"Derrick operator",A+
+male,Robert,R,Dews,Gemini,Faller,A+
+female,Patricia,K,Miller,Taurus,"Specification inspector",O-
+female,Gayle,C,Watkins,Aries,"Health engineer",B+
+male,Leslie,J,Arrington,Cancer,"Family practitioner",A+
+male,David,E,McCleary,Virgo,"Computer chip processor",B+
+male,James,C,Castillo,Aquarius,"Vending machine servicer",B+
+female,Lili,R,Furrow,Virgo,"Desk clerk",B+
+female,Joslyn,C,Creamer,Scorpio,Dishwasher,AB+
+female,Martha,R,Silva,Libra,"Photographic spotter",A+
+female,Amanda,T,Edwards,Libra,"Sales clerk",O+
+female,Marie,J,Schirmer,Pisces,Polisher,A-
+male,Curt,S,Coutee,Virgo,Arborist,A+
+female,Doris,T,Reardon,Aries,"Electronic equipment repairer",O+
+male,Robert,L,Felton,Taurus,"Computer aide",O+
+male,Shirley,P,Billiot,Virgo,"Assignment clerk",A+
+male,William,R,Young,Aries,"Bindery machine tender",A+
+male,John,L,Cote,Aries,"Information clerk",B+
+male,Dennis,P,Wilkins,Leo,"Coil winder",A-
+male,Luis,R,Hull,Pisces,Architect,A+
+female,Dora,C,Marley,Cancer,"Keying machine operator",O+
+female,Elva,C,Cook,Sagittarius,"Real property appraiser",A+
+female,Geraldine,S,Johnson,Leo,"Billing and posting machine operator",A-
+female,Britt,R,Joseph,Libra,"Electronic publisher",B+
+female,Wanda,J,Dunbar,Leo,"Instructional specialist",A+
+male,Michael,M,Wang,Aquarius,"Career-technical teacher",A+
+female,Katelyn,K,Peterson,Sagittarius,"Network and computer systems administrator",B-
+female,Linda,J,Allen,Libra,"Administrative support specialist",O+
+female,Vanessa,D,Creech,Sagittarius,"Multimedia artist",B+
+female,Barbara,L,Johnson,Sagittarius,"Ambulatory care nurse",O+
+male,Chad,I,Antonelli,Libra,"Fishing vessel operator",B+
+female,Anabel,D,Caine,Taurus,"Rotary drill operator",O+
+female,Adela,D,Curtis,Pisces,"Milling and planing machine operator",A+
+male,John,L,Merryman,Leo,"Nurse specialist",B+
+female,Amber,R,Nguyen,Capricorn,"Cleaning supervisor",AB+
+female,Dorothy,E,Hooper,Pisces,"Material distribution",O+
+female,Rachel,P,Nee,Aquarius,"Mechanical engineer",O+
+female,Robin,M,Medrano,Cancer,"Recreational therapist",B+
+male,Jon,B,Hogan,Capricorn,"Nurse specialist",B+
+male,Juan,C,Lange,Aries,Packager,A+
+male,David,M,Klingler,Libra,"Billing and posting clerk",A+
+male,Craig,P,Bluford,Cancer,"Unclaimed property officer",A-
+female,Amy,W,Marshall,Scorpio,"Construction cost estimator",AB-
+female,Charlotte,L,Barrick,Gemini,"Petroleum technician",O+
+female,Jennifer,W,Bretz,Pisces,"Copy writer",AB+
+female,Jana,C,Bonney,Leo,"Health physicist",B+
+female,Edna,R,Alexander,Libra,"Administrative clerk",O+
+male,Benjamin,V,Sampson,Aries,"Loan processing clerk",B+
+female,Melissa,R,Moore,Scorpio,"Grocery bagger",O+
+male,William,K,Justice,Libra,"Typesetting machine operator",A+
+male,Lewis,E,Lyons,Virgo,"Sales clerk",A+
+male,David,J,McCoy,Capricorn,"Bonus clerk",A+
+male,George,V,Flannery,Sagittarius,"Staffing coordinator",B+
+female,Jean,H,Barta,Leo,"Bank teller",B-
+male,Darrell,M,Rodriguez,Sagittarius,"Cementing and gluing machine operator",A+
+male,Sean,D,Jenkins,Taurus,"Greenhouse manager",O+
+male,Carlos,V,Welch,Aquarius,Meatcutter,O+
+female,Kathryn,M,Ginn,Pisces,Choreographer,O+
+male,Jonathan,M,Jackson,Libra,Statistician,A+
+female,Karin,M,Levy,Gemini,"Textile cutting machine operator",B+
+female,Tanya,J,Coleman,Aquarius,"Manufacturing optician",AB+
+male,Jose,J,Horne,Libra,"Orthopedic nurse",O-
+female,Amy,B,Dykes,Gemini,"Time and attendance clerk",A+
+male,Robert,J,Shuler,Aries,"Crushing, grinding, and polishing machine setter",O-
+female,Peggy,R,Jordan,Cancer,"DEA agent",B+
+male,Leopoldo,S,Smith,Cancer,"Front office manager",O+
+male,Paul,E,Brewer,Cancer,"Musical instrument repairer",B+
+male,Kenneth,M,Souder,Virgo,"Public adjuster",A+
+female,Yolanda,D,Shaw,Aquarius,"Forest, conservation, and logging worker",O+
+female,Katy,R,Cramer,Leo,"Agricultural and food science technician",O+
+male,John,R,Abbey,Sagittarius,"Timekeeping clerk",O-
+female,Sabrina,J,Akers,Virgo,"Loan closer",O+
+female,Yolanda,D,Holloway,Gemini,"Admissions director",B+
+female,Veronica,E,Nash,Libra,Promoter,B+
+female,Stacey,S,Hargrove,Capricorn,"Medical coder",A+
+male,Joe,A,Gray,Gemini,"Ophthalmologic sonographer",O+
+male,William,M,Pearman,Pisces,"Office specialist",O+
+male,Wallace,D,Whitaker,Cancer,"Nuclear power reactor operator",O+
+female,Kristen,G,Comer,Virgo,"Correctional treatment specialist",O+
+female,Eva,J,Lewis,Sagittarius,"Finance manager",B+
+male,Craig,M,Vaughan,Pisces,"Merchandise displayer",AB+
+male,Donnie,L,Boulanger,Leo,Keeper,B+
+female,Esther,R,Hargrave,Virgo,"Private banker",B+
+female,Charlotte,S,Fiorentino,Aries,"Public health dietitian",B+
+male,Arthur,B,Abramowitz,Capricorn,"Forensic nurse",O+
+male,Gabriel,K,Gibson,Pisces,"Sales manager",AB+
+female,Helen,S,Richardson,Virgo,"Forming machine operator",B+
+male,Troy,M,Allison,Virgo,"Attendance clerk",A+
+male,Michael,B,Carrier,Sagittarius,"Ticket clerk",O+
+female,Deborah,E,Bridges,Taurus,"Job analyst",A+
+female,Mariann,H,Bell,Libra,"Chiropractic physician",B+
+male,James,C,Anderson,Cancer,"Appliance repairer",O+
+female,Nancy,G,Breaux,Pisces,"Landscape contractor",A+
+male,Jerome,A,Delgado,Virgo,"Cementing and gluing machine tender",A+
+male,George,S,Regina,Pisces,"Freight, stock, and material mover",A+
+female,Mildred,J,Davis,Leo,"Neonatal nurse",O+
+male,John,T,Sewell,Aquarius,"Portfolio manager",O+
+female,Kayla,B,Slagle,Taurus,"Department head",A+
+male,Eddie,R,Williams,Leo,"Shoe and leather worker",A+
+male,Matthew,K,Johnson,Leo,"Home appliance repairer",O+
+male,Richard,N,Valdez,Cancer,Marshal,B+
+male,Larry,P,Shorter,Pisces,Packager,B+
+female,Lisa,C,Hardesty,Aquarius,"Public health social worker",O+
+female,Maria,H,Paille,Virgo,"Industrial machinery mechanic",B+
+female,Ariana,J,McKenna,Taurus,"Foundry mold and coremaker",A+
+male,Lloyd,T,Lynch,Pisces,"Microbiology technologist",O+
+male,John,O,Shore,Leo,"Media director",O+
+female,Wilma,R,Belford,Sagittarius,"Property custodian",O+
+male,Christian,J,Dement,Leo,"Receive-and-deliver clerk",B+
+female,Johnnie,M,Ketner,Taurus,"Guidance counselor",O+
+female,Josephine,J,Brown,Gemini,"Meeting director",A+
+female,Dianna,K,Wiltz,Gemini,"Affirmative action coordinator",O+
+male,Steven,D,Comer,Gemini,"Bindery machine operator",O+
+female,Pamela,G,Chen,Aries,Pointer,O+
+male,William,M,Clements,Leo,"Outdoor power equipment mechanic",O+
+female,Latisha,J,Baumann,Gemini,"Food and beverage serving and related worker",B+
+female,Susan,W,Chang,Sagittarius,"Home health aide",A+
+male,Kenneth,K,Smallwood,Pisces,"Job placement officer",O+
+female,Sheila,S,Spivey,Gemini,"Sports instructor",A-
+male,Jonathan,L,Strickland,Aquarius,"Industrial designer",A+
+female,Melinda,T,Sanders,Libra,"Support specialist",A+
+female,Melissa,R,Pawlak,Cancer,"Amusement machine servicer",O+
+female,Lucille,D,Noble,Libra,"Lathe and turning machine tool setter",B+
+female,Elizabeth,B,Watters,Leo,"Stock broker",O+
+male,Eric,W,McBeth,Taurus,"Furniture finisher",A-
+male,Kendrick,B,Henson,Capricorn,"Extruding, forming, pressing, and compacting machine operator",AB+
+male,John,J,Bradshaw,Pisces,"Job development specialist",B+
+female,Janet,E,Payne,Pisces,"Truck dispatcher",A+
+female,Iva,M,Pagan,Sagittarius,"Die maker",A-
+female,Celia,R,Lang,Libra,"Funeral attendant",A-
+female,Mary,D,Kinsley,Cancer,"Plant custodian",O+
+female,Mary,L,Hisey,Libra,Receptionist,AB+
+male,William,A,Perez,Sagittarius,"Clinical dietitian",B+
+male,Frank,R,Smith,Sagittarius,"Water transportation occupation",O+
+male,Robert,D,Robb,Pisces,Clergy,B+
+male,Roberto,A,Moore,Capricorn,"Agricultural and food scientist",B+
+female,Reiko,D,Stone,Cancer,Writer,A-
+male,Timothy,A,Burchard,Leo,"Office and administrative support worker manager",AB+
+male,Robert,S,Redman,Aquarius,Criminologist,O+
+male,Roberto,B,Smith,Gemini,"Design printing machine operator",A+
+female,Sara,R,Ryder,Taurus,Electrician,B+
+female,Hayley,R,Tapia,Sagittarius,"Utility meter reader",B+
+male,Ernest,L,Lynch,Aquarius,"Agricultural laborer",A+
+female,Marie,J,Gonzales,Gemini,"Personal attendant",B+
+female,Heather,L,Moreno,Cancer,"Cardiology technologist",A+
+male,Morris,R,Dodson,Taurus,"Knitting machine operator",B+
+female,Linda,R,Wright,Scorpio,"Aircraft cargo handling supervisor",B+
+male,Lloyd,L,Figueredo,Capricorn,"Tour guide",O+
+male,Stanley,G,Gebhart,Gemini,Psychologist,B+
+male,Leo,C,Trotter,Virgo,"Aircraft electrician",O+
+female,Sandra,S,Scheffler,Scorpio,"Plant custodian",O-
+male,Andrew,D,Bailey,Aries,"Health care executive",B+
+male,Ronald,R,Benavides,Aquarius,"Sports official",O+
+female,Barbara,M,Barrow,Taurus,"Vocational education teacher",O+
+male,Lloyd,S,Crowder,Sagittarius,Printmaker,B+
+female,Sherrie,D,Sandler,Sagittarius,"Surveillance agent",B+
+male,Joe,T,Carman,Leo,"Personnel associate",O-
+female,Raelene,R,Speight,Leo,"Delivery services truck driver",O+
+male,Eugene,N,Phelps,Taurus,"Plumbing inspector",O-
+female,Tammy,R,Sutton,Gemini,"Billing and posting clerk",O+
+male,Joel,J,Wilkens,Taurus,"Park naturalist",B+
+male,Richard,G,Murphy,Leo,"Monetary economist",A+
+female,Loretta,D,Soto,Taurus,Arborist,O+
+male,James,D,Anderson,Leo,Rancher,A+
+male,Jamie,C,Wildman,Taurus,"Computer software engineer",B+
+female,Coleen,H,Carrozza,Aquarius,"Public address system announcer",B+
+female,Donnie,J,Matteson,Aries,"Financial examiner",O+
+male,Adam,B,Edwards,Aries,"Electrical engineer",A+
+male,Harry,T,Hedgepeth,Taurus,"Health services manager",B+
+female,Shirley,J,Chen,Capricorn,"Foreign language interpreter",B+
+male,Ali,H,Taylor,Sagittarius,Packer,O+
+female,Mary,J,Grubb,Gemini,"Job training specialist",A+
+female,Maritza,R,Barry,Leo,Principal,O+
+male,Johnny,B,Jones,Aries,"Credentials specialist",A+
+female,Ashlee,R,Green,Gemini,"College counselor",A+
+male,Nicholas,R,Miller,Pisces,"Housing relocator",O+
+female,Carla,C,Sykes,Aquarius,"Religious activities and education director",A+
+female,Lisa,P,Gilbert,Gemini,"Occupational social worker",O+
+male,Fred,S,Wright,Pisces,"Corporate accountant",O+
+female,Helen,G,Martin,Aquarius,"Administrative assistant",B+
+male,William,M,Bruce,Scorpio,"Data entry worker",O+
+male,Dan,E,Guerra,Libra,"Auto damage appraiser",O+
+female,Heidi,J,Dupras,Cancer,"Copy editor",A-
+male,Travis,E,Ziemba,Gemini,"Professional athlete",A+
+male,Jon,M,Williams,Pisces,"Engine and other machine assembler",O+
+female,Shannon,K,Holt,Libra,"Coast Guard",B+
+female,Margaret,J,Doris,Pisces,"Publicity expert",O+
+female,Randee,N,Jones,Capricorn,"Paper coating machine operator",B+
+female,Angela,D,Henderson,Cancer,"Public finance economist",A-
+male,Andrew,S,Rowe,Aquarius,"Payroll specialist",A+
+female,Jane,D,Moss,Gemini,Gerontologist,B+
+female,Rebecca,R,Windsor,Aries,"Machine setter",B+
+male,James,C,Horan,Scorpio,Trapper,AB+
+male,Patrick,B,Felder,Cancer,"Speech therapist",AB+
+female,Francis,D,Weeks,Aries,"Group exercise instructor",O+
+female,Nora,D,Myers,Cancer,Etcher,O-
+male,Leslie,J,Marty,Gemini,"Layout artist",O+
+male,Dirk,A,Gast,Capricorn,"Human resources recruiter",O+
+male,Jarred,M,Rogers,Virgo,Firefighter,O+
+male,Alec,S,Sizemore,Libra,"Chief operating officer",B+
+male,Andrew,K,Young,Gemini,"Construction engineer",A+
+male,Cliff,B,Schulz,Pisces,"Metal caster",A+
+female,Connie,K,Harkless,Pisces,"Music arranger",A+
+female,Maria,N,Gill,Cancer,"Meeting director",AB+
+female,Kyla,D,Hanson,Virgo,"Design consultant",AB+
+male,Robert,G,Nolasco,Taurus,Writer,B+
+female,Janet,E,Berry,Gemini,"Urban and regional planner",O+
+female,Karen,J,Hall,Sagittarius,"Job placement officer",O+
+female,Shemeka,S,Ramsey,Leo,"Painting, coating, and decorating worker",B+
+female,Dorothy,R,Denman,Aquarius,"Electrical and electronics engineering technician",A+
+female,Stephanie,C,Merritt,Scorpio,"Crushing, grinding, and polishing machine tender",O+
+female,Linda,F,Rhynes,Aquarius,"Compensation and benefits technician",A-
+female,Martha,J,Burkhart,Aries,"Mortgage loan officer",A+
+female,Tonya,M,Hussey,Taurus,"Estimator project manager",A+
+female,Eleanore,M,Jolly,Virgo,"State police officer",O+
+female,Reyna,R,Ashlock,Virgo,"Public affairs specialist",O+
+female,Carol,D,Hagemann,Capricorn,"Research dietitian",AB+
+female,Lisa,H,Hopkins,Aries,"Ceiling tile installer",O+
+female,Anne,J,Henke,Aries,"Automotive body and related repairer",A+
+female,Daisy,J,Dowdy,Leo,Weigher,B+
+female,Edna,V,Diamond,Sagittarius,Bellhop,A+
+female,Brenda,J,Tovar,Virgo,"Biological scientist",A+
+female,Julie,M,Jankowski,Sagittarius,"Travel agent",B+
+female,Grace,E,Howe,Aries,"Management dietitian",B+
+male,Clarence,R,Johnson,Leo,"Occupational social worker",AB+
+female,Veronica,A,Rivas,Aquarius,"Ceiling tile installer",B+
+male,Bruce,J,Man,Virgo,"Forest and conservation worker",A+
+male,David,C,Raines,Pisces,"Nurse administrator",A-
+female,Patty,R,Atkins,Leo,"Veterinary assistants and laboratory animal caretaker",O+
+female,Yvonne,R,Morneau,Sagittarius,"Information security specialist",O-
+female,Stephanie,G,Archie,Virgo,"Pump operator",B+
+male,Jerry,L,Moon,Capricorn,Dispatcher,B-
+female,Marie,J,Williams,Cancer,Exterminator,O+
+male,Leroy,J,McCoy,Scorpio,"Vending machine servicer",O+
+female,Fannie,J,Winn,Taurus,"Aircraft and avionics service technician",B+
+female,Laura,L,Gallegos,Libra,"Extruding, forming, pressing, and compacting machine setter",A+
+female,Emma,E,Carpenter,Taurus,Shaper,A+
+female,Faye,C,Cummings,Scorpio,"Automotive glass installer",O+
+male,Corey,L,Harris,Aries,"Conference interpreter",B-
+female,Mary,M,Battle,Gemini,"Kindergarten teacher",O+
+female,Jennifer,J,Kahn,Gemini,"Personnel administrator",O+
+female,Lorraine,C,Gregory,Virgo,"Education and training manager",O+
+male,Ray,G,Atwell,Cancer,"Construction engineer",A+
+male,Douglas,P,Traub,Aries,"Lathe and turning machine tool setter",O+
+male,Ricardo,J,Jones,Taurus,"Ophthalmic nurse",O+
+male,William,R,Baird,Aquarius,"Mining and geological engineer",A+
+female,Courtney,J,Ocasio,Aquarius,Sportscaster,O+
+male,Kenneth,C,Wilkinson,Taurus,"Multiple machine tool setter",O+
+female,Nancy,P,Vaughan,Libra,"Business support assistant",O+
+male,Stephen,T,Horta,Virgo,"CT technologist",A+
+male,Roger,J,Clark,Scorpio,"Assistant cook",O-
+female,Sarah,M,Sanchez,Capricorn,"Railroad switch operator",B+
+male,John,C,Jefferson,Aquarius,"Procurement technician",A+
+female,Judy,A,Blankenship,Libra,"Statistical assistant",O+
+female,Doris,R,Degregorio,Cancer,Groundskeeper,O+
+male,Antoine,C,Webb,Gemini,"Insurance broker",O+
+female,Eva,A,Erickson,Virgo,"Extruding and drawing machine setters",B+
+male,Michael,J,Washington,Aries,"Nuclear engineer",B-
+male,Alan,E,Joyner,Libra,"Funeral manager",O+
+male,Michael,L,Crowe,Capricorn,"Network and computer systems administrator",A+
+male,Howard,G,Banker,Taurus,"Public health dentist",B+
+female,Sherri,B,Brodeur,Capricorn,"Gas pumping station operator",A+
+female,Juliet,P,Morneau,Cancer,"Demographic economist",O+
+female,Kathleen,T,Morris,Aries,Pharmacist,B+
+male,John,G,McKernan,Capricorn,"Fashion designer",A+
+female,Thelma,R,Layton,Pisces,"Optical goods worker",A+
+female,Jessica,S,May,Taurus,"Tower controller",O+
+female,Edith,J,Clark,Libra,"Custom inspector",O+
+male,James,R,Johnson,Leo,"Resort desk clerk",A+
+male,Bradley,A,Seymore,Virgo,Etcher,B+
+male,Todd,H,Valenzuela,Cancer,"Animal control officer",A+
+male,John,D,Aden,Capricorn,"Dog trainer",B+
+female,Geneva,J,Hunt,Taurus,"Construction millwright",A+
+male,John,M,Brooks,Taurus,"Field technician",B-
+male,Michael,N,Gaines,Pisces,"INS agent",A+
+female,Diane,C,Fauver,Sagittarius,"Admitting interviewer",O-
+female,Teri,D,Bloomfield,Libra,"Aircraft electronics technician",O-
+female,Jane,J,Frank,Virgo,"Enrollment specialist",A-
+male,John,B,Cleveland,Scorpio,"Explosives worker",A+
+female,Patricia,J,Doucette,Capricorn,"Journeymen lineman",A+
+female,Kristina,J,Lewis,Cancer,"Video control engineer",A+
+female,Paula,S,Smart,Virgo,"Building construction estimator",O+
+female,Kimberly,K,Johnson,Aquarius,"Animal control worker",O+
+female,Pam,J,Litton,Scorpio,"Hydrographic surveyor",O+
+male,Jimmy,M,Pease,Gemini,"Ticket seller",B+
+female,Margaret,N,Mathis,Scorpio,"Management information systems director",A-
+male,William,J,Escarcega,Aries,Rancher,O+
+male,Gregory,J,Legrand,Cancer,"Loan underwriter",B+
+male,Justin,M,Snyder,Cancer,"General trial court judge",O+
+female,Claire,N,Ellingson,Virgo,"Tool and die maker",A-
+female,Meghan,M,Schneider,Aries,"Labor economist",O+
+female,Rosa,A,Novotny,Libra,Estimator,O+
+male,Michael,P,Cooper,Taurus,"Labor training manager",A+
+female,Kimberly,J,Bissett,Virgo,"Hand typesetter",O+
+female,Carolyn,E,Ladd,Aquarius,"Cargo and freight agent",B+
+male,Billy,S,Knight,Scorpio,"Sports official",B+
+male,Douglas,S,Rodriquez,Pisces,"Management consultant",O+
+male,Howard,V,Taylor,Libra,"Respiratory therapist",B+
+female,Michelle,S,Burns,Pisces,"Human services manager",B+
+male,Michael,V,Shafer,Aries,"Agricultural engineer",B+
+female,Patricia,T,Francois,Leo,"Monetary economist",O+
+female,Peggy,V,Lamb,Pisces,Farmer,O+
+female,Heather,W,Nolen,Virgo,"Recruitment manager",A+
+male,Scotty,E,Mazurek,Virgo,"Building inspector",B+
+male,Ronnie,M,Emmons,Cancer,"Outdoor power equipment mechanic",A-
+female,Rebecca,J,Taylor,Sagittarius,"Head hunter",O+
+female,Alma,G,Edwards,Taurus,"Building construction estimator",O+
+male,Lynn,B,Johnson,Aries,"Posting clerk",A+
+male,Floyd,K,Rogers,Taurus,"Engineering and natural sciences manager",A+
+male,James,M,Elliott,Cancer,"Personal financial advisor",A+
+male,Benjamin,T,Cook,Scorpio,"Bureau of Diplomatic Security special agent",B+
+male,Joshua,R,Fuller,Libra,"First mate",O+
+male,Sean,C,Peer,Aries,"Line repairer",B-
+female,Aurora,S,Adams,Aquarius,"Tree trimmer",B+
+female,Lela,R,Levay,Capricorn,"Sports book writer",A+
+female,Linda,D,Lee,Pisces,"Diesel train engineer",O+
+female,Pamela,J,Ferguson,Sagittarius,Meatcutter,B+
+female,Donna,J,Emerson,Virgo,"Bonus clerk",O+
+male,Kendall,L,Wilson,Leo,"Family practitioner",O+
+male,Anthony,D,Davis,Cancer,"Broadcast and sound engineering technician",A+
+female,Louise,J,Bridges,Libra,"Safety specialist",AB+
+female,Joni,K,Brown,Sagittarius,"Patient representative",B+
+female,Rhonda,S,Rubin,Pisces,"Medical appliance technician",B+
+female,Joanne,J,Sanders,Gemini,"Electrical and electronics repairer",O+
+female,Maria,T,Bender,Scorpio,"EEO officer",O+
+female,Victoria,G,Moss,Libra,"Clinical social worker",A+
+male,Bradley,M,Fragoso,Pisces,"Excavating operator",B+
+male,Raymond,E,Murray,Gemini,"Condominium association manager",A+
+male,Frank,S,Ritchie,Gemini,"Refuse and recyclable material collector",A+
+male,Travis,C,Koonce,Virgo,"Print binding and finishing worker",O+
+female,Deborah,A,Cripps,Aquarius,"Excavating operator",O+
+male,William,M,Borel,Cancer,"Administrative leader",A+
+female,Barbara,J,Whitfield,Aries,"Fashion designer",B+
+female,Caitlyn,D,Huber,Cancer,"Payroll coordinator",A+
+male,Robert,P,Dory,Taurus,"Watch repairer",O+
+male,Robert,C,Lucky,Leo,"Garment presser",O-
+male,Bobby,M,Guy,Aquarius,"Lathe and turning machine tool setter",O-
+female,Jessia,M,Sarvis,Aquarius,"Loan clerk",A+
+female,Maria,S,Taylor,Scorpio,Recruiter,B+
+female,Cindy,S,Tidd,Capricorn,"Athletic training instructor",A-
+male,Tod,H,Nelson,Capricorn,"Paper goods machine setter",A-
+male,John,B,Berry,Sagittarius,Interpreter,O+
+female,Theresa,M,Dark,Gemini,Drafter,O+
+male,Chris,T,Goodman,Cancer,"Educational counselor",O+
+male,Robert,L,Delozier,Taurus,"Lathe and turning machine tool setter",B+
+male,Brian,B,Thomas,Aries,"Remote sensing specialist",A+
+female,Jacqueline,R,Leming,Taurus,"Law clerk",A-
+male,Alonzo,S,Lopez,Libra,"Process technician",AB+
+male,Clayton,K,Farmer,Leo,"Tractor driver",A+
+female,Elizabeth,J,Villareal,Virgo,"Clerical worker supervisor",B+
+female,Nancy,A,Hartman,Cancer,"Computer forensic investigator",O+
+female,Teresa,A,Gregory,Capricorn,"Power lineman",A+
+female,Julia,P,Hodges,Taurus,"Mixing and blending machine operator",B+
+male,Shaun,M,Hughes,Scorpio,"Leather worker",B+
+female,Stephanie,A,Cloyd,Pisces,Lyricist,O+
+female,Carol,C,Walker,Capricorn,Butcher,B+
+female,Gail,D,Patton,Virgo,"Technical trainer",O+
+male,Carl,S,Butler,Capricorn,"Training and development coordinator",A+
+male,Todd,D,Moore,Scorpio,Commentator,AB+
+male,Keith,A,Jones,Taurus,"Government auditor",B+
+male,Eric,M,Doherty,Aries,"Industrial machinery mechanic",O+
+female,Stacey,S,Hinds,Taurus,"Employer relations representative",O+
+female,Mary,K,Hanlon,Sagittarius,"Precision printing worker",O+
+female,Rhonda,A,Powell,Aquarius,"Mortgage loan officer",B+
+male,Otis,T,Oliver,Leo,"Computer systems analyst",B+
+male,Warren,S,Alexander,Aries,"Tumbling barrel painter",A+
+male,Jeffrey,A,Spooner,Aquarius,Librarian,O+
+male,Terry,B,Plant,Sagittarius,"Cutting and slicing machine operator",B+
+male,Roger,L,Baker,Taurus,Beautician,O+
+female,Catherine,C,Henson,Gemini,Biostatistician,B+
+male,Keith,P,Given,Libra,"Oral and maxillofacial radiologist",A+
+male,Kevin,E,Shipman,Gemini,"Metal-refining furnace tender",B+
+male,Thomas,M,Meyer,Gemini,Obstetrician,A-
+female,Helen,G,Brown,Pisces,"Developmental disabilities nurse",A-
+female,Edith,A,Whitley,Cancer,"Automated systems librarian",A+
+female,Jane,E,Silva,Pisces,"Library technical assistant",A+
+male,Harley,E,McWhorter,Sagittarius,Ironworker,O+
+female,Luz,D,Starks,Scorpio,Silversmith,B-
+male,Eric,M,Payne,Taurus,"Payroll technician",O+
+female,Shena,M,Melton,Sagittarius,"Eligibility interviewer",AB+
+female,Joann,D,Wilson,Virgo,"Head hunter",A+
+male,Phillip,L,Mendez,Gemini,Paralegal,B+
+female,Kimberly,K,McDuffie,Taurus,"Physical metallurgical engineer",B+
+female,Donna,R,Dillard,Capricorn,Statistician,B+
+male,Erick,P,Fermin,Libra,"Horticultural specialty farmer",O+
+male,Rob,L,Esparza,Sagittarius,"Ticket seller",O+
+male,Floyd,H,Vega,Virgo,"Water transportation occupation",O+
+female,Vera,T,Coats,Scorpio,"Substance abuse social worker",AB+
+female,Heather,L,Williams,Cancer,"Practical nurses",A+
+female,Sharon,J,Deschenes,Sagittarius,"Mine examiner",O+
+male,Steven,M,Suarez,Sagittarius,"Sales engineer",A+
+male,Herman,C,Rapp,Cancer,"Practical nurses",O+
+female,Jackie,D,Weis,Cancer,"Accounting clerk",O+
+male,Jeremy,N,Mack,Aquarius,"School teacher",A+
+male,Dwight,K,Martin,Aries,"Education and development manager",AB+
+female,Shirley,J,Scott,Pisces,"Aircraft surfaces assembler",A-
+female,Doris,D,Anderson,Libra,Ecologist,A+
+female,Kasie,G,Wood,Virgo,"Job binding worker",A-
+female,Sandra,R,Barga,Gemini,"PBX operator",O+
+female,Lisa,T,Stephenson,Libra,"Amusement machine repairer",B+
+male,Rolando,C,Scriber,Pisces,"Sewing machine operator",B+
+male,Jeremy,H,Gray,Gemini,"Power transformer repairer",AB+
+female,Freda,T,Rodriguez,Aquarius,Geoscientist,A+
+male,Jayson,C,Borst,Cancer,"Clinical dietitian",O+
+male,Clark,E,West,Leo,Mason,O+
+male,Angelo,E,Pickens,Libra,"Safety specialist",A+
+female,Patricia,A,Dobson,Scorpio,"Social psychologist",B+
+female,Teresa,W,Thornton,Libra,Repairer,O+
+female,Maria,A,Ventimiglia,Cancer,"Addictions nurse",A+
+male,Samuel,S,Waters,Leo,Assembler,O+
+male,Erik,P,Flowers,Taurus,"Industrial economist",AB+
+female,Alene,J,McPherson,Aries,Blogger,A+
+male,Pete,D,Lapointe,Cancer,"Loan counselor",O+
+male,Sammy,M,Jackson,Sagittarius,"Personal financial advisor",A-
+male,Milford,A,Duncan,Aries,"Property manager",O+
+male,Terrell,M,Jackson,Leo,Photographer,B-
+female,Darlene,S,Evans,Scorpio,"Marketing research analyst",B+
+female,Fern,A,Simpson,Libra,"Dance captain",A+
+male,Jack,R,Rangel,Capricorn,Promoter,A+
+male,Jason,J,Spence,Scorpio,"Marine surveyor",O+
+female,Doris,A,Huntley,Libra,"Office support secretary",A+
+female,Kathryn,N,Amador,Libra,"Building cleaning worker",A+
+female,Michele,R,Kaufman,Libra,"Construction mechanic",A+
+male,Kevin,A,Warwick,Capricorn,"Social and community service manager",A+
+male,Clifford,D,Saver,Leo,"Sports instructor",B+
+male,Brandon,G,Bryant,Gemini,Paraeducator,B+
+female,Sarah,W,Anderson,Taurus,"Lay-out worker",O-
+male,Gregory,M,Boykin,Aquarius,"Guitar repairer",A+
+male,Steven,L,Meeker,Cancer,"Rolling machine operator",O+
+male,Gary,M,Wimbish,Scorpio,"FBI agent",O+
+female,Mallory,A,Hawkins,Capricorn,"Training manager",A+
+female,Adelina,S,Woodard,Aries,"Dental hygienist",A+
+male,John,B,Popovich,Scorpio,"Cardiopulmonary technologist",A+
+female,Sandra,D,Andrews,Pisces,"Machine feeder",O+
+female,Tillie,J,Glass,Sagittarius,"General trial court judge",O+
+female,Cynthia,R,Lessman,Sagittarius,Polisher,O+
+male,Arthur,S,Braxton,Scorpio,Sorter,B+
+male,Joseph,R,Deloney,Aries,"Payroll specialist",B+
+male,Robert,J,Chamness,Virgo,"Information architect librarian",A+
+female,Barbara,T,Bess,Pisces,Army,B+
+male,Cecil,A,Guerrero,Sagittarius,Stenocaptioner,A+
+female,Priscilla,K,Mitchell,Sagittarius,Exterminator,O+
+male,John,A,Amador,Taurus,"Plate finisher",B+
+male,Joshua,M,Whiten,Gemini,"Cost engineer",B+
+female,Doris,S,Stevens,Pisces,"Benefits clerk",AB+
+female,Marian,D,Cogdell,Aquarius,"Oxygen therapist",A+
+female,Sharon,S,Rodriquez,Taurus,"Fish cleaner",A+
+male,Michael,C,Mize,Taurus,"Surfacing equipment operator",B+
+female,Stephanie,D,Wagner,Scorpio,"Building superintendent",O+
+female,Sandra,S,Porter,Aries,"Human resources manager",O+
+female,Carol,N,Smith,Aries,"Attendance clerk",B+
+female,Sarah,B,Gray,Aquarius,"Office machine and cash register technician",B+
+female,Emily,T,Lerma,Aquarius,"Horticultural specialty farmer",B+
+female,Signe,D,Cross,Capricorn,Detective,B+
+female,Emma,P,Perkins,Aquarius,Compositor,O+
+male,Jay,P,Bolinger,Taurus,Principal,B+
+female,Teresa,H,Bertrand,Taurus,"Gaming dealer",B+
+female,Karen,D,Hafford,Sagittarius,"Promotions specialist",A+
+male,Joel,K,McKinney,Leo,"Environmental meteorologist",A+
+female,Annette,J,Bowman,Libra,"Plating and coating machine tender",O+
+male,David,D,Roberts,Capricorn,"Pharmacy technician",B+
+female,Barbara,M,Stevenson,Gemini,"Drywall installer",B+
+female,Jennifer,S,Buck,Scorpio,"Composing machine operator",B+
+female,Kathryn,J,Robinson,Libra,"Forming machine operator",O+
+female,Gina,C,Gonzales,Taurus,"Punch card operator",O+
+female,Cathy,C,Presler,Taurus,"General superintendent",O+
+male,Thomas,S,McKenzie,Aries,"Medical interpreter",O+
+female,Tiffany,R,West,Gemini,"Mortgage broker",A-
+female,Kendal,S,Jackson,Gemini,"Claims investigator",O+
+female,Arielle,A,Grant,Cancer,"Power lineman",B+
+male,Anthony,M,Pettit,Gemini,"Weather forecaster",A+
+female,Kathleen,C,Deveau,Scorpio,"Social work policy maker",B+
+female,Lindsey,R,Stevenson,Cancer,"Applications engineer",A+
+male,Randell,A,Catron,Sagittarius,"Executive secretary",O+
+male,Earl,G,Rife,Pisces,"Expediting clerk",B+
+male,Wesley,M,Ward,Virgo,"Publicity writer",O+
+female,Heidi,D,Bedoya,Sagittarius,Housekeeper,O+
+male,Fernando,D,Tann,Leo,"Health educator",A+
+male,Francisco,F,Tabor,Gemini,Airman,O-
+female,Erica,M,Pringle,Cancer,"Employment clerk",B+
+female,Kristin,J,Curtis,Sagittarius,"Electrical and electronics installer",B+
+male,Dennis,C,Sharp,Cancer,"Medical technologist",O+
+female,Claire,R,Baden,Gemini,"Physical geographer",B+
+male,Thurman,N,Wilson,Capricorn,Maid,B+
+male,Gabriel,R,Pope,Libra,"Medical doctor",O+
+male,Robert,D,Goins,Leo,"Small engine service technician",A+
+male,Dean,W,Gilley,Libra,"Research chef",A+
+male,John,B,Sampson,Leo,"Delivery service driver",A+
+female,Valerie,R,Sanchez,Libra,"Publication assistant",B+
+male,Kelvin,N,Lawson,Virgo,"Oncology nurse",A+
+male,Francis,G,Stanley,Scorpio,Hunter,O+
+male,Jacob,L,Smith,Leo,"Material moving occupation",B+
+male,Brian,D,Brown,Sagittarius,"Heavy vehicle and mobile equipment service technician",A+
+female,Patricia,R,Lewis,Aquarius,"Diesel mechanic",O+
+male,Michael,T,Smith,Virgo,"Radio and telecommunications equipment repairer",O+
+female,Eda,J,Concepcion,Leo,"Personnel development specialist",O+
+male,Jacob,M,Towne,Gemini,"Geological engineer",O+
+female,Carol,E,Hall,Aries,Postmaster,B+
+female,Milagros,J,Williams,Gemini,Chauffeur,A+
+female,Grace,J,Pierce,Sagittarius,"Electronic masking system operator",A-
+female,Laura,J,Delaney,Virgo,Mechanic,O+
+male,Richard,R,Keeton,Libra,"Supply manager",B+
+male,Ron,S,Jackson,Taurus,"Medical records and health information technician",A+
+male,Bruce,E,Elliott,Sagittarius,"Ship engineer",O+
+male,Rodney,A,Drumm,Pisces,"Cutting and slicing machine operator",O-
+female,Breanne,D,Jordan,Capricorn,"Baggage porter",A+
+male,Ronnie,M,Forest,Leo,Director,A+
+female,Shanna,T,Bennett,Aquarius,"Drug Enforcement Administration (DEA) agent",O+
+female,Gloria,L,Hiller,Capricorn,"Machinery maintenance mechanic",A+
+male,Oliver,C,Cintron,Scorpio,"Skills training coordinator",A+
+male,Miguel,P,Raines,Leo,"Soil scientist",O-
+female,Rebecca,M,Coates,Cancer,"Cardiac and vascular nurse",O-
+female,Elizabeth,C,Martinez,Leo,"Placement officer",O+
+male,Donald,T,Green,Taurus,"Metal-refining furnace tender",O+
+female,Nancy,D,Hatcher,Virgo,Climatologist,O+
+female,Christy,J,Vance,Aries,Stereotyper,O+
+male,James,J,Lucas,Aquarius,"Electrical and electronics repairer",A+
+male,James,L,Lopez,Pisces,"Shoe machine tender",O+
+male,Gregory,D,Hayes,Pisces,President,AB-
+male,Eugene,M,Burt,Aries,"Front desk receptionist",A+
+male,Harry,D,McDonald,Leo,"Family therapist",B+
+male,Jeremy,A,McKoy,Capricorn,Administrator,O+
+male,James,T,Stine,Gemini,"Mental health social worker",A+
+female,Shirley,G,Herrera,Cancer,"High school counselor",A+
+male,Jeffrey,C,Lawson,Gemini,"Control room operator",AB+
+male,Roger,E,Grubbs,Pisces,"Freight agent",A+
+male,Gilberto,M,Cunningham,Capricorn,"Animal breeder",B+
+male,Earl,C,James,Gemini,"Construction manager",O+
+female,Joanne,R,Graves,Gemini,Econometrician,B+
+female,Deanne,A,Ramirez,Sagittarius,"Power plant distributor",A+
+female,Virginia,R,Barnett,Scorpio,"Rehabilitation nurse",O+
+male,David,M,Hopkins,Taurus,Esthetician,B+
+male,Ira,M,Kammer,Sagittarius,"Automotive glass installer",O+
+female,Doreen,J,Brown,Aries,"Residential electrician",B+
+male,Derek,M,Allen,Libra,"Human resources information system specialist",O+
+male,Robert,R,Ellis,Scorpio,"Winch operator",B+
+male,Kevin,A,Taylor,Gemini,"Coil finisher",O-
+male,Homer,N,Scott,Aquarius,"Machine feeder",B+
+male,Edward,K,Perez,Virgo,"Show host",O+
+female,Emma,R,Knott,Gemini,"Office administrator",A+
+female,Terri,D,Sutton,Cancer,"News correspondent",O+
+male,Donald,T,Lucas,Cancer,"Administrative officer",AB+
+female,Mary,D,McCollom,Aquarius,"Job binding worker",O+
+female,Doris,D,Jimmerson,Pisces,"Case management aide",A+
+female,Britta,R,Diehl,Capricorn,"Journeymen lineman",A+
+female,Catherine,R,Ness,Gemini,"Aircraft and avionics equipment mechanic",O+
+female,Stephanie,R,Crawford,Sagittarius,Mediator,A+
+female,Cassandra,E,Spaulding,Aquarius,Mineralogist,O+
+female,Stephanie,H,Barry,Cancer,"Plant operator",B+
+male,Brian,C,Spencer,Sagittarius,Cabinetmaker,A+
+female,Patricia,F,Benjamin,Sagittarius,"Apartment manager",B+
+male,Herbert,C,Judd,Taurus,"Welding machine operator",O+
+male,Paul,P,Albert,Leo,"Revenue officer",O+
+female,Peggy,J,Brandes,Capricorn,"Costume designer",A+
+male,Edward,H,Frederick,Virgo,"County court judge",A+
+female,Lee,K,Ireland,Sagittarius,Bricklayer,B+
+male,Samuel,N,Dean,Capricorn,Demographer,A-
+male,Raymond,P,Kerry,Leo,Editor,O+
+male,Phillip,S,Clemons,Cancer,"Aircraft structure assembler",B+
+female,Mitsuko,M,Velazquez,Taurus,"Grief counselor",B+
+male,Tomas,A,Coleman,Leo,"Aerospace engineer",B+
+male,Dustin,A,Smith,Capricorn,"Medical appliance technician",O+
+female,Megan,M,Johnson,Taurus,"Clinical manager",AB+
+female,Jennifer,M,Butler,Libra,"Public works inspector",A-
+male,Elmer,L,Watson,Sagittarius,"Office assistant",AB+
+male,Marcus,V,Jarmon,Scorpio,Cryptanalyst,B+
+female,Danielle,J,Moody,Scorpio,"Employment recruiter",O+
+male,Trenton,D,Baber,Libra,"Composing machine tender",A+
+female,Marsha,T,Hennessy,Cancer,"Bookkeeping clerk",O+
+male,Harold,M,Felton,Gemini,"Information security specialist",O+
+male,John,S,Clarke,Taurus,"Chief technology officer",B+
+female,Kathy,B,Parker,Virgo,"Milling and planing machine setter",O+
+female,Angela,K,Nolen,Gemini,"Concrete finisher",B+
+male,Nicholas,A,Arnold,Leo,"Employee relations manager",O+
+female,Mary,R,Perry,Scorpio,"Natural sciences manager",O+
+male,Scott,S,Beran,Aquarius,"Agricultural and food science technician",O+
+female,Minnie,J,Ivey,Sagittarius,"Water transportation mate",B+
+male,David,E,Harris,Virgo,"News analyst",B+
+male,James,M,Burns,Scorpio,"Telephone operator",A+
+male,Steven,I,Kist,Cancer,"Astronautical engineer",A+
+female,Maria,J,Ferreira,Aries,"Immigration and Naturalization Service (INS) agent",O+
+male,Gary,J,Santos,Pisces,"Training consultant",B+
+female,Marjorie,C,Jones,Sagittarius,Taper,A+
+male,Antonio,D,Tillman,Virgo,"Executive chef",A-
+female,Adrienne,C,Wade,Sagittarius,"Clinical dietitian",A+
+female,Linda,B,Greene,Gemini,"Employee placement specialist",O+
+female,Clara,A,Schuldt,Cancer,"Material moving occupation",O+
+female,Martha,E,Jensen,Taurus,"Material moving occupation",O+
+female,Jessica,C,Chang,Cancer,"International human resources manager",O+
+female,Karen,R,Howard,Leo,"Airport terminal controller",O+
+female,Brenda,R,Moloney,Aquarius,"Rail-track laying and maintenance equipment operator",AB+
+male,Charles,C,Kreutzer,Cancer,"Activity specialist",A+
+female,Alessandra,M,Hill,Cancer,"Payroll coordinator",AB+
+female,Patricia,G,Williams,Aries,"Aircraft structure assembler",O+
+female,Cathy,R,Aranda,Cancer,"Career counselor",O+
+female,Myrna,A,Sommer,Cancer,"Police officer",AB+
+female,Carmen,J,Taylor,Cancer,Manufacturers,O+
+female,Jody,E,Dixon,Cancer,Glazier,O+
+male,Gilbert,P,Fyfe,Sagittarius,Butcher,B+
+male,Chester,C,Webber,Aquarius,"Transmission technician",O+
+male,Kenneth,J,Torres,Taurus,"Home care aide",B+
+female,Amy,F,Kogan,Virgo,"Parking lot attendant",B+
+male,Richard,J,Brunette,Pisces,"Prosthetics technician",B+
+female,Angela,A,Craig,Capricorn,"Career-technology teacher",A+
+male,Jimmy,L,Matteo,Libra,"Accounts receivable clerk",O-
+female,Brenda,B,Briggs,Sagittarius,Mason,O-
+male,Michael,L,Morrison,Aries,"Shipping, receiving, and traffic clerk",B+
+male,Michael,E,Barbee,Cancer,"Film processing technician",A+
+male,William,C,Loyd,Capricorn,Macroeconomist,A+
+male,Elbert,R,Hampton,Gemini,"Curriculum specialist",AB-
+male,Matthew,G,Patterson,Sagittarius,"Radiologic nurse",AB+
+male,John,L,Schmidt,Libra,"Textile bleaching and dyeing machine operator",O+
+female,Andrea,J,Edwards,Libra,Shampooer,A+
+female,Ashley,W,Snider,Capricorn,"Slot key person",A+
+female,Allie,D,Shirley,Pisces,"Footwear and accessory designer",B+
+male,Victor,N,Wilson,Aquarius,Promoter,A+
+female,Penny,W,Joe,Leo,"Internet developer",O+
+female,Donna,E,Wyatt,Leo,Marine,O+
+female,Janet,G,Nichols,Gemini,"Tank car, truck, and ship loader",O+
+male,Howard,M,Flynn,Scorpio,"Employment assistant",O+
+female,Pearlie,P,Smith,Gemini,"Instructional aide",A+
+male,Danny,M,Fontenot,Cancer,"Clinical laboratory technician",O+
+male,Bruce,A,Dennis,Scorpio,Linemen,O+
+male,Frank,C,Klein,Virgo,"Office manager",O-
+female,Frances,C,Torres,Virgo,Firefighter,B+
+male,David,J,Ash,Scorpio,Neurosonographer,A+
+female,Cathy,J,Hayman,Pisces,"Pumping station operator",A+
+female,Kaci,C,Wright,Aquarius,"Convention planner",O+
+female,Laura,J,McDaniel,Sagittarius,"Office and administrative support worker manager",O+
+female,Elmira,J,Fowler,Capricorn,"Building cleaning worker",AB+
+female,Kelley,G,Rivera,Virgo,"Sports instructor",O+
+female,Wendy,R,Eilerman,Cancer,"Precision instrument and equipment repairer",A+
+male,Mark,L,Hill,Aquarius,"Snowmobile mechanic",A-
+male,Paul,S,Burkley,Sagittarius,"Management consultant",B+
+female,Tracy,A,Pratt,Pisces,Sewer,O+
+male,Kenneth,S,Hardin,Gemini,"Closed captioner",B+
+female,Alice,J,Langley,Capricorn,"Corporate trainer",B+
+female,Laura,B,Hunt,Pisces,"Industrial photographer",A+
+female,Ruth,F,Giron,Capricorn,"Credit counselor",O+
+male,Tyler,T,Rice,Sagittarius,"Accounting clerk",O+
+female,Gail,H,Pullins,Cancer,"Dredge operator",O+
+female,Lillian,J,Ramsay,Aries,Webmaster,O+
+female,Holly,J,Mitchell,Pisces,"Taxicab dispatcher",O+
+male,Manuel,C,Thompson,Aries,"Corporate recruiter",O+
+male,Larry,S,Ridgeway,Aries,"Segmental paver",O+
+female,Kathleen,C,Huitt,Capricorn,Babysitter,A+
+female,Kathryn,E,Gunter,Cancer,"Truck dispatcher",B-
+female,Patrice,G,Balzer,Taurus,"Word processor",O+
+male,Clarence,J,Baker,Gemini,"Airbrush artist",O+
+male,Howard,C,Henderson,Pisces,"Information security specialist",B+
+male,Dennis,S,Scott,Libra,"Health physicist",A-
+female,Amber,M,Mercer,Taurus,"Vascular technologist",A+
+female,Mary,N,Rotella,Virgo,"Machine operator",O+
+female,Bonnie,M,Jordon,Taurus,"Cardiopulmonary technologist",O+
+female,Teresa,W,Hughes,Virgo,Ironworker,A+
+female,Emma,D,Hix,Leo,"Water resources engineer",AB+
+female,Jennifer,L,Erwin,Sagittarius,"Top executive",O+
+female,Joyce,G,Quinones,Libra,"Decommissioning and decontamination (D&D) worker",O+
+female,Linda,R,Jenkins,Aquarius,"Door-to-door sales worker",A+
+male,Joseph,M,Cozart,Gemini,"LAN administrator",O+
+male,Willie,J,Morales,Gemini,"Land acquisition specialist",O+
+female,Ernestine,B,Welch,Taurus,"Head hunter",A+
+male,Felipe,B,Jackson,Aries,"Optical mechanic",B+
+female,Ebony,B,Acton,Aries,"Composing machine tender",O-
+male,Wayne,S,Richey,Pisces,Singer,O+
+female,Patricia,M,Cowen,Virgo,"Pharmacy technician",A+
+male,Raymond,W,Marrero,Gemini,"Scientific illustrator",O+
+male,Rodney,E,Trussell,Pisces,"Refractory mason",B+
+male,Charles,B,Newberry,Scorpio,"Technical education teacher",A+
+female,Connie,J,Stebbins,Scorpio,"Microchip processor",B+
+female,Betty,W,Lapointe,Cancer,"Maitre d",A+
+female,Cheryl,N,Dare,Sagittarius,"Office clerk",A+
+female,Sandra,F,Carroll,Aquarius,"Marketing manager",O+
+female,Heather,B,Long,Scorpio,"Job placement officer",A+
+female,Esperanza,P,Keever,Scorpio,"En route controller",B+
+male,James,A,Roberts,Virgo,"Food cooking machine operator",A-
+female,Filomena,M,Kinyon,Gemini,"Office administrative assistant",O+
+male,Christopher,T,Halstead,Taurus,Photographer,O+
+female,Suzanne,W,Beck,Capricorn,"Conservation forester",A+
+male,Thomas,E,Macintyre,Virgo,"Paper goods operator",O+
+male,Christopher,K,Martin,Pisces,Laborer,O+
+female,Erica,J,Dahl,Virgo,"Arc cutter",AB+
+female,Bessie,D,Woods,Taurus,"Lathe and turning machine tool operator",A+
+male,Michael,J,Pool,Leo,"Employee assistance plan manager",A+
+female,Vicky,J,Rosa,Libra,"Furniture finisher",A+
+male,Ray,R,Stockstill,Taurus,"Piano tuner",A+
+female,Mary,L,Cloyd,Sagittarius,"Financial economist",O+
+female,Jean,D,Mercer,Virgo,"Publications specialist",A-
+female,Jennifer,M,Hines,Leo,Grip,O+
+female,Kathleen,W,Johnson,Aquarius,"Design printing machine operator",O+
+female,Heather,W,Johnson,Capricorn,"Stock-control clerk",O+
+female,Tiffany,W,Stickel,Scorpio,"Diesel service mechanic",B+
+female,Clara,M,Morones,Leo,"Sales worker supervisor",O+
+female,Diana,R,Long,Aquarius,"Metal-refining furnace operator",O+
+female,Juana,D,Triplett,Gemini,"Industrial maintenance worker",O+
+female,Elyse,C,Davis,Scorpio,"Division secretary",O+
+female,Kathy,L,Sample,Sagittarius,"Brazing worker",B+
+female,Lillian,J,Iglesias,Scorpio,"Maxillofacial surgeon",O+
+female,Carolyn,D,Hall,Gemini,Zoologist,O+
+female,Lou,P,Hemphill,Gemini,"Sign language interpreter",A+
+female,Rebecca,M,Velez,Capricorn,Scrub,O+
+male,Joe,P,Liang,Taurus,"Shipping-and-receiving supervisor",O+
+female,Jaclyn,D,Gray,Cancer,"Technical sales manager",B+
+male,John,S,Bowen,Aries,"Electronic typesetting machine operator",B+
+female,Tina,R,Patton,Scorpio,"Concrete paving machine operator",O+
+male,David,D,Cockrell,Cancer,"Labor trainer",A+
+male,Andre,L,Wise,Capricorn,Forester,B+
+male,Glen,A,Allen,Capricorn,"Payroll analyst",O+
+male,Damien,G,Sanders,Sagittarius,"ATF agent",B+
+female,Kimberly,R,Hair,Leo,"Rehabilitation counselor",O+
+female,Norma,J,Waller,Gemini,"Business management consultant",A+
+male,Robert,M,Manning,Aquarius,"Yoga instructor",B+
+female,Nancy,C,Ahlers,Sagittarius,Programmer,A+
+male,Ulysses,E,Rodriguez,Pisces,Homemaker,O+
+male,Anthony,M,Rosenfeld,Aquarius,"Public safety dispatcher",A+
+female,Linda,V,Kerr,Gemini,"Ballet master",O+
+female,Carolyn,M,Shults,Aquarius,"Scanner operator",B+
+male,Timothy,H,Rice,Aries,"Market and survey researcher",B+
+female,Brook,S,Cash,Leo,"Airport terminal controller",B+
+female,Nancy,J,Kent,Sagittarius,"Police dispatcher",O+
+female,Rosemary,M,Nelson,Sagittarius,"Aircraft and avionics service technician",O+
+male,Joe,T,Hardwick,Scorpio,"Sports instructor",B+
+female,Karen,N,Law,Aquarius,"Placement counselor",O+
+female,Susan,S,Breen,Virgo,"Public relations representative",O+
+female,Elizabeth,W,Varney,Aquarius,"HVAC technician",A+
+male,Jeffrey,M,Wheat,Pisces,"Brace maker",B+
+male,William,D,Crass,Virgo,"Electrical and electronics repairer",A+
+male,Aaron,A,Smith,Virgo,"Teacher aide",B+
+female,Darlene,R,Mills,Cancer,"Knitting machine operator",A+
+male,Dustin,M,Winter,Leo,"Vending machine technician",B+
+male,William,J,Crawford,Taurus,"Nurse informaticist",A+
+female,Sandra,G,Luttrell,Taurus,Obstetrician,B+
+female,Stephanie,I,Butler,Cancer,"Distribution clerk",B+
+male,Herbert,D,Young,Cancer,"Terrazzo worker",A+
+female,Lynn,C,Bean,Scorpio,"Store manager",A+
+female,Christina,T,Humphrey,Virgo,"Payroll bookkeeper",O+
+female,Cindy,B,Thompson,Pisces,"Systems architect",B+
+female,Jocelyn,A,Floyd,Aries,"Educational counselor",AB+
+female,Angella,O,Hatchett,Taurus,"Fire dispatcher",O+
+male,Juan,M,Adkins,Pisces,"Communications specialist",A+
+female,Kathy,J,Mills,Scorpio,Forester,O+
+male,Sidney,J,Bass,Sagittarius,Silversmith,A+
+male,James,M,Barnes,Cancer,"Instructional assistant",B+
+male,Marvin,D,Kelly,Libra,"Record clerk",B+
+male,Stephen,A,Barter,Cancer,"Light truck driver",O+
+female,Joann,C,Casper,Sagittarius,"Food processing occupation",O+
+male,Phillip,C,Kivi,Scorpio,"Athletic training instructor",O-
+female,Patricia,M,Ward,Aquarius,"Product promoter",A+
+female,Kathleen,M,Mansour,Libra,"Electronic home entertainment equipment repairer",B+
+male,James,J,Dunn,Cancer,Engineer,O+
+male,Philip,N,Blake,Aquarius,Server,O+
+female,Delores,T,Jackson,Libra,"Support staff clerk",B+
+female,Jane,S,Thompson,Capricorn,Bodyguard,O+
+male,Douglas,J,Pruitt,Aquarius,Blockmason,O+
+male,George,A,Casey,Gemini,"Family and general practitioner",AB+
+female,Daria,D,Bucklin,Libra,"Library binding worker",B+
+male,John,C,Entwistle,Aquarius,"Independent adjuster",B+
+female,Deane,L,Key,Taurus,Cardiographer,B-
+male,Thomas,L,Wilson,Virgo,"Marine electronics technician",O+
+female,Loretta,J,Pierce,Taurus,"Camp counselor",B+
+female,Crystal,M,Bryant,Virgo,"Continuous mining machine operator",A+
+male,Robert,C,Nisbet,Leo,"Electronic reporter",A+
+female,Norma,C,Sutton,Libra,"Power distributor",B+
+male,Mike,M,Child,Aries,"Gas pumping station operator",O+
+male,Rudy,T,Lamb,Leo,"Loan collection officer",A+
+male,Abel,C,Flanagan,Aquarius,"Log mover",B+
+male,John,M,Colon,Gemini,"Structural engineer",B+
+female,Margaret,D,Sharp,Aries,"Floor broker",B+
+male,Steven,J,Snyder,Aries,"Developmental psychologist",AB+
+male,Rodney,B,Cruz,Taurus,"Concrete paving machine operator",O+
+male,William,A,Massey,Gemini,"Medical translator",O+
+female,Patricia,M,McGlynn,Leo,"Nuclear medicine technologist",O+
+female,Julie,E,Rose,Gemini,"Petroleum pump system operator",AB+
+female,Lorraine,P,Jolicoeur,Capricorn,"Landscape architect",B+
+male,Monte,J,Madden,Taurus,"Employment interviewer",O+
+male,James,L,Hartline,Scorpio,"Electronic drafter",B+
+female,Jill,J,Reno,Libra,"Medical appliance technician",O+
+male,Claude,M,Diaz,Libra,"Dry-cleaning worker",A-
+female,Mary,J,Miller,Aquarius,"Camera operator",O+
+female,Linda,B,Brady,Scorpio,"Textile presser",O+
+male,Todd,E,Robinson,Scorpio,"Corporate office services manager",B+
+female,Evelyn,R,Fincher,Pisces,"Cable line installer",A+
+female,Shannon,L,Reed,Sagittarius,"Gerontology social worker",O-
+female,Rebecca,K,McGee,Gemini,"Foundry mold and coremaker",A+
+female,Lidia,V,Smith,Sagittarius,"Admitting interviewer",A+
+male,Ted,K,Rogers,Virgo,"Surgical technician",A+
+male,Alfred,M,Phillips,Aquarius,"Training development director",O+
+female,Lora,D,Smith,Taurus,"Executive administrative assistant",A-
+male,Larry,E,Beatty,Taurus,"Call completion operator",O+
+female,Michele,R,Vinci,Virgo,"Employee training specialist",A+
+male,Allen,L,Holmes,Libra,"Reservation and transportation travel clerk",A-
+female,Theresa,L,Reeder,Pisces,"Sociocultural anthropologist",A+
+male,Michael,L,Donahue,Leo,"Station agent",O+
+male,Jeffery,J,Simms,Scorpio,"Lobby attendant",B+
+male,James,M,Glover,Taurus,"Service unit operator",B+
+female,Margaret,R,Coleman,Sagittarius,"Health services manager",A+
+female,Sandy,R,Adams,Virgo,"Management information systems director",O+
+male,Jason,K,Brewer,Aries,"Structural metal fabricator",O+
+male,Michael,K,Myron,Virgo,"Operating room technician",B+
+male,Noble,D,Button,Sagittarius,"Stock clerk",A-
+male,Jessie,G,Finke,Libra,"Project manager",A-
+male,Morris,A,Phan,Capricorn,"Personnel officer",O+
+female,Geraldine,W,Gresham,Cancer,"Sales worker driver",A-
+female,Soledad,W,Timmerman,Leo,Conservator,A+
+male,Stanley,E,Fasching,Libra,Veterinarian,O+
+female,Diane,C,King,Aquarius,"Cruise ship worker",B+
+male,Paul,E,Thurston,Virgo,Teller,O+
+female,Sharon,C,David,Sagittarius,"Packaging and filling machine tender",B+
+male,Jeremy,M,Curci,Leo,"Administrative office specialist",B+
+male,Royce,J,Medina,Aries,"Boat operator",A+
+male,Ronald,L,Hinkle,Virgo,"Stock trader",B+
+female,Alma,D,Massey,Capricorn,"Mapping technician",O+
+male,Daniel,D,Maple,Scorpio,"Water transportation occupation",O+
+male,Frank,N,Watkins,Libra,"Home entertainment service technician",O+
+male,Phillip,P,Boswell,Libra,"Furniture finisher",A+
+female,Donna,B,Hart,Aquarius,"Biological scientist",B+
+female,Judith,T,Herren,Capricorn,Courier,B+
+male,Roman,F,Kelley,Cancer,Concierge,O-
+male,Allen,B,Lynn,Leo,"Oral surgeon",O+
+female,Norma,F,Bolds,Aquarius,"Speech therapist",O+
+male,Robert,N,Fitzgerald,Aries,"Recreation supervisor",B+
+male,Donald,S,Martin,Taurus,"Sociocultural anthropologist",O+
+female,Dorothy,J,Frank,Scorpio,"Loan counselor",O+
+male,Scott,M,Parrish,Aries,"Judiciary translator",B+
+male,Larry,C,King,Cancer,"Computer clerk",B+
+male,Sean,G,Smothers,Aquarius,"Payroll assistant",B+
+male,Angel,R,Potter,Leo,"Title searcher",A-
+female,Gina,S,Shea,Aquarius,Blockmason,B+
+male,Walter,Y,Dandrea,Cancer,"Administrative assistant for human resource",A-
+female,Michele,S,Casteel,Virgo,"Funeral attendant",B+
+female,Opal,C,Lovell,Scorpio,"Golf course architect",A+
+female,Janet,E,Tucker,Pisces,"Public accountant",AB+
+female,Mary,Q,Owens,Scorpio,"Licensed vocational nurse",O+
+male,Kenneth,T,Vickery,Pisces,"Delivery services truck driver",A+
+female,Peggy,J,McQueen,Scorpio,"Forensic accountant",B+
+male,Humberto,B,Tait,Sagittarius,"Agricultural manager",O+
+female,Pamela,J,Richardson,Leo,"Diesel engine specialist",B+
+male,Joseph,E,Way,Virgo,"Payroll specialist",O+
+female,Margarita,J,Kingsley,Libra,"School social worker",O+
+male,Kevin,L,Scrivner,Taurus,"Design printing machine operator",AB+
+female,Brandy,W,Brooks,Taurus,"Community health educator",O-
+female,Kathryn,W,Becerra,Leo,"Trial lawyer",A+
+female,Crystal,A,Hines,Leo,"Violin repairer",A+
+male,Bryan,E,Bailey,Aquarius,"Tile installer",A+
+male,Freddy,K,Vuong,Scorpio,"Press operator",AB+
+male,Richard,D,Gomer,Cancer,"Gas pumping station operator",B+
+male,Michael,E,Samson,Aries,"Delivery service driver",A+
+male,Eric,T,Toomer,Aquarius,"Plating and coating machine tender",O+
+female,Cynthia,R,Zavala,Libra,"Economic geographer",A+
+male,Hector,F,Burchell,Virgo,"Construction manager",AB+
+female,Renee,P,Tyson,Sagittarius,"Crushing, grinding, and polishing machine tender",A+
+female,Shirley,L,Fulks,Virgo,"Refractory materials repairer",B+
+female,Maria,C,Holt,Leo,"News reporter",O+
+female,Maxine,C,Bennett,Aquarius,"Stock clerk",A+
+female,Mabel,T,Russell,Capricorn,"Medical social worker",B+
+male,Bobby,A,Talamantes,Aquarius,Entomologist,O+
+male,Melvin,K,Kinsey,Virgo,"Telephone station installer",B+
+male,Peter,C,Smith,Sagittarius,"Brokerage sales assistant",O-
+male,David,M,Morehead,Scorpio,"Market research analyst",A+
+female,Florence,C,Ryerson,Cancer,"CNC operator",A-
+male,Terrell,S,Williams,Scorpio,Photographer,A+
+male,Eric,M,Castillo,Taurus,"Corporate trainer",A+
+male,Michael,G,Sims,Gemini,"Respiratory therapy technician",A+
+male,Randall,D,Ford,Taurus,"School bus driver",O+
+male,David,S,Ratliff,Cancer,"Labor training manager",A+
+female,Christian,G,Wegener,Leo,"Bureau of Diplomatic Security special agent",A+
+female,Brenda,J,Martini,Scorpio,"Personnel associate",A+
+female,Cherie,J,Torres,Scorpio,"Family practitioner",A+
+female,Cheryl,J,Chapman,Cancer,"Personal attendant",O+
+male,David,S,Menke,Sagittarius,"Personnel manager",O+
+male,Roy,C,Oliverio,Sagittarius,"Management assistant",A+
+female,Marilyn,F,Lampe,Leo,"Medical translator",B+
+female,Connie,R,Chong,Gemini,Chauffeur,O+
+female,Delores,M,Brockman,Taurus,"Detention officer",A+
+female,Dawn,A,Hitchens,Aquarius,"Safety inspector",B+
+male,Timothy,K,Smith,Leo,"Plating and coating machine tender",O+
+female,Lisa,G,Warfield,Pisces,"Loss prevention agent",O+
+male,Ryan,C,Cook,Scorpio,"Direct care worker",A+
+female,Thelma,E,Gilson,Leo,Surgeons,O+
+male,Aaron,K,Hairston,Gemini,"Slot key person",B+
+male,Shane,L,Toman,Libra,"Coin, vending, and amusement machine servicer repairer",B+
+male,Rusty,G,Denton,Gemini,"Pesticide handler",A+
+female,Maria,M,Simmons,Aquarius,"Residential electrician",O+
+female,Flora,W,Rogers,Scorpio,"Conference planner",O+
+male,George,E,Palmer,Aquarius,Landlord,O+
+female,Lauren,G,Gates,Capricorn,"Log sorter",A+
+female,Nettie,L,Brown,Sagittarius,"Rolling machine tender",A+
+female,Priscilla,K,Riley,Gemini,"Credit authorizer",AB-
+male,Wilbert,S,Cotton,Leo,Babysitter,A+
+male,Curtis,D,Carvajal,Leo,"Sheet metal worker",O+
+female,Alyssa,G,Mousseau,Gemini,"Plasma cutter",A-
+male,Brian,E,Garcia,Libra,"Vocational counselor",O+
+female,Kathryn,G,Yutzy,Leo,"Veterinary technician",O+
+female,Claudine,J,Costello,Aries,"Computer support specialist",B+
+male,Jack,A,Porter,Virgo,"Financial planner",A+
+male,Greg,E,Myles,Virgo,Stonemason,A+
+female,Judith,S,Nixon,Cancer,"Heating, air-conditioning, and refrigeration installer",B+
+female,Linda,E,Stamey,Taurus,"Military officer",A+
+male,Henry,B,Taylor,Pisces,"International human resources manager",O+
+male,Wilbert,S,Tsosie,Virgo,Meatcutter,O-
+male,Randolph,K,Franco,Capricorn,"Fire fighter",A+
+female,Elma,C,Hardy,Aquarius,"Agricultural worker",O+
+male,Robert,R,Mayton,Pisces,"Time recorder",A+
+female,Mabel,D,Calvo,Virgo,"Psychiatric nurse",AB+
+male,Jaime,A,Ivy,Aries,"Osteopathic doctor",B+
+male,David,S,Whalen,Aries,"Conservation worker",O-
+male,Ron,L,Dice,Libra,"Real estate rental agent",B+
+female,Jean,A,Richards,Pisces,"Military occupation",O+
+female,Melissa,D,Hoffman,Gemini,"Financial aid director",A+
+male,Landon,M,Fierro,Scorpio,"Concrete finisher",O-
+male,John,F,Petri,Taurus,"Maintenance electrician",B+
+male,Jerry,K,Gillham,Gemini,"Student services director",B+
+male,Micheal,M,Jones,Aquarius,"Criminal investigator",O+
+male,Winford,E,Fifer,Gemini,"Microchip processor",B+
+male,James,J,Kelly,Taurus,Meatcutter,B+
+male,David,J,Fair,Cancer,"Otorhinolaryngology nurse",O+
+female,Tammy,H,Gannon,Aries,"Small engine service technician",A+
+female,June,D,Bettencourt,Sagittarius,"Interior decorator",B-
+male,David,L,Veney,Aries,"Cleaning, washing, and metal pickling equipment operator",O+
+female,Carol,A,Hartness,Taurus,Undertaker,A+
+female,Ashlyn,M,Clayton,Taurus,"Maxillofacial surgeon",B+
+male,Jim,K,Harris,Gemini,Ironworker,B+
+male,David,R,Morris,Cancer,"Rigging slinger",B+
+male,Eugenio,D,Stevenson,Cancer,"Office assistant",B+
+female,Cassandra,W,Bennett,Aquarius,"Public finance economist",B-
+female,Sue,L,Willis,Virgo,"Industrial hygienist",O+
+female,Ara,D,Escobedo,Sagittarius,"Tree trimmer",O+
+female,Janet,L,Williams,Libra,Hostler,O+
+female,Malka,B,Pena,Aquarius,"Dental technician",B+
+female,Marilyn,C,Job,Cancer,"Administrative project coordinator",A+
+female,Wanda,S,Soucy,Pisces,"Podiatric medical assistant",AB+
+female,Joanne,J,Stubbs,Aries,"Power plant mechanic",B+
+female,Karen,R,Moxley,Taurus,"School and college counselor",A+
+female,Lisa,C,Wilson,Scorpio,"Billing clerk",AB+
+female,Marsha,G,Diehl,Scorpio,Microeconomist,O+
+female,Mildred,G,Ewers,Sagittarius,"Network systems and data communications analyst",B+
+female,Diana,S,Fitzpatrick,Aquarius,"Wound, ostomy, and continence nurse",O+
+female,Vanessa,M,Stout,Leo,"Residence leasing agent",O+
+male,James,M,Finch,Scorpio,"Elevator constructor",O+
+male,Nathan,Y,Green,Leo,"Telephone service representative",O+
+female,Cathryn,J,Yuen,Pisces,"Employee benefits manager",B+
+female,Tillie,G,Shires,Sagittarius,"Range scientist",A+
+female,Marhta,J,Davis,Leo,"Computer operator",A+
+male,Ernest,M,Knopp,Leo,"Knitting machine operator",A+
+male,Roberto,B,Reis,Taurus,"Data entry clerk",O+
+female,Tonya,O,Via,Gemini,"Junior high school teacher",B+
+male,Andrew,L,Walker,Virgo,"Heating, air-conditioning, and refrigeration engineer",A+
+male,Steven,M,Procopio,Capricorn,"Regional geographer",B+
+female,Glenda,M,Mosby,Libra,"Electrical power line installer",O+
+female,Christy,C,Kendig,Aquarius,"Desk clerk",AB+
+female,Taylor,A,Talley,Aquarius,"Shoe machine tender",A+
+female,Mary,J,Hernandez,Taurus,"Electrical inspector",O+
+male,Joseph,R,Rogers,Sagittarius,"Furnace installer",B+
+female,Deborah,L,Monroe,Capricorn,"Automotive mechanic",A+
+male,Lawrence,J,Browning,Pisces,"First responder",A+
+female,Kara,J,Skinner,Pisces,"Subway operator",B+
+female,Janet,D,Stillman,Libra,"Medical equipment preparer",O+
+female,Lori,D,Blanchard,Virgo,"Embossing machine operator",O+
+female,Cammie,K,Knowlton,Sagittarius,"Operating engineer",O+
+female,Anna,R,Flores,Virgo,Yardmaster,B+
+female,Linda,W,Fernandes,Capricorn,"Television camera operator",O-
+male,James,D,Millis,Aries,"Semiconductor assembler",A+
+female,Eunice,C,Harrison,Virgo,"Sewing machine operator",A+
+female,Tracy,T,Odell,Sagittarius,"Field technician",O-
+male,Roy,G,Bibbins,Cancer,"Social work planner",A-
+female,Irene,M,Meyer,Pisces,"Correctional officer",B+
+male,Robert,A,Howard,Virgo,"Certified registered nurse anesthetist",B+
+male,Elbert,D,Davis,Virgo,"Sports official",O-
+male,Phillip,J,Quisenberry,Gemini,"Instructional designer",A+
+male,Kevin,J,Neal,Capricorn,"Heat treating equipment setter",A+
+female,Arlene,M,Keene,Capricorn,"Telephone installer",B+
+male,Johnny,M,Rabideau,Aries,"Gynecology nurse",A-
+female,Andrea,R,Thomson,Cancer,"Fine arts instructor",AB+
+male,Frederick,D,Eisenbarth,Cancer,"Baggage porter",O+
+male,Robert,T,Elam,Leo,"Geographic information specialist",O+
+male,Daniel,M,Contreras,Aquarius,"Real estate manager",O+
+female,Carla,E,Grigsby,Cancer,"Surgical nurse",O+
+female,Ella,R,York,Scorpio,Steamfitter,O+
+male,Anthony,L,Castle,Pisces,"Help-desk technician",O+
+female,Lori,R,Decker,Leo,Dressmaker,O+
+male,Edward,A,Fletcher,Capricorn,"Animal breeder",B+
+male,Brandon,L,Herbert,Taurus,"Executive office administrator",AB+
+male,Charles,D,Higgins,Taurus,"Biological technician",B+
+female,Roxy,A,Higginbotham,Taurus,"Delivery service driver",A+
+male,Otha,M,Adorno,Cancer,"Biomedical equipment technician",A+
+male,Mathew,H,Cash,Taurus,"Assignment clerk",B-
+male,Bradley,J,Damron,Aries,"Children's librarian",B+
+male,Alexander,I,Richard,Scorpio,"Posting clerk",A+
+male,Thomas,F,Severance,Sagittarius,"Plant manager",B+
+female,Debra,K,Hannah,Virgo,"Radiation protection technician",O+
+male,Thomas,B,Cruise,Pisces,Paraeducator,O+
+male,Derrick,J,Hartman,Pisces,"Fork lift driver",A+
+female,Anita,P,Masse,Virgo,"Electronic publisher",O+
+female,Valerie,V,Meyer,Cancer,"Precision printing worker",O+
+female,Linda,R,Moore,Aries,"Transmission engineer",A+
+female,Krista,D,Love,Leo,"Patient educator",O+
+female,Rebecca,P,Jackson,Virgo,"Dinkey operator",A+
+male,John,E,Lambert,Gemini,"Food batchmaker",O+
+female,Florine,J,Mathis,Cancer,"Theoretical chemist",A+
+male,Bernard,S,Morin,Cancer,"Sales worker supervisor",O+
+male,John,B,Prall,Cancer,"Composing machine operator",B+
+male,Robert,S,Scott,Scorpio,"Teletype operator",O+
+female,Eva,H,Pratt,Scorpio,"Metal caster",O+
+female,Sharon,B,Nau,Cancer,"Skin care specialist",O+
+male,Derrick,E,Morgan,Leo,Columnist,B+
+female,Jennifer,N,Maldonado,Scorpio,"Agricultural worker",O+
+male,Galen,B,Zinn,Aries,"Piano repairer",A-
+female,Nicole,M,Brown,Gemini,"Maintenance electrician",B+
+female,Geraldine,C,Moon,Virgo,"Identification clerk",B+
+male,Jason,S,Howe,Sagittarius,"Deputy sheriff",A+
+male,Kevin,A,Anderson,Cancer,"Water and wastewater treatment plant and system operator",O+
+female,Deborah,J,Owens,Virgo,"Electronic home entertainment equipment repairer",O+
+female,Candace,K,Johns,Scorpio,"Safety technician",O+
+male,Martin,N,Davis,Capricorn,"Electronic typesetting machine operator",A+
+male,Craig,E,Ziegler,Aquarius,"Social work policy maker",O+
+male,Robert,J,Fincher,Virgo,"Geological engineer",O+
+male,Jeff,M,Jackson,Pisces,"Employee welfare manager",B+
+female,Kathryn,L,Hansen,Gemini,"Payroll assistant",O+
+male,Bobby,H,Kimbrell,Virgo,"Hearing officer",A+
+male,John,H,Blanton,Capricorn,"Captive agent",A+
+female,Teresa,R,Johns,Aries,"Administrative office assistant",B+
+female,Joy,B,Davis,Scorpio,"Parole officer",B+
+male,Gale,D,Murillo,Scorpio,"Range scientist",O+
+female,Wanda,D,Conner,Pisces,"Technical sales manager",O+
+female,Natalie,P,Brenner,Libra,"Petroleum refinery operator",O+
+male,Ismael,C,Gore,Virgo,"School and college counselor",B+
+male,Richard,J,Jason,Taurus,"Vending machine technician",O+
+male,Michael,M,Bernal,Cancer,"Electronic publishing specialist",A-
+male,Daniel,D,Corbett,Aquarius,"Corporate recruiter",O-
+female,Laurie,A,Burton,Capricorn,Captain,B+
+male,Robert,B,Tower,Pisces,"Personnel director",B+
+female,Doris,W,Briner,Pisces,Archaeologist,B+
+female,Kimberly,B,McQuaid,Capricorn,"General trial court judge",A+
+female,Shannon,R,Hancock,Sagittarius,"Cementing and gluing machine tender",A+
+female,Betty,E,Hennen,Cancer,Linemen,A+
+male,Troy,P,Taylor,Aries,Dermatologist,O+
+female,Lois,M,Schwarz,Libra,Biometrician,B+
+female,Ida,J,Little,Libra,"Campaign manager",A+
+male,Walter,R,Keefe,Gemini,"Diesel train engineer",A-
+female,Kathy,D,Ervin,Aquarius,"Personnel recruiter",A+
+female,Daisy,L,Anguiano,Leo,Seismologist,O+
+female,Lynette,J,Latham,Sagittarius,"Range manager",O+
+female,Alice,A,Lemon,Taurus,Paleontologist,AB+
+male,Daniel,M,McCarthy,Pisces,"Human resources clerk",B+
+male,Sherwood,F,Bynum,Taurus,"Clock repairer",O+
+male,Neil,C,Habib,Gemini,"Adult basic education teacher",B+
+female,Gladys,R,Parker,Cancer,Engineer,B+
+male,Thomas,T,Rice,Leo,Groundskeeper,A+
+female,Sheila,B,Chen,Capricorn,"Vending machine technician",A+
+male,Jerry,V,Diggins,Libra,"Childcare worker",O+
+female,Kristie,G,Piland,Sagittarius,"Derrick operator",A+
+female,Lisa,A,Michaels,Sagittarius,"Bureau of Diplomatic Security special agent",O+
+male,Eric,K,Garcia,Pisces,"Medicinal chemist",A+
+male,Luke,S,Natale,Scorpio,"Junior high school teacher",B+
+male,Bruce,D,Gabriel,Taurus,Stevedore,A+
+male,Brian,B,Santos,Taurus,"Executive housekeeper",AB+
+female,Angela,N,Donahue,Aquarius,"Parole officer",A+
+male,Alexander,E,Gates,Cancer,"Private banker",B+
+female,Betty,T,Brown,Pisces,Manicurist,B+
+male,Douglas,J,Flores,Leo,"Delivery service driver",A-
+male,James,M,Battles,Taurus,"Window clerk",A+
+male,Joseph,D,Benitez,Capricorn,Marshal,B+
+female,Rayna,R,Hoffer,Libra,"Guitar repairer",A+
+female,Melissa,D,Frank,Scorpio,Midshipman,B+
+male,William,R,McCloud,Pisces,"Publicity writer",A+
+male,Richard,M,Littleton,Taurus,"ASE teacher",O+
+female,Erica,A,Goodwin,Virgo,"Telephone installer",O+
+male,John,M,Hooker,Virgo,"Diesel engine specialist",B+
+female,Brenda,S,Pigott,Sagittarius,"Fiscal and policy analyst",A-
+female,Linda,J,Stone,Scorpio,"Metal caster",O+
+male,Arthur,L,Farrelly,Sagittarius,Boilermaker,A+
+female,Gabriella,T,Bradford,Leo,"PBX operator",O+
+female,Katherine,G,Rideout,Aquarius,Dermatologist,A+
+male,Willis,E,Richardson,Sagittarius,"Adult basic education teacher",B+
+male,Kraig,K,Hidalgo,Cancer,Phlebotomist,O+
+female,Angie,J,King,Virgo,Logistician,A-
+male,Francisco,B,Morris,Pisces,"Tax assessor",A+
+male,Carl,T,Carrero,Gemini,"Plating and coating machine setter",B+
+female,Samantha,S,Ridenour,Libra,"Electrical drafter",A+
+female,Jan,I,Pulido,Sagittarius,"Chiropractic doctor",O+
+female,Teresa,O,Ortiz,Pisces,"Commercial lender",O-
+male,Tom,Z,Olguin,Scorpio,Coach,B+
+male,Russ,S,Miller,Capricorn,"Vending machine servicer",O+
+female,Alexia,R,Wood,Leo,"Telephone service representative",B+
+male,Jose,J,Hamilton,Gemini,"Gas furnace installer",O-
+male,Kenneth,W,Gunn,Cancer,Nannie,O+
+male,Lester,T,Jaramillo,Sagittarius,"Occupational health and safety inspector",A+
+male,Michael,B,Malone,Gemini,"Paste-up worker",B+
+male,Charles,K,Carter,Cancer,"Music arranger",O+
+female,Melanie,A,Carstens,Pisces,Manager,AB+
+male,William,G,Simmons,Virgo,"Creative director",O-
+male,Douglas,S,Delatte,Aquarius,"Meat cutter",O-
+male,Robert,M,Perez,Capricorn,Archivist,A-
+male,Gregory,B,Penn,Cancer,"Dance captain",O+
+female,Debbie,P,Huggins,Aquarius,"English as a second language teacher",O+
+male,James,K,Stone,Leo,"Pediatric nurse",A+
+male,Donald,D,Caldwell,Virgo,"FBI agent",O-
+male,Timothy,S,Smith,Taurus,"Linguistic anthropologist",A-
+female,Kathleen,E,Wyatt,Pisces,"Building inspector",A+
+female,Mary,J,Stokes,Leo,"File clerk",O+
+male,Kyle,S,Love,Virgo,"Cost/investment recovery technician",O+
+male,John,N,Meza,Aquarius,"Pesticide sprayer",O+
+male,German,V,Peterson,Aquarius,Neuropsychologist,O+
+male,Jerry,K,McCall,Virgo,"Military occupation",O+
+female,Edwina,L,Hale,Gemini,"Military occupation",O+
+female,Teresa,G,Hunt,Sagittarius,Neuropsychologist,A+
+female,Mireya,D,Runyan,Capricorn,"Refractory mason",B+
+female,Willie,N,Troutman,Leo,"Podiatric surgeon",A+
+female,Jaclyn,W,Davis,Virgo,"Support service manager",A+
+male,Michael,C,Dabney,Pisces,"Brake repairer",O+
+male,Clarence,R,Rodriguez,Libra,"Leather worker",O+
+female,Maragaret,J,Elliot,Aries,"Billing and posting machine operator",AB+
+male,William,B,Hillman,Capricorn,"Electronic drafter",AB+
+female,Vivian,C,Brown,Gemini,"Oral and maxillofacial surgeon",B+
+female,Liliana,J,Tarbox,Gemini,"GED teacher",A+
+female,Margaret,M,Ayala,Virgo,"Stucco mason",A+
+female,Kimberly,M,Olsen,Cancer,"Employment recruiter",B+
+female,Linda,F,Jefferson,Virgo,"Fire fighter",B+
+male,Paul,D,Zander,Pisces,"Electromechanical engineering technician",A+
+female,Jennifer,J,Martinez,Pisces,"Mail sorter",O+
+female,Mary,G,Ruhl,Libra,Pediatrician,A+
+female,Julie,A,Prescott,Gemini,"Textile knitting and weaving machine operator",A+
+male,Alex,C,Shine,Sagittarius,"Copy editor",B+
+male,Lee,N,Zimmerman,Leo,"Banker investigator",O+
+male,Fermin,E,Smith,Scorpio,"Carpet, floor, and tile installer",O+
+female,Gloria,J,Byrd,Cancer,"Assistant editor",O+
+male,Lynn,M,Green,Libra,"Marble setter",A+
+male,Christopher,P,Frederick,Gemini,"Truck dispatcher",A-
+male,Everett,B,Cunningham,Leo,Gastroenterologist,A+
+male,John,G,McCann,Libra,"Private accountant",B+
+male,Edward,M,Wilson,Sagittarius,"Building consultant",B+
+male,Keith,K,Lane,Capricorn,"Music arranger",B+
+female,Jennifer,M,Lea,Gemini,"Coil finisher",O+
+female,Janet,J,York,Virgo,"Tractor-trailer driver",AB+
+male,Denny,K,Armstrong,Scorpio,"Funeral manager",B+
+female,Peggy,D,Weston,Scorpio,"Systems programmer",O+
+male,Harvey,G,Hughes,Pisces,Tester,B+
+female,Kelli,C,Fitzhugh,Capricorn,"Training and development manager",O+
+male,Shane,M,Harrell,Libra,Obstetrician,AB+
+male,James,H,Brown,Capricorn,"Fork lift driver",A-
+female,Susan,D,Dennis,Capricorn,"Lease driver",O+
+female,Ruth,G,Burris,Scorpio,Concierge,B+
+male,George,M,Burrow,Pisces,"Mold and model maker",B+
+female,Cheryl,L,Hood,Aries,"Public relations coordinator",B+
+male,Robert,M,Swan,Gemini,"Real estate appraiser",O+
+male,Eugene,C,Rumph,Pisces,"Gas compressor operator",A+
+male,Wendell,O,Jackson,Pisces,"Agricultural engineer",A+
+female,Elizabeth,J,Bowman,Taurus,"Transportation, storage, and distribution manager",AB+
+female,Heather,A,Witt,Capricorn,"Gaming dealer",B+
+female,Lois,J,Mosely,Sagittarius,"Credit counselor",AB+
+male,Chad,J,Malone,Taurus,"Credit analyst",A+
+male,James,D,Thomson,Cancer,"Public health dentist",A+
+male,Steven,W,Alling,Aries,"Executive assistant",O+
+male,Rick,M,Gonzalez,Gemini,"Support staff specialist",A-
+male,Guadalupe,K,Cothern,Aries,"Urban planner",A+
+female,Jackie,L,Asbury,Pisces,"Sociocultural anthropologist",O+
+male,William,S,Reyes,Cancer,"Natural sciences manager",A+
+male,Derrick,A,Buchanan,Pisces,Composer,B+
+female,Lorraine,R,Harris,Capricorn,"Floor sander",O-
+male,Franklin,S,Beavers,Capricorn,"Executive recruiter",A+
+female,Sandra,W,Douthitt,Capricorn,Packager,O+
+female,Regina,A,Spangler,Taurus,"Control room assistant",B+
+female,Eleanor,W,Boyd,Sagittarius,"Molding, coremaking, and casting machine operator",O-
+male,Austin,S,Bailey,Taurus,"Pipe organ repairer",AB+
+female,Karen,D,Fagin,Aquarius,"Agricultural laborer",A+
+female,Deborah,K,Martinez,Gemini,"Airbrush artist",O-
+female,Rita,P,Beaver,Virgo,"Film and video editor",O+
+female,Dawn,D,William,Cancer,"Corporate office services manager",AB+
+male,Rafael,M,Sandlin,Cancer,"Railroad brake, signal, and switch operator",A+
+male,Phillip,G,Benn,Virgo,"Education planner",A+
+female,Regina,B,McElligott,Taurus,"Log sorter",A+
+female,Kristin,W,Arreguin,Virgo,"Construction electrician",A+
+female,Kimberly,D,House,Libra,"CAD operator",O+
+female,Ramona,B,King,Libra,Paperhanger,B+
+female,Kimberly,W,Ono,Aries,"Broker associate",B+
+male,Roger,M,Kennedy,Aries,"Gas compressor operator",A+
+male,Richard,R,Dearborn,Taurus,"Executive administrative assistant",B+
+female,Hedy,L,Hedrick,Taurus,"Business office manager",O+
+male,Jaime,E,Woo,Pisces,"Fish and game warden",O+
+female,Darla,L,Roberge,Sagittarius,"Sales worker",B+
+female,Estelle,J,Simon,Virgo,"Greenhouse manager",B+
+male,Brad,M,Browder,Taurus,"Oral pathologist",A+
+male,Joshua,H,Penaflor,Scorpio,"Aircraft and avionics service technician",B+
+female,Stacy,T,Cooper,Aquarius,Printmaker,A+
+female,Martha,B,Reed,Pisces,"Construction mechanic",A+
+female,Sandra,M,Pease,Scorpio,"Deputy sheriff",B+
+male,Calvin,G,Gonzalez,Gemini,"Merchandise displayer",A-
+female,Eleanor,A,McCabe,Cancer,"Process technician",B+
+female,Ada,L,Thrower,Taurus,"Pesticide vegetation",O+
+male,Ronald,C,Trevino,Virgo,"College counselor",B+
+female,Herta,C,Phan,Aries,"Composing machine tender",B+
+male,David,C,Wilson,Aquarius,Masseuse,A+
+male,Terry,J,Davis,Aquarius,"Elevator repairer",B+
+female,Hortencia,B,Sanders,Libra,"Journeymen lineman",A-
+female,Janice,J,Gonzalez,Libra,"Horticultural specialty farmer",A+
+male,Harry,L,Rogers,Sagittarius,Mortician,A-
+female,Hollie,R,Harewood,Aquarius,"Airbrush artist",O+
+female,Beverly,T,Mack,Taurus,"Medical equipment repairer",B+
+male,Timothy,L,McKinney,Capricorn,"Street vendor",O+
+male,Mark,E,Troutman,Virgo,"Reinforcing iron and rebar worker",B+
+male,Bradley,L,Arvizu,Sagittarius,"Benefits clerk",O+
+male,Julius,L,Otto,Sagittarius,"Harbor pilot",O+
+female,Candice,I,Carroll,Sagittarius,"Linguistic anthropologist",O-
+female,Yolanda,M,Edwards,Capricorn,"Industrial therapist",A+
+male,Lee,R,Cervantes,Virgo,Steamfitter,O+
+female,Anna,M,Higgins,Virgo,"Clerical specialist",A+
+male,David,J,Hannum,Libra,Mason,B+
+female,Wendy,R,Coleman,Virgo,"Administrative project coordinator",AB+
+female,Gladys,N,Chausse,Gemini,"Payroll coordinator",B+
+male,Ira,M,Lapinski,Aries,"Hydraulic and pneumatic technician",O+
+female,Barbara,R,Hisle,Pisces,Limnologist,B+
+female,Stacey,J,Gary,Cancer,"Creative director",B+
+male,Michael,I,Morrison,Taurus,"Log mover",O+
+female,Veronica,R,Farmer,Sagittarius,"Emergency care nurse",B+
+male,Christopher,Z,Lucas,Aquarius,"Legal assistant",B+
+female,Martha,A,Dubose,Cancer,"Loading machine operator",B-
+male,Kevin,M,Ivey,Scorpio,"Gaming services",A+
+female,Lila,M,Toland,Virgo,"Personal and home care aide",O+
+female,Christine,C,Cummings,Aries,"CAD operator",O+
+male,Edwin,P,Morgan,Aquarius,"Animal care and service worker",A+
+female,Helen,K,Gibbs,Pisces,"PBX operator",O+
+female,Brandi,B,Castillo,Aquarius,Teller,A+
+male,Michael,V,Long,Pisces,Maid,B+
+male,Taylor,C,Blanchard,Aquarius,"School bus driver",B+
+female,Lula,D,Santistevan,Cancer,Pedicurist,B+
+female,Linda,M,Conley,Sagittarius,"Benefits clerk",O+
+male,Todd,L,Howard,Gemini,"Staff development specialist",A+
+male,Lawrence,M,Jordan,Sagittarius,Gastroenterologist,A+
+male,Marco,H,Williams,Pisces,"Athletic trainer",A+
+male,Kyle,B,Sims,Taurus,"Health information technician",O+
+female,Katherine,K,Lawrence,Cancer,"Personnel administrator",B+
+female,Stephanie,S,Beane,Taurus,"Occupational therapist assistant",B-
+male,Daniel,K,Watts,Cancer,"Highway patrol officer",A+
+female,Teresa,C,Taylor,Aquarius,"Professional property manager",O+
+female,Marilyn,A,Fox,Pisces,"Painting restorer",B+
+male,William,K,Carlsen,Cancer,Pediatrician,O+
+male,Steven,C,Johnson,Capricorn,Cardiographer,O+
+male,William,D,Bennett,Capricorn,"Media outreach specialist",A+
+male,Juan,E,Brown,Gemini,Surgeons,B+
+female,Claudia,D,Meyer,Aquarius,"Probation officer",O+
+female,Mary,T,Thompson,Aquarius,"Otorhinolaryngology nurse",A+
+female,Michele,N,Gillard,Aquarius,"Mental health social worker",A+
+male,Robert,L,Logan,Libra,"Shipping-and-receiving supervisor",A+
+female,Tawanna,R,Hood,Aquarius,"Sawing machine operator",AB+
+male,Carl,M,Bynum,Libra,"Music instructor",AB+
+female,Jeanette,J,Green,Aries,"Maintenance machinist",A+
+female,John,C,Bradley,Aquarius,"Education administrator",AB+
+female,Christina,R,Marsh,Scorpio,"Ambulance attendant",A+
+female,Dolores,R,Battle,Libra,"Auxiliary equipment operator",O+
+female,Norma,J,Hoang,Libra,"Newsletter writer",O+
+female,Melissa,H,Tudor,Scorpio,"Data entry keyer",B+
+male,Jason,K,Kerrick,Aquarius,"Uniformed police officer",O+
+male,Ronald,J,White,Libra,"Technical trainer",O+
+female,Marilyn,W,Bennett,Cancer,"Vending machine technician",B+
+male,Jerome,M,Moore,Pisces,"Athletic trainer",A+
+male,Raymond,M,Wood,Sagittarius,"Clinical chemistry technologist",AB+
+male,Jason,M,McKinney,Scorpio,"ABE teacher",O+
+female,Beverly,W,Johnson,Sagittarius,"ATF agent",O+
+male,Donald,S,Ethier,Cancer,"English as a second language teacher",AB+
+female,Irena,O,Wilson,Cancer,"Construction mechanic",O+
+male,Keith,C,Olden,Leo,"Groundskeeping worker",O+
+female,Florence,M,Moreno,Capricorn,"Aircraft electrician",B+
+female,Chandra,J,Wood,Cancer,"Electrical and electronics engineering technician",B+
+female,Catherine,M,Hamilton,Capricorn,"Loss prevention agent",A+
+female,Rachel,B,Gordon,Libra,Dietitian,A+
+female,Sophia,A,Barfield,Virgo,"Customer services manager",A+
+female,Pat,C,Ladd,Gemini,"Educational counselor",O+
+female,Trina,S,Donahoe,Leo,"Payroll administrator",A+
+female,Leah,E,Teal,Libra,"Service station attendant",A+
+male,Michael,C,Buswell,Aquarius,"Bulldozer operator",AB+
+male,Manuel,B,Graham,Aries,"Control and valve installer",O+
+female,Kathy,J,Thompson,Libra,"Corporate administrative assistant",O+
+male,Jacob,A,Barry,Cancer,"Fine artist",O+
+female,Elizabeth,J,Hess,Sagittarius,"Cargo and freight agent",O+
+male,Terrell,N,Fortune,Aries,"Corporate administrative assistant",O+
+male,Nelson,D,Owens,Cancer,"Operations analyst",A+
+female,Ruth,D,Rose,Aries,"Aircraft electronic systems specialist",O+
+male,Herman,A,Patterson,Aries,"Medical laboratory technician",B+
+female,Mildred,L,Grimaldi,Libra,"Power tool repairer",A+
+female,Gillian,P,Russell,Aries,Hunter,A+
+female,Anne,A,Gordon,Gemini,Epidemiologist,O-
+female,Evelyn,K,Bradfield,Capricorn,"Museum director",B+
+male,James,D,Dallas,Scorpio,"Tour escort",O+
+female,April,G,Wessel,Taurus,"Cardiac and vascular nurse",A-
+female,Barbara,C,Emerson,Libra,"Grill cook",O-
+male,Justin,L,Bryan,Aries,"Wildlife officer",B+
+male,Clarence,R,Britton,Leo,"Locomotive engineer",B+
+male,Frank,C,Livingston,Cancer,"Travel adviser",B+
+male,Darryl,P,Noll,Aquarius,"Bench technician",AB+
+female,Lonna,R,Medrano,Leo,"Licensed vocational nurse",A+
+male,Jared,J,Downey,Aquarius,"Museum technician",O+
+male,John,J,Morris,Libra,"General clerk",B+
+female,Debra,C,Dodd,Sagittarius,"Voice writer",AB+
+female,Lisa,R,Jones,Scorpio,"Agent-contract clerk",O+
+female,Linda,J,Caldwell,Libra,Courier,A+
+male,Conrad,B,Rogers,Aries,"Poultry trimmer",O+
+male,Gerald,S,Lewis,Cancer,Sprinklerfitter,B+
+female,Megan,W,Nieves,Pisces,"Audio-visual collections specialist",O-
+male,Michael,A,Camp,Gemini,"Office support secretary",A+
+female,Isabel,K,Miranda,Libra,"Biomedical equipment technician",B+
+male,Jerome,J,Garcia,Taurus,"Financial investigator",A+
+female,Georgia,R,Scott,Sagittarius,"Structural metal fitter",B+
+male,Wayne,T,Brewer,Aries,"Prosthetics technician",O+
+female,Pauline,M,Fields,Virgo,Tilesetter,O+
+male,Matthew,M,Butterfield,Capricorn,"Tool filer",B+
+female,Mary,E,Huang,Aquarius,"Finance officer",B+
+female,Stacey,A,Taylor,Libra,"Engraver set-up operator",O+
+male,Kenneth,S,Hutchinson,Cancer,"English as a second language teacher",A+
+female,Latoya,C,Rubin,Virgo,"Sauce cook",A+
+female,Vesta,J,Im,Leo,"Regional planner",O+
+male,Salvatore,M,Sweeny,Gemini,Conciliator,AB+
+female,Diane,L,Parker,Scorpio,"Control room trainee",B+
+male,Albert,J,Hepburn,Cancer,"Travel clerk",O+
+male,Curtis,R,Turner,Sagittarius,"Uniformed police officer",O+
+male,Gonzalo,H,Austin,Cancer,"Map editor",A+
+female,Lara,B,Edwards,Leo,"Heat treating equipment setter",O+
+female,Carol,M,Latham,Gemini,"Design printing machine operator",B+
+female,Margaret,S,Rish,Gemini,"Data processor",O+
+male,Scott,A,Hayden,Taurus,"Multimedia artist",B+
+female,Theresa,L,Oleary,Pisces,Bookkeeper,B+
+female,Grace,R,Sheffield,Gemini,"Pulmonary function technologist",B+
+male,Robert,C,Billingsley,Gemini,"Publicity writer",B+
+male,Raymond,O,Landry,Aries,"Molding, coremaking, and casting machine tender",A+
+male,John,L,Weatherly,Libra,"Amusement machine repairer",O+
+female,Betty,G,Mitchell,Capricorn,"Camp director",A-
+female,Jill,C,Ambriz,Capricorn,"Store manager",B+
+female,Debra,E,Harris,Taurus,"Exercise instructor",A+
+male,Kevin,D,Thorne,Gemini,"Securities analyst",B+
+male,Jeff,N,Corriveau,Capricorn,Bailiff,O+
+male,Paul,S,Holmstrom,Leo,Recruiter,O+
+female,Gladys,R,Cordero,Pisces,"Mobile heavy equipment mechanic",A+
+male,Steven,J,Johnson,Libra,"Billing and posting machine operator",B+
+male,Jason,S,Anderson,Sagittarius,"Team assembler",B+
+male,Bill,A,Morales,Taurus,"Land acquisition specialist",O+
+male,Matthew,P,Elks,Cancer,"Wire installer",O+
+female,Rebecca,G,Smith,Leo,"Palliative care nurse",A-
+male,John,M,Holland,Pisces,"Tumor registrar",O+
+female,Glory,R,Garcia,Aries,Stratigrapher,B+
+female,Jackie,J,Aitken,Cancer,Constructor,A+
+male,Timothy,D,McWhorter,Leo,"Health education specialist",O+
+male,Ralph,J,Lawson,Taurus,"Painting restorer",O+
+female,Jennifer,K,Roper,Scorpio,"Lobby attendant",O+
+female,Carla,B,Hubbard,Scorpio,"Sales worker supervisor",A+
+male,Joshua,E,Murphy,Taurus,"Video camera operator",O+
+female,Edith,R,Serna,Capricorn,"Garment presser",AB+
+male,Richard,K,Martinez,Scorpio,"Manufactured building and mobile home installer",B+
+male,Robert,S,Lyles,Aries,"Construction cost estimator",B+
+female,Tonya,J,Thomason,Aries,"Funeral attendant",A+
+female,Kathleen,C,Walker,Pisces,"Residential electrician",B+
+male,Clarence,J,Marsden,Taurus,Typographer,O+
+female,Jessica,G,Holbert,Gemini,"Occupational health and safety inspector",B+
+male,Jason,G,Diaz,Gemini,"Gas compressor and gas pumping station operator",A+
+female,Irene,R,Jones,Gemini,"Organic chemist",O+
+female,Shirley,E,Etheridge,Cancer,"Horse trainer",B-
+female,Angeline,C,Moody,Virgo,"Systems developer",O+
+female,Asuncion,P,Steinmetz,Cancer,"Highway patrol officer",A+
+female,Betty,B,Dileo,Aquarius,Announcer,B+
+male,Kieth,E,Leslie,Aquarius,"Agricultural product sorter",B+
+male,Robert,T,Cooper,Aquarius,"Boiler mechanic",A+
+female,Myrna,D,Phelps,Gemini,"Training and development specialist",O+
+female,Amy,H,Dennis,Virgo,"Arc cutter",A+
+female,Tiny,D,Kelly,Capricorn,"Carpet, floor, and tile finisher",B+
+female,Susan,R,Scanlon,Taurus,"Heat treating equipment setter",O+
+male,Jorge,J,Parham,Libra,"Law librarian",A+
+male,Michael,D,Wyatt,Libra,"Staff development specialist",A+
+female,Mary,G,Kyler,Virgo,"Human resources representative",A+
+female,Pauline,M,Murray,Sagittarius,"Certified public accountant",A+
+female,Jacqueline,D,Hong,Aries,"Support service manager",O-
+male,Glen,A,Gerhardt,Libra,"Loan collection officer",A+
+female,Shalonda,D,Renfro,Cancer,"Employment counselor",O+
+male,Justin,M,Nock,Aries,"Dividend clerk",O+
+male,Justin,C,Marsh,Sagittarius,"Office support team leader",O+
+female,Elizabeth,R,Stone,Aries,"Military officer",A+
+male,Christopher,K,Lock,Capricorn,"Mapping technician",O+
+female,Nora,L,Maldonado,Aries,"Tower controller",O+
+male,Brett,S,Gwynn,Sagittarius,"Electronic publishing specialist",B+
+male,Fabian,M,McCreary,Aries,Teller,B+
+male,Preston,D,Langford,Aquarius,Magistrate,B+
+male,Jason,J,Wallace,Scorpio,"Machine tender",O+
+female,Martha,J,Smith,Aquarius,"Tow truck dispatcher",A+
+female,Karen,R,Dunn,Cancer,Reporter,A-
+female,Sandra,G,Willson,Aquarius,"Community outreach worker",A+
+female,Helga,W,Carroll,Aries,"Enrollment specialist",B+
+female,Leslie,L,Mohr,Cancer,"Cleaning, washing, and metal pickling equipment tender",O+
+female,Princess,B,Carlson,Cancer,Blaster,O+
+male,Glenn,K,Conner,Capricorn,"Physician assistant",O+
+female,Deborah,D,Santos,Aquarius,"Placement counselor",O+
+female,Maggie,R,Hopkins,Virgo,Lyricist,A+
+male,Kim,E,Holland,Sagittarius,"Nurse educator",O+
+male,James,L,McIntyre,Aries,"Employment specialist",A+
+male,Salvador,M,Hoskins,Leo,"Grader operator",B+
+male,Royce,C,Barber,Aquarius,"Managing editor",O+
+female,Laura,C,Richards,Scorpio,"Teacher assistant",A+
+female,Tracy,W,Coleman,Aries,Upholsterer,A+
+female,Angela,M,Jones,Gemini,"Maxillofacial surgeon",B+
+male,Chad,M,King,Cancer,"Transportation engineer",A-
+male,Pierre,J,Hill,Gemini,"Electrical and electronics repairer",A+
+female,Stacy,T,Lees,Gemini,"Library media specialist",O+
+female,Elsie,E,Castile,Sagittarius,"U.S. Secret Service agent",B+
+female,Carol,B,Bible,Capricorn,"Bindery machine operator",A-
+male,James,E,Stein,Aquarius,"Travel guide",O+
+male,Leslie,M,Haley,Libra,"Mixing and blending machine tender",O-
+male,Donald,T,Whelan,Scorpio,"Palliative care nurse",A+
+female,Michelle,H,Keller,Pisces,"Childcare worker",O+
+female,Lucina,F,Hardin,Libra,"Library binding worker",A-
+female,Kara,M,Torres,Libra,"Advertising sales agent",A+
+female,Grace,A,Daniels,Libra,"Telecommunications line installer",O+
+female,Crystal,R,Hubbard,Virgo,"Computer systems analyst",B+
+female,Emily,B,Mendoza,Scorpio,"Fiscal technician",O+
+male,Wilbur,S,Martin,Scorpio,"Financial controller",O+
+male,James,C,Barrett,Pisces,"Sports trainer",O-
+female,Willie,C,Gibbs,Aries,"Data typist",A+
+male,Clyde,C,Harrison,Aries,"Electrical line worker",A+
+male,Bobbie,G,Guest,Taurus,"Top executive",O+
+female,Marion,S,Child,Scorpio,Rigger,O+
+female,Nora,D,Ebling,Cancer,"Computer security specialist",B+
+female,Virginia,E,Kan,Aquarius,"Athletic training instructor",B+
+male,Jamie,C,Montalvo,Leo,"Brokerage clerk",B+
+female,Tammy,K,Johnston,Taurus,"Risk and insurance manager",A+
+male,Calvin,E,West,Libra,"Pulmonary function technologist",O-
+female,Aimee,T,Rodriguez,Capricorn,"Recording engineer",O+
+female,Celesta,P,Richardson,Taurus,"Reservation and transportation travel clerk",B+
+male,Christopher,H,Williams,Cancer,"Support specialist",A+
+male,Steven,T,Lopez,Libra,"Aircraft electrician",O+
+male,William,V,Foxworth,Pisces,"Employment recruiter",O+
+female,Helen,W,Votaw,Libra,"Segmental paver",A+
+female,Doris,R,Politte,Taurus,"Metallurgical engineer",B+
+female,Alicia,P,Jones,Capricorn,"Safety and health practitioner",O+
+male,Harold,M,Ramirez,Gemini,"Administrative support manager",AB+
+male,Joseph,M,Reda,Gemini,"Mail clerk",O+
+male,Robert,J,Mather,Leo,"Laboratory animal technician",B+
+male,Robert,L,Douglas,Pisces,Measurer,AB+
+female,Cheryl,R,Foster,Scorpio,Pipelayer,B+
+male,Allan,J,Graves,Capricorn,"Service station attendant",O+
+female,Betty,S,Velez,Virgo,"Rental clerk",A+
+female,Betty,D,Ramos,Libra,"Fabric and apparel patternmaker",O+
+male,Fernando,S,Martinez,Taurus,"Geological engineer",A-
+male,Julian,S,Cook,Capricorn,"Theoretical mathematician",O-
+female,Juan,L,Gaiter,Scorpio,"Optometry doctor",B+
+female,Ruth,T,Cardwell,Libra,"Aerobics instructor",A+
+male,Frank,D,Alderman,Sagittarius,Mortician,A+
+male,Ronnie,D,Culberson,Taurus,"Diesel service technician",O+
+male,Larry,L,Gonzalez,Virgo,"Psychiatric nursing assistant",O+
+male,James,L,Sison,Sagittarius,"Material scheduling",B+
+male,Russell,B,Stephens,Gemini,"Sales engineer",O+
+male,Louis,A,Smith,Scorpio,"Lease driver",O+
+male,Jose,L,Backlund,Capricorn,Plumber,A+
+female,Cassandra,R,Ware,Libra,"Rigging chaser",A+
+female,Ann,F,Williams,Virgo,"Loss prevention agent",B+
+male,Jonathon,T,Shipp,Virgo,"Neonatal nurse",B+
+male,Forrest,S,Thomas,Gemini,"INS agent",AB+
+female,Denisse,A,Brooks,Cancer,"Custom inspector",A+
+female,Pamela,G,Newsom,Libra,"Animal scientist",A+
+male,Christopher,K,Ralph,Taurus,"U.S. marshal",O+
+female,Lacey,L,Jensen,Capricorn,"Ski patrol",A+
+female,Hilda,J,Carter,Taurus,"Child care worker",AB+
+female,Ellen,C,Medina,Leo,Farmworker,O-
+female,Margaret,W,Spurgeon,Aquarius,"Tax accountant",A+
+female,Judith,R,Andre,Aquarius,"Forest and conservation worker",O+
+female,Frances,M,Brunson,Scorpio,"Disc jockey",A+
+female,Deanna,A,Warren,Taurus,"Registered nurse",O+
+male,Jack,H,Rodriguez,Sagittarius,"Grounds maintenance worker",A+
+female,Katherine,S,Plante,Virgo,"Industrial hygienist",O+
+male,Steven,M,Chittum,Taurus,Marshal,B+
+male,Raymond,A,Markle,Capricorn,Videographer,A+
+male,John,B,Correa,Leo,"Court officer",B+
+female,Barbara,C,Hardee,Leo,"Sewage treatment plant operator",B+
+female,Amanda,D,Johnson,Virgo,"Licensed clinical social worker",A+
+female,Michelle,R,Lee,Pisces,"Tractor-trailer driver",A+
+male,Pedro,K,English,Scorpio,Prosecutor,B+
+female,Jennifer,M,Robin,Leo,"Advisor investigator",O+
+male,Mauricio,L,Walter,Libra,"Load dispatcher",B+
+female,Myrle,D,Baldwin,Pisces,"Placement counselor",B+
+male,Micheal,M,Griffin,Taurus,"Material scheduling",A+
+female,Nikki,J,Stewart,Libra,"Gaming services",O+
+male,Jason,A,Philson,Taurus,"Water transportation master",A-
+female,Sarah,L,Carpenter,Scorpio,"Information specialist",A+
+female,Willa,J,Surber,Libra,"Teller supervisor",O+
+male,Albert,B,Johnson,Scorpio,"Aircraft pilot",O+
+female,Sandra,S,Lott,Taurus,"Pharmacy technician",B+
+male,Clinton,F,Moreland,Cancer,Playwright,O+
+male,Michael,D,Wright,Virgo,"Food and beverage manager",O+
+male,Frank,R,Johnson,Gemini,"Sawing machine tender",O+
+female,Donna,P,Lee,Capricorn,"Personnel assistant",A+
+female,Melissa,R,Grande,Sagittarius,"Employee relations manager",O+
+male,Sal,A,Hause,Aries,"Employment interviewer",O+
+female,Patricia,G,Luttrell,Leo,Radiologist,B+
+male,James,D,Martinez,Aries,"Vascular technologist",B+
+male,Adrian,A,Kelley,Cancer,"Medical social worker",B+
+male,William,L,Robinson,Taurus,"Elevator repairer",A+
+male,Terry,M,Schroder,Aries,"Strength trainer",O-
+female,Mary,M,Shor,Aries,"Shuttle car operator",O+
+male,Eugene,A,Hebert,Aquarius,"Street vendor",O+
+male,Joseph,J,Sheets,Scorpio,"Power tool repairer",O+
+male,Jesse,T,Lambert,Cancer,"Court officer",B+
+female,Amanda,M,Martelli,Leo,"Railroad signal operator",A-
+female,Jay,T,Scales,Gemini,"Medical records and health information technician",B+
+female,Jody,H,Hinton,Taurus,"Transportation equipment painter",O+
+male,Robert,M,Stevenson,Libra,"Experimental psychologist",B+
+male,James,T,Williams,Capricorn,"Cutting, punching, and press machine setter",O+
+female,Mary,M,Mayers,Capricorn,"Human resources administrative assistant",B+
+male,Phillip,B,Pike,Libra,"Engine and other machine assembler",O+
+female,Kelsey,C,Cordero,Taurus,"Flight attendant",O+
+male,Kenny,C,Delia,Aries,"Fitness worker",A+
+male,William,C,Nino,Sagittarius,"Vocational nurse",O+
+female,Esther,J,Brooks,Virgo,Biophysicist,O+
+male,John,A,Myers,Gemini,"Mental health assistant",B-
+female,Rebecca,D,Black,Aquarius,"Behavioral disorder counselor",B+
+female,Billy,R,Smith,Aries,Paramedic,O+
+female,Sarah,R,Hupp,Capricorn,"Gaming and sports book writer",O+
+female,Velma,C,Griffin,Virgo,Facilitator,B+
+male,Harold,C,Townsend,Taurus,"Professional sports scout",O+
+male,Jonathan,B,Ventura,Capricorn,"Forging machine operator",B+
+male,Jim,S,Irizarry,Virgo,"Crushing, grinding, and polishing machine operator",O+
+female,Helen,W,Najar,Cancer,Dermatologist,A+
+female,Angela,W,McCoy,Aries,"Ship officer",B-
+male,Ken,V,Jones,Capricorn,"Lens grinder",O+
+female,Nevada,W,Bader,Leo,"Business office manager",O+
+female,Jessica,M,Lanham,Pisces,"Telecommunications line installer",B+
+female,Maria,F,Follett,Taurus,"General internist",AB+
+female,Deanna,J,Scott,Taurus,"Employment specialist",B+
+male,Lewis,M,Kratz,Aries,"Management consultant",O+
+male,Jarrod,M,Taylor,Scorpio,"Internet developer",B+
+female,Jessie,R,Gonzalez,Pisces,"Airline copilots",O+
+male,Marco,H,Simoes,Pisces,"Refractory materials repairer",AB+
+male,Marshall,I,Tate,Scorpio,Electrologist,O+
+female,Roberta,F,Veith,Virgo,"Audio control engineer",O+
+female,Heather,L,Windham,Cancer,"Subway operator",B+
+female,Kira,K,Marcum,Scorpio,"Audio control engineer",A+
+female,Jeannette,G,Kirkpatrick,Libra,"Nurse aide",O+
+female,Lori,S,Rogers,Aries,Detective,AB+
+male,Karl,D,Asmus,Scorpio,"CNC operator",O+
+male,James,L,Olmstead,Leo,Linemen,A+
+female,Carla,D,Baeza,Libra,"Personal care aide",B-
+female,Colleen,D,Burke,Aries,"Brokerage clerk",B+
+female,Patricia,W,Mann,Capricorn,Paraeducator,B+
+female,Mollie,J,Richards,Sagittarius,"Administrative support services director",B+
+female,Janice,J,Letellier,Libra,"Armed Forces",B-
+male,Danny,J,Haynes,Aquarius,"EKG technician",A-
+male,Roy,M,Green,Taurus,"Payroll administrator",O+
+male,Jason,D,Rhoades,Leo,"Project manager",B+
+male,Justin,J,Hardy,Leo,Checker,B+
+female,Melissa,H,Church,Virgo,"Clerical supervisor",A+
+male,Gabriel,M,Bussiere,Aquarius,"Radiologic nurse",B+
+female,Lilia,F,Fields,Aquarius,"Sports book runner",A+
+female,Alison,M,Hundt,Cancer,"Construction laborer",B+
+male,Mark,D,Millwood,Virgo,"Amusement and recreation attendant",A+
+female,Eula,B,Lietz,Gemini,"Closing agent",B-
+male,Garry,M,Batres,Gemini,Plumber,O+
+female,Jessica,D,Williams,Taurus,Administrator,AB+
+male,Vernon,T,Martinez,Leo,"Human resources consultant",B+
+male,Robert,C,Wilson,Aquarius,"Power tool repairer",A+
+male,Richard,M,Ly,Sagittarius,Newscaster,B+
+male,Samuel,B,Hughes,Libra,"Bindery machine operator",B+
+male,Aaron,M,Duggan,Cancer,Demographer,O-
+female,Karin,W,Dixon,Gemini,"University faculty",A+
+male,Ryan,P,Pettengill,Gemini,"Food and tobacco roasting, baking, and drying machine operator",B+
+male,Joseph,L,Taylor,Virgo,"Digital imaging technician",B+
+female,Yolanda,M,Bauer,Aquarius,"Motel desk clerk",B+
+female,Kelly,H,Tran,Aries,"Network and computer systems administrator",B+
+male,Thomas,E,Mifflin,Pisces,"Sound engineering technician",B+
+male,Melvin,C,Bush,Scorpio,"Combined food preparation and serving worker",O+
+male,Sonny,J,Kane,Capricorn,"Bartender helper",O+
+male,Pedro,I,Rosa,Capricorn,"Design printing machine operator",A+
+female,Debbra,R,Brandon,Pisces,"Heavy vehicle and mobile equipment service technician",O-
+male,Joshua,A,McCary,Libra,"Structural metal fabricator",A+
+male,George,M,Ellis,Leo,"Conservation technician",A+
+female,Vera,F,Leverett,Gemini,"Elevator installer",A+
+female,Deanna,O,Osorio,Leo,"Agent-contract clerk",B+
+female,Devon,A,Hunter,Taurus,"Library binding worker",O+
+female,Ellen,J,Sweeney,Capricorn,"Conservation scientist",O+
+female,Jean,R,Lambert,Libra,"Sports book writer",A+
+female,Leila,B,Kaminski,Leo,"Medical laboratory technologist",B+
+female,Marie,J,Mackenzie,Pisces,"Costume attendant",B+
+male,Raymond,K,Hagan,Cancer,"Patient educator",O+
+male,Harvey,M,Walker,Gemini,Teller,O+
+female,Laura,G,Johnston,Virgo,"Electronic reporter",A+
+female,Cynthia,D,Cloud,Cancer,"Restaurant chef",O+
+male,William,J,Robinson,Cancer,"Ground controller",A+
+female,Kisha,B,Miller,Taurus,Encoder,B+
+female,Jean,J,Williams,Cancer,"Cutting and slicing machine tender",O+
+male,Johnny,E,Campbell,Libra,"Pretrial services officer",O+
+male,Carlos,I,Zehr,Scorpio,"Dance captain",B+
+female,Lucile,A,Johnson,Libra,"Home entertainment service technician",B+
+female,Brenda,N,Adamek,Aries,"Child protective services social worker",A+
+female,Sheri,A,Doi,Gemini,"Professional scout",O+
+male,Lane,J,Gardner,Cancer,"Preschool teacher",A-
+female,Sharon,J,Bracy,Cancer,"College instructor",O+
+male,Danny,L,McKenzie,Libra,"Wealth manager",B+
+male,Lester,N,Force,Leo,Midshipman,A+
+female,Pamela,C,Byrnes,Sagittarius,Sheriff,O+
+male,Robert,S,Pate,Pisces,"Audio control engineer",A+
+female,Linda,R,Dibble,Leo,"Floor finisher",O+
+male,Garrett,N,Hitchcock,Aries,Army,O+
+female,Iola,H,Tiernan,Capricorn,"Life Guard",A-
+male,Larry,J,Boddy,Virgo,"Refrigeration mechanic",A+
+male,Erick,J,Floyd,Taurus,"Radio announcer",O+
+male,Frank,M,Bonilla,Capricorn,"Physical therapist aide",O+
+male,Harold,B,Collier,Scorpio,"Maintenance electrician",B+
+male,Jeff,D,Spears,Capricorn,Shaper,O+
+female,Pamela,R,Ruth,Sagittarius,"Credit checker",O+
+male,Cristopher,D,Dubois,Virgo,Climatologist,O+
+female,Patricia,W,Dunn,Virgo,"Computer chip processor",O+
+male,Rex,T,Sanchez,Virgo,"Criminal investigator",O+
+male,Frederick,B,Ward,Taurus,"Chemical engineer",A+
+female,Bernadette,C,Tussey,Aquarius,"Gaming change person",A+
+male,William,I,Pryor,Capricorn,"Aircraft structure assembler",O+
+female,Nancy,M,Sanders,Capricorn,"Portfolio manager",O+
+female,Bettie,C,Wall,Gemini,"Surgical nurse",A+
+female,Virginia,J,Cockrum,Capricorn,"Reinforcing iron and rebar worker",A+
+male,Jeff,T,Santiago,Capricorn,"Electronic publishing specialist",O+
+male,Francisco,L,Haynes,Pisces,"Design consultant",O+
+male,Bernie,F,Davidson,Aquarius,"Oxygen therapist",B+
+female,Shari,L,Avery,Taurus,"Air Force",O+
+female,Emma,C,Paulk,Libra,Translator,A+
+female,Esperanza,V,Collins,Taurus,"Medical doctor",B+
+male,James,C,Miller,Libra,Chef,A+
+male,Timothy,M,Robbins,Virgo,"Registered representative",A+
+male,Arthur,W,Noel,Gemini,Cardiologist,O+
+female,Barbara,N,Boyce,Virgo,"Ticket clerk",B+
+female,Gayle,D,Kennedy,Sagittarius,"Keypunch operator",O+
+male,Carlos,E,Shiflet,Cancer,"Gaming machine servicer",O+
+female,Judith,C,Flinn,Leo,"Credit clerk",B+
+female,Latasha,B,Ayotte,Gemini,Commentator,AB+
+male,Calvin,J,Reese,Libra,"Estimator project manager",O+
+male,Michael,C,Dudley,Aries,"Aircraft pilot",A-
+male,Robert,S,Lee,Sagittarius,"Mail sorter",AB+
+male,Conrad,M,Cook,Virgo,"Semiconductor processor",B+
+male,Aaron,G,Coronado,Scorpio,Captain,O+
+male,Michael,K,Bergeron,Scorpio,"Braille clerk",O+
+female,Janis,C,Lopez,Pisces,"Social and community service manager",AB+
+female,Stacey,J,Rau,Scorpio,"Administrative office specialist",A+
+male,Tyson,C,Howard,Sagittarius,"Coil finisher",B+
+male,John,C,Arce,Libra,"Corporate recruiter",O+
+female,Julia,M,Carpenter,Capricorn,"Appliance repairer",B+
+male,Ramon,E,Ramsey,Aries,"Mixing and blending machine setter",A+
+female,Chelsey,D,Paul,Pisces,"School psychologist",B+
+male,Dallas,M,Poston,Capricorn,"Accounts payable clerk",A+
+male,Robert,M,Rogers,Cancer,"Environmental technician",O+
+male,Steven,J,Burgos,Virgo,"Real property assessor",A+
+female,Ashley,J,Spillman,Aquarius,"Systems software engineer",B+
+female,Mary,A,Brown,Aries,"Claims investigator",A+
+female,Miriam,D,Whitehair,Capricorn,"Groundskeeping worker",O+
+male,Tyrone,L,Waddell,Leo,"Athletic director",AB+
+female,Ashley,D,Weston,Aries,"Engineering technician",B+
+male,Johnny,P,Burgett,Leo,"Elevator installer",A-
+male,Clifford,E,Locascio,Capricorn,"Social psychologist",O+
+female,Jean,T,Landers,Sagittarius,Illustrator,O+
+female,Doris,K,Holliday,Aries,Typist,O+
+female,Brenda,D,Douglas,Capricorn,"Human resources consultant",O+
+male,David,C,Dawson,Aquarius,"Data input clerk",O+
+male,Jean,N,Adams,Gemini,Prosthodontist,O+
+male,Christopher,S,Gipson,Virgo,Electrician,A+
+female,Mia,G,Joyner,Virgo,"Composing machine operator",O+
+male,Trevor,D,Johnson,Capricorn,"Interior decorator",B+
+male,Lucas,M,Dove,Scorpio,"Medical writer",A+
+female,Laurie,J,Murrell,Capricorn,"Hand sewer",A+
+female,Elizabeth,D,White,Gemini,"Tumbling barrel painter",O+
+male,Victor,M,Robinson,Virgo,"Excavating operator",A+
+female,Ruth,D,Pierce,Scorpio,"Mental health assistant",A+
+female,Rita,P,Yates,Sagittarius,"Water and liquid waste treatment plant and system operator",B+
+female,Cora,R,Doherty,Aries,Undertaker,O+
+male,Alphonso,L,Hunt,Leo,"Video camera operator",O+
+male,Everett,D,McGeehan,Pisces,"Sports book writer",B+
+male,Steve,D,Vaughn,Pisces,"Electrical and electronics installer",AB+
+male,Jeffrey,A,King,Capricorn,"Personnel training officer",O+
+male,John,K,Stearns,Scorpio,"Administrative supervisor",A+
+male,Jimmy,K,Graham,Sagittarius,"Horse trainer",B+
+female,Hildegard,G,Davenport,Cancer,"Clinical laboratory technician",A+
+female,Millicent,A,Fink,Leo,"Perioperative nurse",O+
+female,Molly,H,Anderson,Sagittarius,"School librarian",O+
+female,Jaqueline,A,Pereira,Libra,Adjudicator,B+
+male,James,J,Sherron,Sagittarius,"Packaging and filling machine tender",O+
+male,Jason,C,Ewing,Capricorn,"Computer software engineer",B+
+female,Andrea,J,Prince,Taurus,"Electrical and electronics installer",O+
+female,Mary,W,Daniels,Cancer,Blaster,A+
+male,Robert,E,Hiatt,Virgo,"Shipping-and-receiving supervisor",O+
+male,Gary,H,Piedra,Scorpio,"Survey researcher",B+
+female,Bethany,R,Brewer,Sagittarius,"Voice writer",O-
+male,John,C,Baker,Cancer,"Studio camera operator",O+
+male,Russell,Y,Whitsett,Pisces,"Payroll clerk",B+
+male,Howard,F,Bishop,Leo,"Employment and placement manager",A+
+female,Linda,C,Hodges,Libra,"Railroad engineer",O+
+female,Debbie,M,Maddox,Capricorn,Florist,B+
+female,Betty,R,Whalen,Libra,"Cooperative manager",O+
+male,Earl,B,Marrero,Aries,"Print binding and finishing worker",A-
+male,Glenn,D,Lister,Virgo,"Fitness director",O+
+male,James,C,Baez,Leo,"School psychologist",B-
+male,Michael,P,Briseno,Pisces,"Accounts receivable clerk",O+
+male,Jason,E,Kirkpatrick,Capricorn,"Lead abatement worker",O+
+female,Heather,K,Brooks,Sagittarius,Biostatistician,O+
+male,Bryan,R,Edwards,Capricorn,Abstractor,O+
+male,Chad,S,Hailey,Capricorn,"Independent agent",O+
+male,George,M,Pugliese,Sagittarius,"Credit clerk",A+
+female,Margaret,J,Tipton,Cancer,"Communications specialist",O+
+female,Andria,T,Welch,Taurus,"Long-term care facility nurse",O+
+female,Geneva,J,Riney,Virgo,"Horse breeder",O+
+male,Adam,K,Ridder,Taurus,"Information designer",A+
+male,Kelvin,D,Ford,Aquarius,Oceanographer,A-
+female,Kristen,M,Adams,Libra,"Market research manager",O+
+male,Robert,E,Todd,Aries,"Metal pourer",O+
+male,Patrick,B,Pollock,Libra,"Publications specialist",O+
+male,Mark,T,Jackson,Taurus,Drafter,A+
+female,Elizabeth,L,Young,Gemini,"Meat packer",A+
+male,Robert,L,Fife,Cancer,"Powerhouse electrician",B+
+female,Michelle,A,Vaughn,Leo,"Office manager",O+
+female,Alexandra,L,Hann,Leo,"Mining and geological engineer",B+
+male,Richard,J,Walters,Virgo,"Product development manager",O+
+male,Richard,L,Page,Scorpio,"Environmental engineer",O+
+female,Sabrina,C,Smith,Capricorn,"Clinical manager",O+
+female,Mildred,A,Carrier,Virgo,"Product designer",B+
+female,Donna,J,Rushing,Virgo,"Landscape designer",B+
+male,Robert,S,Davis,Virgo,"Administrative assistant",A+
+male,Donald,N,Ball,Cancer,"Material dispatching",O+
+female,Michelle,J,Franks,Libra,"Electronic drafter",O+
+female,Delois,B,Howard,Leo,"Control room assistant",A+
+female,Constance,D,Rivera,Libra,Fumigator,B+
+female,Erica,E,Kemp,Capricorn,"Human resources information system specialist",O+
+female,Carolyn,E,McKinney,Gemini,"Liquid waste treatment plant and system operator",A-
+male,Willie,E,Albanese,Gemini,"Landscaping worker",O+
+female,Candi,B,Rowland,Gemini,"Lodging manager",O+
+male,James,G,Hosley,Capricorn,"Industrial machinery mechanic",B+
+male,Lorenzo,C,Miller,Aquarius,"Painting and coating worker",O+
+male,Edwin,H,White,Cancer,"Telephone repairer",A+
+female,Ashley,F,Ames,Taurus,"Cardiographic technician",A+
+male,Thomas,M,Rowe,Capricorn,Lithographer,B+
+male,Leonardo,D,Norris,Aquarius,Coache,O+
+female,Norma,W,Turnbow,Libra,"Chief executive officer",O+
+male,Chad,S,Whitney,Gemini,"Laundry and dry-cleaning worker",B+
+female,Linda,K,Loving,Aries,"Corporate office services manager",O+
+male,Lee,J,Poirier,Leo,"Tumor registrar",O-
+male,Gregory,K,Solt,Aries,"Packaging and filling machine operator",A+
+male,Samuel,R,Allen,Sagittarius,"Full-charge bookkeeper",B-
+male,Rodney,R,Satterfield,Virgo,Plumber,O-
+female,Cecile,H,Little,Cancer,"Training coordinator",B-
+male,Walter,D,McCabe,Libra,"Automotive painter",B+
+female,Helen,M,Hernadez,Gemini,Playwright,O+
+male,Alfred,N,Brown,Capricorn,Blockmason,B+
+female,Ashley,H,McCrimmon,Leo,"Mail clerk",AB+
+male,Herbert,E,Floyd,Virgo,"Aircraft systems assembler",A+
+female,Elinor,D,Kramer,Pisces,"Power transformer repairer",B-
+female,Thelma,M,Hinds,Cancer,"Assistant cook",O-
+male,Chris,J,Jarvis,Taurus,"Group exercise instructor",A+
+male,Paul,K,Drake,Taurus,"Product development manager",B+
+male,Richard,D,Dosch,Aries,"Purchasing technician",B-
+female,Danielle,G,Elliott,Virgo,"Oral and maxillofacial radiologist",AB+
+female,Anna,D,Nixon,Sagittarius,"Music arranger",B+
+male,Joshua,M,Small,Sagittarius,"Human resources assistant",O+
+male,James,M,Ayala,Gemini,"Mail processing machine operator",A+
+female,Pinkie,B,Suttle,Gemini,"News analyst",B+
+male,Stephen,J,Porter,Taurus,Stenocaptioner,A-
+male,James,A,Fritz,Virgo,"Parts salesperson",B+
+male,Ryan,K,Amburgey,Libra,"Aircraft rigging assembler",O+
+female,Peggy,R,Garrett,Cancer,"News writer",O-
+female,Shanika,J,Sanchez,Pisces,"Violin repairer",A-
+female,Joyce,D,Frost,Leo,Poet,O+
+male,Larry,L,Beaudry,Libra,Dressmaker,A+
+female,Melinda,J,Venegas,Pisces,"Keying machine operator",A-
+male,Jesus,L,Moser,Taurus,"Employment consultant",B+
+male,Stephen,G,Bergeron,Taurus,"Automotive painter",O+
+female,Christal,G,Reilly,Sagittarius,"Accounting clerk",O+
+male,James,E,Moorhouse,Aquarius,"Court reporter",A+
+male,Kevin,C,Cowan,Scorpio,"Chemical equipment tender",O+
+male,Fernando,J,Warren,Taurus,"Payroll assistant",A+
+male,Jeff,S,Bohnert,Cancer,"Chief executive officer",B+
+male,Craig,K,Willey,Sagittarius,"Court reporter",A+
+male,Antonio,V,Bell,Capricorn,"HVACR technician",A+
+female,Judith,D,Davis,Gemini,"Publicity agent",B+
+female,Gladys,R,Allen,Sagittarius,"Personnel technician",AB+
+male,Jon,E,Brandt,Cancer,"Conference planner",A+
+female,Kellie,M,Gravely,Cancer,"Telephone line installer",AB+
+male,William,H,Berardi,Cancer,"Biological-physical anthropologist",B+
+female,Camille,T,Fox,Leo,"Materials engineer",A+
+female,Jane,D,Jackson,Scorpio,"Passenger booking clerk",AB+
+male,Michael,R,Mulder,Gemini,"Organizational economist",AB+
+female,Nicole,M,Chambers,Cancer,"Desk clerk",A+
+male,Steve,L,Hershey,Leo,Artist,O+
+female,Brooke,S,West,Virgo,"Media outreach specialist",O+
+male,Elmer,D,Pederson,Libra,"Software engineer",A+
+female,Sandra,C,Griffin,Leo,"Job service consultant",O+
+female,Eleanor,S,Anderson,Libra,"Nurse aide",A+
+male,Matthew,V,Reynolds,Aries,"Cost estimator",B+
+female,Leslie,W,Dunton,Gemini,"Aircraft surfaces assembler",AB+
+male,Daniel,C,Jones,Sagittarius,"Payroll specialist",A+
+male,Billy,L,Hall,Cancer,"Payroll coordinator",O+
+female,Gloria,C,May,Sagittarius,"Applied mathematician",B+
+male,Eugene,J,Lewis,Scorpio,"News photographer",O+
+female,Joyce,M,Hunsaker,Virgo,"Compensation manager",A-
+male,Richard,H,Luoma,Aries,"Leasing manager",O+
+female,Michele,C,Neal,Taurus,"Health inspector",A+
+male,John,C,Sims,Libra,"Costume attendant",O+
+female,Lori,J,Corbin,Sagittarius,"Portrait photographer",B+
+female,Sheila,J,Mitchell,Taurus,"Clerical assistant",A+
+male,Alvin,P,Burgess,Sagittarius,"Aircraft systems assembler",A+
+female,Mary,J,Johnston,Aquarius,"Personnel administrator",O+
+male,Timothy,A,Miranda,Libra,"Educational counselor",A+
+male,Sean,J,Akins,Aries,"Flight service specialist",O+
+male,Craig,R,Thomas,Taurus,"Farm product inspector",B+
+male,David,M,Hilton,Scorpio,Legislator,AB+
+female,Eloise,H,McConnell,Aquarius,"Personal banker",O+
+male,Darryl,J,McAllister,Libra,"Water transportation master",B+
+male,Travis,C,Jemison,Cancer,"Process pipeline drafter",A+
+female,Sadie,T,Jennings,Cancer,"Grinding and polishing worker",B+
+female,Dixie,D,Tirado,Cancer,"Ambulance driver",O+
+male,Andrew,A,Markham,Aquarius,"Molding, coremaking, and casting machine operator",O+
+female,Natalie,E,Addison,Scorpio,"Geological engineer",B+
+female,Elizabeth,M,Flinn,Sagittarius,"College counselor",B+
+male,Richard,A,Randle,Aries,"Instructional aide",AB+
+male,Rickey,A,Schmidt,Taurus,"Tile installer",O+
+male,Steven,B,Gildersleeve,Aries,"Digital electronic prepress worker",B+
+male,Barry,S,Wagner,Leo,"State police officer",O+
+female,Lora,L,Scribner,Cancer,"Instructional coach",O+
+female,Tanya,L,Brown,Sagittarius,"Labor economist",A+
+female,Diann,R,Briggs,Gemini,Lyricist,A+
+male,William,K,Brown,Scorpio,"Light truck driver",A+
+male,Joseph,N,Emerson,Scorpio,"Cooking instructor",O+
+female,Bertha,W,Wiley,Leo,"Glass repairer",B+
+male,Ronald,S,Reese,Virgo,Trader,O+
+female,Martha,T,Bing,Taurus,"Personal and home care aide",AB+
+male,James,N,Brown,Cancer,"Real estate sales agent",O+
+male,Rodney,L,Tanaka,Pisces,"Recruiting manager",B+
+male,Raymond,J,Jeffries,Taurus,"Payroll and timekeeping clerk",O-
+female,Melissa,A,Travis,Sagittarius,"Dot etcher",A+
+male,Harold,C,Barnes,Libra,"Speech pathologist",A+
+male,Dennis,K,Jones,Leo,"Agricultural worker",A-
+female,Martha,F,Luther,Taurus,"Textile bleaching and dyeing machine operator",A+
+female,Rosetta,R,Andrews,Cancer,"Fire prevention specialist",O+
+male,Mathew,S,Edwards,Taurus,"Computer security specialist",O+
+female,Mamie,S,Freeman,Libra,"Publicity expert",O+
+female,Nancie,D,Chavez,Gemini,Astronomer,O+
+female,Ida,M,Marston,Taurus,"Metalworking machine operator",AB+
+male,Mario,M,Bortz,Aries,"Pumping station operator",A+
+male,Harry,J,Kromer,Gemini,Administrator,B+
+female,Robin,M,Schober,Gemini,"Show host",AB+
+male,Keith,M,Harrelson,Aquarius,"Computer systems analyst",B-
+male,Raymond,D,McLaurin,Gemini,"Architectural drafter",O+
+male,Homer,K,Hickson,Pisces,"Adult secondary education teacher",A+
+male,Robert,I,Hall,Leo,"Geotechnical engineer",A+
+male,Thomas,A,Plumb,Libra,"Job analysis manager",B+
+male,Dale,A,Vigil,Aries,"Recreation supervisor",B+
+male,Justin,C,Bray,Capricorn,"News reporter",O+
+female,Helen,R,Kinner,Taurus,"Design printing machine operator",O+
+female,Cynthia,R,Gibson,Aquarius,Handymen,B+
+male,Alejandro,E,Amidon,Virgo,"Computer database administrator",B+
+male,Michael,E,Gough,Aquarius,"Catering manager",B+
+male,David,R,Moran,Pisces,"Cutting, punching, and press machine operator",A+
+female,Linda,B,Martin,Virgo,"Kennel attendant",B+
+male,Cody,D,Hunter,Sagittarius,"Practical nurses",A+
+male,Leland,J,Wampler,Leo,"Sports official",A+
+male,Charles,L,Gober,Virgo,"Line erector",B+
+female,Celia,L,Gregory,Cancer,Keeper,B+
+male,Antonio,J,Durst,Capricorn,Sculptor,A+
+female,Janis,J,Greene,Aries,"Maintenance electrician",A+
+male,Michael,C,Rodriguez,Gemini,"Food service worker",B+
+male,Barry,P,Cullen,Capricorn,"Labor training manager",B+
+male,Timothy,E,Adams,Taurus,"En route controller",O+
+female,Elise,S,Tobias,Taurus,"Systems administrator",B+
+female,Barbara,D,Colon,Leo,"Ambulance attendant",AB-
+male,Michael,J,Minton,Aries,"Aircraft electronic systems specialist",A+
+female,Sharon,T,Omara,Capricorn,"Broadcast and sound engineering technician",B+
+male,Francisco,S,Lugo,Pisces,Macroeconomist,A+
+female,Audrey,M,Juarez,Pisces,"Bulldozer operator",A+
+female,Katie,J,Sullivan,Scorpio,"Workforce development specialist",O+
+female,Luella,M,Legros,Sagittarius,Teller,A+
+male,Harry,D,King,Taurus,"Fast-food cook",O-
+female,Louise,K,Barker,Cancer,Epidemiologist,O+
+male,David,B,Odell,Pisces,"Assistant property manager",A+
+female,Dorothy,R,La,Aquarius,"Environmental engineer",AB+
+female,Sheryl,E,Brown,Taurus,"Switchboard operator",AB+
+male,Nick,K,Coleman,Taurus,"Information clerk",B+
+male,James,N,Koziol,Scorpio,"Audio control engineer",A+
+female,Ethel,J,Collins,Pisces,"Government auditor",O-
+male,Brandon,S,Robbins,Cancer,Actor,O+
+male,Sammy,L,Fallon,Scorpio,"Operations director",A+
+female,Luanne,E,Reynolds,Leo,"Admissions director",A+
+female,Carmen,T,Austin,Scorpio,"Combined food preparation and serving worker",O+
+female,Gail,F,Maeda,Cancer,"Rough carpenter",A+
+male,Virgil,M,Verner,Scorpio,Animator,O+
+female,Florence,J,Lovell,Sagittarius,Courier,O+
+male,John,J,Ross,Pisces,"Golf course architect",AB+
+male,Joshua,H,Banda,Leo,"U.S. deputy marshal",B+
+male,Thomas,D,Lynch,Libra,"Liquid waste treatment plant and system operator",O+
+female,Laura,T,Schutte,Scorpio,Anesthesiologist,A+
+male,Jeffrey,J,Wise,Cancer,"Loan closer",A+
+female,Jeanne,J,Lander,Cancer,"Health inspector",A+
+male,David,J,Charette,Scorpio,"Model maker",O+
+female,Joanne,G,Brunson,Leo,"Human resources recruiter",O+
+male,Justin,C,Gaulke,Capricorn,"X-ray technician",B+
+male,Gregory,Z,Triplett,Sagittarius,"High school counselor",O+
+female,Dorothy,J,Byington,Libra,Abstractor,AB+
+male,Kenneth,M,Gainer,Capricorn,"Apartment house manager",B+
+female,Alice,J,Westberg,Leo,"Garbage collector",O+
+male,Casey,M,Ingram,Pisces,"Silvering applicator",AB+
+female,Helen,L,Vincent,Libra,"GED teacher",B+
+female,Shelia,R,Ragsdale,Pisces,"Health educator",B+
+male,Vicente,L,Behn,Cancer,"Enrollment specialist",A-
+female,Daisy,A,Elwood,Libra,Sculptor,A+
+female,Rose,D,Boone,Pisces,"Encoding clerk",O+
+female,Linda,M,Colon,Pisces,"Computer systems administrator",O+
+male,Ralph,M,Reyes,Cancer,"Geological engineer",O+
+female,Michelle,C,Ruiz,Virgo,"Mental health aide",O+
+male,Joshua,F,Caldwell,Scorpio,"Human resources representative",A-
+female,Charmaine,C,Todd,Aries,"Preschool teacher",O+
+male,Daniel,C,Shockey,Taurus,"Instrumentation technician",A+
+female,Darlene,A,Vineyard,Scorpio,"Tire builder",O+
+male,Frank,D,Brown,Sagittarius,"Surgical nurse",A+
+male,Joseph,D,Johnson,Aquarius,"Convention services manager",A+
+male,Jared,L,Clark,Taurus,"Registered dietitian",A+
+female,Dorothy,B,Stevens,Pisces,"Transmission technician",O-
+male,Dwayne,K,Hand,Libra,"Maintenance electrician",B+
+male,Jeffrey,L,Fick,Aquarius,Secretary,AB+
+male,Paul,A,Light,Aquarius,"Tour bus driver",AB-
+male,Anthony,K,Cox,Aquarius,"Secondary school teacher",A-
+female,Marilyn,K,Cole,Leo,"Medical coder",B+
+female,Ruby,J,Crenshaw,Scorpio,"Operating engineer",O+
+male,Francis,M,Stull,Scorpio,Handymen,A+
+female,Mana,M,Leonard,Sagittarius,Singer,A+
+female,Dorothy,C,Holmes,Pisces,"Career-technical teacher",B+
+male,Johnny,M,Milton,Aries,"Television camera operator",A+
+female,Colleen,D,Slaughter,Cancer,"Prepress technician",O+
+male,Rich,P,Bly,Aries,"Elevator inspector",A-
+female,Lauren,M,Morris,Virgo,"Landscape contractor",A+
+female,Mae,C,Odell,Cancer,"Institution and cafeteria cook",B+
+female,Judy,J,Cantu,Leo,"Crushing, grinding, and polishing machine setter",O+
+female,Wendy,B,Aparicio,Capricorn,"Community planner",O+
+male,Charles,A,Cunningham,Libra,"Taxicab dispatcher",O+
+male,Willie,P,More,Leo,"Public relations consultant",B+
+female,Henrietta,T,Massey,Sagittarius,"Career-technology teacher",A+
+male,Dennis,M,Evans,Aries,"Corporate accountant",O+
+male,Frank,J,Seals,Capricorn,"Lease buyer",O+
+female,Kitty,S,Juneau,Aries,"Cardiology technologist",B+
+male,Mark,A,Lane,Scorpio,"Air traffic controller",B+
+male,Terry,A,Green,Scorpio,"Casino cage worker",O-
+male,Clayton,A,Demott,Aquarius,"Food cooking machine tender",O+
+female,Mildred,A,Moore,Leo,"Desk clerk",O+
+female,Sara,R,Robertson,Capricorn,"Mold and model maker",A+
+female,Donna,F,Thompson,Sagittarius,"Crushing, grinding, and polishing machine operator",A+
+male,Larry,H,Sanborn,Virgo,"Rigging slinger",O+
+female,Chris,T,Smith,Taurus,"Air Force",A+
+female,Irene,H,Priolo,Aquarius,"Electric motor repairer",A+
+female,Erlene,A,Duncan,Capricorn,"Personal appearance worker",B+
+female,Janet,J,Herd,Gemini,"Lease operator",A-
+male,Robert,P,Walker,Cancer,"Occupational health and safety specialist",B+
+male,Joseph,E,Salazar,Sagittarius,"Dental technician",A+
+female,Arlena,J,Scudder,Capricorn,"Log sorter",O+
+male,Derrick,P,Huddleston,Leo,"Chemical equipment tender",O+
+male,James,J,Lynch,Gemini,"Sociocultural anthropologist",O+
+female,Victoria,R,Velez,Aries,"Civil service clerk",A+
+female,Mary,A,Clark,Taurus,"Instructional coach",O+
+male,William,M,Thomas,Pisces,"Community planner",AB+
+female,Barbara,C,Polite,Aquarius,"Textile machine operator",AB+
+female,Christene,T,West,Pisces,"Computer control operator",A+
+female,Rachelle,D,Pierce,Virgo,"Sewage treatment plant operator",A+
+female,Mary,R,Mazza,Libra,"Research dietitian",A-
+male,Cary,A,Mass,Taurus,"Head hunter",B+
+female,Sonja,D,Salinas,Sagittarius,"Administrative clerk",O+
+female,Ana,T,Roberson,Aquarius,Lithographer,O+
+female,Karen,S,Crandall,Libra,Linemen,A+
+male,Ernest,J,Arthur,Aries,"State police officer",O+
+male,John,M,Santiago,Leo,Bricklayer,B+
+female,Gloria,G,Robinson,Leo,"Driver-sales worker",O+
+male,Eric,E,Rollins,Libra,Forester,A-
+male,William,S,Cantin,Taurus,"Electronic home entertainment equipment repairer",A+
+female,Ashley,S,Debose,Gemini,"Stock clerk",B+
+male,Alexander,M,Guerra,Taurus,"Pumping station operator",B+
+female,Cynthia,J,Battle,Pisces,"Sports book writer",A+
+female,Erin,T,Baird,Pisces,"Railroad conductor",B+
+male,Steven,M,Cox,Leo,"Scientific photographer",A+
+female,Alma,R,Fierro,Capricorn,"Television camera operator",O+
+male,Steven,H,Robertson,Capricorn,"Payroll secretary",A+
+male,Sean,L,Jones,Libra,"Recreation supervisor",O+
+female,Marie,J,Resler,Libra,"Registered dietitian",O+
+female,Denise,W,Morris,Scorpio,"Flight engineer",O+
+male,Andres,L,Brantner,Aries,"Product promoter",A+
+male,Jesus,M,Contreras,Leo,"Pediatric dentist",O+
+female,Joanne,T,Mota,Libra,"Accounts payable clerk",O+
+female,Ruth,W,Finlay,Pisces,Climatologist,O-
+male,Duane,R,Moore,Cancer,Caregiver,B+
+male,William,N,Spann,Pisces,"Casino cage worker",A+
+female,Sharda,J,Sharp,Cancer,"Applications programmer",O+
+female,Kristen,S,Balls,Aquarius,"Payroll analyst",A+
+female,Bobbie,A,King,Aquarius,"Computer software engineer",A+
+female,Suzanne,E,Fisher,Sagittarius,"Stock broker",A+
+male,Cesar,V,Ortega,Libra,"Tax collector",A+
+female,Joanna,E,Dominguez,Aquarius,"Reservation and transportation ticket agent",O+
+male,Pablo,E,Carver,Scorpio,Forester,AB+
+male,Craig,B,Harmon,Taurus,"Insurance claims and policy processing clerk",A-
+female,Karen,R,Price,Taurus,"Furnace installer",O+
+female,Kelli,P,Brown,Leo,"Screen printing machine operator",A+
+female,Cynthia,S,Lopez,Pisces,"Environmental technician",O+
+female,Jennifer,M,Rogers,Libra,"Technical support specialist",O+
+male,Frank,C,Lander,Cancer,"Public safety dispatcher",B+
+male,Darren,B,Middleton,Scorpio,"Floor sander",O+
+male,William,F,Weatherby,Gemini,"Technical recruiter",A+
+male,David,C,Davis,Gemini,"Dietetic technician",O+
+female,Willa,P,Corpus,Taurus,"Trial lawyer",O+
+male,Chris,L,Paschall,Pisces,"Real estate closer",B-
+male,Jesse,V,Jones,Pisces,"Estimator project manager",B+
+female,Wilma,D,Fields,Taurus,Lather,AB+
+male,John,T,Hernandez,Gemini,"Social and human service assistant",B+
+male,Charles,F,Robinette,Virgo,"Clinical nurse specialist",B+
+female,Maria,D,Carter,Gemini,"Promotions specialist",A+
+male,Richard,L,Swanson,Taurus,"Perioperative nurse",AB+
+male,Richard,G,Winland,Pisces,"Order clerk",B+
+male,Jerome,A,Donnelly,Scorpio,"HIV/AIDS nurse",B+
+female,Kathleen,A,Keith,Scorpio,"Ophthalmic nurse",B+
+male,Derek,L,Kratochvil,Capricorn,"Billing clerk",A+
+female,Shirl,M,Sims,Virgo,"Information systems manager",O+
+female,Erin,K,Coates,Aquarius,"Hoist and winch operator",O+
+female,Norma,J,York,Capricorn,"Medical illustrator",A+
+female,Martha,P,Valentine,Capricorn,Shampooer,O+
+male,Harry,R,Santiago,Scorpio,"Job placement specialist",B+
+female,Mandy,N,Schmit,Taurus,"Photographic process worker",O+
+male,Ricardo,C,Perez,Scorpio,"Construction equipment technician",AB+
+male,William,D,Degnan,Aquarius,"Bookkeeping clerk",B+
+female,Lawana,M,Riddick,Cancer,"Mine safety engineer",O-
+female,Laurine,T,Sullivan,Leo,"Garbage collector",AB+
+female,Mary,B,Burr,Pisces,"Credentials specialist",A-
+male,Hunter,L,Boulware,Gemini,"Store manager",O-
+male,Robert,D,Kane,Scorpio,Handymen,A+
+female,Shae,C,Henson,Leo,"Transmission rebuilder",B-
+male,Jesse,K,Ritter,Capricorn,"Music director",O+
+female,Ozell,P,Hensley,Taurus,"Mapping technician",O-
+male,Earl,T,Atkins,Sagittarius,"Control and valve repairer",O+
+female,Esther,B,Horton,Aries,"Legal assistant",O+
+female,Deborah,S,Martin,Gemini,"Textile cutting machine operator",B+
+female,Mildred,A,Stewart,Scorpio,"Wound, ostomy, and continence nurse",B+
+female,Theresa,L,Marrufo,Aquarius,"Forest, conservation, and logging worker",A+
+male,Jeremy,T,Esposito,Aries,Videographer,O+
+male,Lewis,D,Lind,Sagittarius,"Occupational health and safety specialist",A+
+female,Laura,R,Chen,Virgo,Dean,O+
+male,David,M,Lopes,Scorpio,"Clinical manager",A-
+female,Margaret,N,Harrison,Libra,"Speech pathologist",O+
+male,John,H,Bowers,Virgo,"Commodities trader",O+
+male,Douglas,L,Roque,Leo,Fumigator,O+
+female,Margie,N,Penton,Leo,Locksmith,A+
+female,Peggy,S,Weaver,Sagittarius,"Teacher aide",O+
+female,Christie,M,Savage,Aries,"Extractive metallurgical engineer",B+
+female,Lea,O,Small,Taurus,"Automotive service technician",B+
+female,Debra,R,Finney,Gemini,"Corporate office services manager",B+
+female,Bessie,L,Miller,Virgo,"Position classifier",A+
+female,Ruth,M,Quincy,Cancer,Judge,B+
+male,Leon,F,Smith,Gemini,"Real estate appraiser",A+
+male,John,T,Horvath,Aquarius,"Job training specialist",B-
+male,Jason,S,Weakley,Pisces,Molder,B+
+male,Brandon,S,Baggett,Aries,Policeman,A-
+male,Rolland,E,Smith,Virgo,"Private detective",A+
+female,Carrie,J,Gallo,Pisces,"Chemical equipment operator",B+
+female,Laura,J,Logan,Leo,"Staffing coordinator",B+
+male,Mark,K,Babcock,Scorpio,"Staff assistant",B+
+male,Casey,M,Bruner,Capricorn,"Desktop publisher",B-
+female,Sara,G,Green,Capricorn,"Event planner",O+
+male,Randy,E,Austin,Scorpio,Ergonomist,O-
+male,Edward,M,Peters,Capricorn,"Production assistant",B+
+female,Pamela,G,Herrington,Aries,"Cardiographic technician",O+
+male,David,L,Richardson,Cancer,"Computer forensic investigator",A+
+female,Carolyn,L,Breunig,Aquarius,"Systems programmer",O-
+male,William,S,Nickerson,Libra,"Precision printing worker",O+
+male,Theodore,S,Peres,Libra,Electrophysiologist,A+
+female,Mary,E,Stokes,Libra,"Teletype operator",A+
+female,Pamala,E,Williams,Leo,"Structural and reinforcing iron and metal worker",O+
+male,Melvin,C,Stafford,Scorpio,"Political scientist",O+
+female,Jennifer,B,Robinson,Cancer,"Collision repair and refinish technician",A+
+male,Charles,B,Yarbrough,Pisces,"Public relations specialist",O+
+female,Suzanne,G,Moree,Gemini,Gynecologist,O+
+male,Robert,M,Harvey,Cancer,"Metalworking machine operator",A+
+female,Sarah,C,Farrell,Capricorn,Homemaker,O+
+male,Mark,S,Steele,Libra,"Medical equipment preparer",O+
+male,David,S,Kasper,Gemini,"Forging machine tender",O+
+female,Kaylee,D,Lara,Gemini,"Landscape architect",A+
+male,Thomas,K,Jimenez,Libra,"Extruding, forming, pressing, and compacting machine setter",A+
+female,Kimberly,R,Brizendine,Libra,President,O+
+male,Larry,L,Bober,Aquarius,Musician,B+
+female,Violet,E,Davis,Pisces,"Cable splicer",O+
+female,Sandra,D,Lyle,Scorpio,"First responder",B+
+female,Lois,R,Schmidt,Virgo,Chef,B+
+male,James,V,Thomas,Sagittarius,"Marine oiler",O+
+male,Roland,J,Baca,Libra,"Civil engineer",O+
+male,James,E,Milo,Aquarius,"Journeymen lineman",O+
+male,Dallas,C,Carroll,Sagittarius,Allergist,B+
+female,Nancy,M,Johnson,Scorpio,"Electrical and electronics installer",A+
+female,Paula,R,Lawson,Leo,"Newsletter writer",A+
+male,Matthew,K,Poole,Cancer,Animator,A-
+male,Edward,N,Bernstein,Cancer,Physiologist,B+
+male,Edward,R,Harrison,Capricorn,"Respiratory therapy technician",O+
+male,Juan,J,Andrews,Virgo,"Correctional officer",O+
+male,Matthew,K,Wilson,Gemini,"Mental health counselor",O+
+male,Florencio,B,Nicosia,Virgo,"Real estate appraiser",O+
+male,Bob,P,Villalta,Taurus,"Industrial production manager",B+
+female,Cathy,A,Davis,Scorpio,"Medical records and health information technician",O+
+male,Kerry,A,Newton,Cancer,"Telephone installer",B+
+female,Diane,W,Stout,Pisces,"Coin, vending, and amusement machine servicer",A+
+female,Ashley,W,Coulter,Gemini,"Armed Forces",O+
+female,Evelyn,I,Jackson,Leo,"Construction millwright",B+
+male,Alan,D,Betts,Aries,"Recreation worker",A+
+female,Barbara,C,Dunn,Gemini,"Intructional coordinator",O+
+male,Jason,M,Jones,Aquarius,"College faculty",A+
+female,Juanita,K,Goods,Taurus,"Continuous mining machine operator",O+
+male,Jesus,M,Friedland,Aries,"Electromechanical equipment assembler",B+
+male,William,K,Loman,Taurus,"Older worker specialist",A+
+female,Nellie,P,Primm,Cancer,"Secret Service agent",A+
+male,Martin,N,Williams,Taurus,"Furnace, kiln, oven, drier, and kettle operator",O-
+female,Vanessa,A,Motter,Taurus,"Cardiac and vascular nurse",O+
+female,Ann,L,Robinson,Cancer,"Television camera operator",O+
+female,Cecelia,T,Schafer,Scorpio,"Wait staff",A+
+male,Israel,R,Burns,Aries,"Gerontology social worker",B+
+female,Denise,P,White,Sagittarius,"Athletic trainer",A+
+male,Thomas,J,King,Scorpio,"Pile driver operator",A+
+female,Carrie,C,Edwards,Aquarius,"Poultry trimmer",A+
+male,Boyce,M,Chapman,Virgo,"Electronic publisher",B+
+female,Samantha,R,Paschke,Aries,Silversmith,B+
+male,Gregory,D,Wolf,Virgo,Newscaster,O+
+male,Joseph,L,Lindsey,Capricorn,"Medical and health services manager",B-
+male,Edward,E,Chu,Cancer,"Affirmative action coordinator",O+
+female,Grace,T,Staples,Sagittarius,"Copy editor",B+
+male,Kenneth,S,Brown,Leo,"Credit reporter",O+
+male,Eddie,A,Reece,Leo,"Medical and health services manager",A+
+male,Dominique,M,Sage,Leo,"Dividend clerk",O+
+female,Juana,T,Sams,Capricorn,"Compensation and benefits technician",O+
+male,Mark,M,Corley,Pisces,"Record center clerk",O+
+female,Lois,J,Keeler,Aries,"Computer applications software engineer",AB+
+female,Katie,H,Ayala,Aquarius,"Technical training coordinator",B+
+female,Irene,H,Marrone,Cancer,"Elevator mechanic",O+
+female,Tressa,J,Johnson,Aquarius,"Nutrition director",B+
+male,Dean,R,Stainbrook,Aries,"Enrollment specialist",O+
+male,Douglas,S,Stroud,Scorpio,Zookeeper,O+
+male,Armando,S,Chambers,Gemini,"Floor broker",B+
+male,Don,C,Warner,Aries,"Extruding, forming, pressing, and compacting machine operator",A-
+male,Oscar,C,Langevin,Leo,"Material distribution",O+
+male,Rick,S,Haddad,Leo,"Sports book runner",O+
+female,Elsa,E,Richardson,Capricorn,"File clerk",O+
+female,Marisol,V,Gantt,Sagittarius,"Qualified members of the engine department",A+
+female,Leah,M,Ferguson,Pisces,"Certified respiratory therapist",O+
+male,Michael,M,Gonzalez,Scorpio,"Physical meteorologist",A+
+male,Gregory,D,Mello,Leo,"Reservation and transportation travel clerk",O+
+male,Juan,F,Brown,Scorpio,"Motorboat mechanic",O+
+male,Robert,V,Sholes,Leo,Reporter,A+
+female,Lottie,K,Wilkinson,Virgo,"Executive administrator",A+
+female,Elouise,M,Coon,Scorpio,"Credentials specialist",O+
+male,Daniel,C,Velasquez,Sagittarius,"Advertising sales agent",O+
+female,Helen,F,Esquivel,Aquarius,"Landscape architect",B+
+female,Denise,W,Miller,Scorpio,"Mine safety engineer",O+
+male,Michael,R,Menjivar,Aries,"Counter clerk",A+
+male,Kenneth,R,Ricks,Aries,"Office aide",O+
+male,James,M,Dodson,Taurus,"Computer training specialist",A+
+male,Elmer,S,Larson,Sagittarius,"Crushing, grinding, and polishing machine setter",B+
+female,Nichole,B,Aguilar,Cancer,"Physician assistant",AB+
+female,Peggy,F,Williams,Capricorn,Paramedic,A+
+male,John,S,Maberry,Virgo,Concierge,O+
+male,Michael,B,Thomas,Sagittarius,"Safety inspector",O+
+male,Ricardo,A,Munn,Aries,"Coil finisher",B+
+female,Charlotte,R,Campos,Scorpio,"Postal Service worker",O+
+male,Dale,M,Ruiz,Virgo,Dispatcher,O+
+male,Felix,J,Silva,Virgo,Carpenter,O+
+male,Kevin,V,Peters,Aquarius,"Meeting director",O+
+female,Mildred,J,Tolson,Virgo,Gerontologist,B+
+female,Charlotte,T,Rousseau,Capricorn,"Position classifier",O+
+male,Daniel,D,Waite,Taurus,Paramedic,AB+
+female,Kimberly,T,Martinez,Aquarius,"Electrical engineer",A+
+female,Eleanor,P,Conners,Scorpio,"Airframe mechanic",O+
+female,Dorothy,D,Brown,Scorpio,"Prepress worker",A+
+female,Judy,C,Fogarty,Pisces,"Tank car, truck, and ship loader",A+
+female,Diana,C,Hardy,Cancer,Arborist,AB+
+female,Esperanza,A,Armstrong,Leo,"Lease driver",O+
+female,Rose,G,Bryan,Taurus,"Worker compensation coordinator",A+
+male,Tom,B,Rees,Leo,"Bindery machine tender",O+
+female,Linda,M,Anderson,Aquarius,"Flight engineer",O+
+male,Stanley,E,Lopez,Cancer,Faller,A+
+male,William,T,Greer,Taurus,"Marine equipment mechanic",A+
+female,Shannon,R,Moreira,Scorpio,"Electronics repairer",A+
+female,Victoria,J,Diaz,Libra,Examiner,B+
+female,Louisa,S,Williams,Scorpio,"Sociocultural anthropologist",B+
+male,Mathew,J,Borrego,Gemini,"Tow truck dispatcher",A+
+male,John,J,Miller,Sagittarius,"Education administrator",A+
+male,Vincent,M,Richardson,Aquarius,"Business administrator",O+
+female,Meghan,M,Lilly,Cancer,"Construction engineer",B+
+female,Ruth,C,Lowe,Gemini,"Lead abatement worker",B+
+male,Craig,T,Willoughby,Scorpio,"Cardiovascular technician",O+
+male,George,J,Cunningham,Leo,"Merchandise manager",O+
+male,Cody,A,Duncan,Virgo,"Admissions officer",A+
+female,Minnie,J,Halpin,Sagittarius,"Security officer",O+
+female,Annie,C,Herron,Libra,Ergonomist,B+
+male,Harold,E,Robinson,Sagittarius,"Bleaching and dyeing machine operator",A+
+female,Amy,D,Sherwood,Sagittarius,"Camera operator",A+
+female,Diane,H,Lopez,Leo,"Psychiatric technician",O+
+male,Louis,G,Good,Aries,"Elevator mechanic",A+
+male,Ronald,L,Alexis,Scorpio,"Front office manager",A+
+male,Jeffery,L,Myers,Sagittarius,"Graphic designer",B+
+female,Connie,M,Smith,Virgo,"Residence leasing agent",A+
+female,Judy,A,Hunt,Aquarius,"Automotive painter",O-
+male,Roger,R,Wills,Scorpio,Radiographer,B+
+male,Robert,C,Thomas,Aries,"Principal secretary",A+
+male,Rick,P,Anderson,Libra,"Public relations coordinator",A+
+male,Wayne,F,Tucker,Leo,"Patient representative",O+
+female,Linda,R,Gassaway,Aries,Paleontologist,O+
+male,Mario,K,Marshall,Sagittarius,"Lead abatement worker",O+
+female,Nellie,M,Steele,Pisces,"Administrative project coordinator",B+
+female,Heidi,J,Rodriguez,Gemini,Programmer,B+
+male,Clayton,G,Doyle,Virgo,"Admissions officer",A+
+female,Stephanie,J,Huber,Taurus,"Mental health counselor",O+
+male,Carl,M,Smith,Taurus,"Instructional assistant",A+
+male,David,P,Batchelor,Leo,"Roof bolter",A+
+female,Sandra,J,Robles,Libra,"Travel adviser",O-
+male,Stephen,J,Colvin,Taurus,"Fish cutter",O+
+male,Richard,M,Warner,Gemini,"Human resources information system specialist",A+
+male,Clifford,G,Robinson,Sagittarius,"Control and valve installer",A+
+male,Ronald,A,Bailey,Libra,"Bus mechanic",A+
+male,Michael,H,Hernandez,Taurus,"Cruise ship worker",A+
+male,Leo,D,Gibbs,Taurus,"Truck dispatcher",O+
+male,Frank,O,Mathes,Scorpio,"Public affairs specialist",O+
+male,William,P,Marquez,Cancer,"Mortgage banker",AB+
+female,Teresa,O,Holmes,Cancer,"Refuge manager",A+
+female,Bonnie,R,Patel,Leo,"Automotive service technician",O+
+female,Leah,F,Crisp,Libra,"Armed Forces",A+
+female,Judith,W,Bivins,Pisces,"Dredge operator",A+
+male,Clarence,A,Vasquez,Aquarius,"Apartment leasing agent",B+
+female,Irma,L,Wilson,Cancer,"Lease operator",A+
+female,Lisa,O,Farnsworth,Aries,"Consultant dietitian",A+
+female,Dawn,A,Linton,Libra,"Sous chef",O-
+female,Julie,S,Grossman,Capricorn,"PBX repairer",B-
+female,Karen,E,Garza,Gemini,"Desktop publishing editor",O+
+female,Maria,G,Keen,Sagittarius,"Campaign manager",O+
+male,Jordan,M,Clayton,Leo,"Credit reporter",O+
+male,Jeremy,A,Koontz,Gemini,"Pilates instructor",B+
+female,Janice,A,Fitzgibbons,Gemini,"Personnel recruiter",B+
+female,Mary,C,Boling,Scorpio,Electrician,A+
+female,Dorothy,G,Howell,Taurus,"Assignment editor",A+
+female,Beth,B,Swift,Cancer,Electrophysiologist,O+
+female,Maurine,W,Ethridge,Virgo,"Medical social worker",A+
+male,Mario,S,Anderson,Taurus,"Substance abuse and behavioral disorder counselor",A+
+female,Alice,H,Rogue,Aries,"Lobby attendant",B+
+male,Kevin,M,Helmuth,Taurus,"Genetics nurse",A+
+male,William,P,Thompson,Cancer,"Corporate administrative assistant",A+
+female,Melanie,W,Owens,Pisces,"Animal care and service worker",AB+
+female,Margaret,R,McElroy,Virgo,"Aircraft electronics technician",A+
+female,Louisa,R,Epperson,Taurus,"Cost consultant",O-
+female,Shirley,R,Kilburn,Virgo,"Pilates instructor",O+
+male,Jonas,M,Womack,Capricorn,"Chairperson of the board",A+
+female,Rosa,A,Porter,Capricorn,"Aeronautical engineer",A+
+male,Ian,E,Carson,Pisces,"University faculty",A+
+female,Sue,B,Clarke,Aquarius,"Human resources trainer",A-
+male,Ira,A,Garza,Aries,"Junior high school teacher",O-
+female,Catherine,J,Everett,Leo,"First mate",A+
+female,Helen,M,Dias,Sagittarius,"Nuclear power reactor operator",O+
+female,Mary,R,Castillo,Scorpio,"Mortgage banker",O+
+male,Donald,M,Waldman,Gemini,"Airline pilots",O-
+male,Ronald,E,Jandreau,Scorpio,"Directory assistance operator",O+
+male,Herman,C,Tristan,Pisces,"Acoustical carpenter",B+
+female,Mary,K,Reisman,Aquarius,"Library assistant",A+
+male,Randy,C,McClung,Virgo,"Lease driver",B+
+male,Steven,L,Summerall,Pisces,Bellhop,O+
+female,Stephanie,J,Pinckney,Scorpio,"Market research manager",B+
+female,Ana,M,Tate,Taurus,"Flight service specialist",O+
+male,Franklin,N,Ford,Virgo,"Information architect librarian",B+
+male,Donald,F,Batchelor,Gemini,Bricklayer,O+
+male,John,T,Holt,Gemini,"Reservation and transportation travel clerk",A+
+male,John,A,Haring,Sagittarius,Stevedore,A+
+male,Juan,S,Siggers,Taurus,"Timber cutting and logging worker",A+
+male,Loren,M,Betts,Gemini,"Gynecologic sonographer",O+
+female,Laura,E,Lagrone,Virgo,"Diesel engine specialist",O+
+female,Debra,A,Eubanks,Gemini,"Dining room and cafeteria attendant",O+
+male,Christopher,H,Smith,Pisces,"Lease driver",A+
+female,Karla,C,Smith,Virgo,"Professional property manager",O+
+male,Stephen,L,Mendez,Leo,"Corporate accountant",AB+
+female,Peggy,J,Weaver,Scorpio,"Sign language interpreter",A+
+female,Karry,S,Vance,Gemini,"Gynecology nurse",B+
+female,Blanche,T,Centeno,Virgo,"Mechanical engineer",O+
+male,James,S,Sanchez,Aquarius,"Community planner",A+
+female,Linda,J,Tomko,Sagittarius,Paralegal,B+
+female,Billie,J,Ferrera,Libra,"Tile installer",O+
+male,Ray,C,Lynch,Cancer,Paperhanger,B+
+male,Roger,V,Horton,Scorpio,"Small engine service technician",O-
+female,Lisa,R,Paul,Pisces,"Administrative support specialist",B+
+male,Rocco,M,Rosa,Gemini,Author,A+
+female,Barbara,V,Dupre,Pisces,Producer,A+
+male,Charles,E,Kelley,Pisces,"Small engine mechanic",B+
+female,Charlotte,B,Truitt,Capricorn,Transcriber,A+
+female,Silvia,J,Rangel,Aries,"Training and development manager",B+
+female,Keitha,E,Clayton,Pisces,"Job placement officer",B+
+female,Gwyneth,R,Anderson,Capricorn,"Veterinary technologist",A+
+female,Diane,W,Toledo,Aquarius,"Airport tower controller",O+
+female,Rose,R,Gregory,Aquarius,"Community health educator",A+
+male,Earl,Y,Stitt,Pisces,Registrar,B+
+female,Kristina,W,Allen,Aquarius,"Stucco mason",O+
+male,Dante,J,Wilson,Aquarius,"Locker room attendant",B+
+male,Stuart,R,Haislip,Cancer,"Pesticide vegetation",AB+
+male,Eric,V,Denault,Aries,Handymen,B+
+male,Marvin,S,Roy,Virgo,"Customs agent",O+
+female,Fannie,A,Connolly,Aries,"Engineering geologist",B+
+female,Phyllis,F,Slaughter,Aquarius,"Drilling and boring machine tool setter",O-
+male,Andrew,S,Estrada,Pisces,"Housing relocator",O+
+male,Lawrence,R,Wright,Aries,Psychiatrist,A+
+female,Christina,C,Ruch,Libra,"Political scientist",A-
+female,Faith,J,Whiteman,Sagittarius,"Desktop publishing editor",O+
+female,Alice,J,Laurie,Pisces,"Semiconductor processing technician",B+
+female,Robert,J,Thomas,Cancer,"Service unit operator",O+
+female,Noelle,W,Palacios,Capricorn,"Bookkeeping clerk",O+
+male,Franklin,T,Roman,Cancer,"Cutting, punching, and press machine tender",O+
+male,Herman,C,Banks,Capricorn,"Environmental protection officer",B+
+female,Gwendolyn,M,Savage,Capricorn,"Television announcer",O+
+male,Kevin,R,Alexander,Taurus,"Water transportation master",A+
+male,Larry,M,Melton,Capricorn,Superintendent,O+
+male,Lester,A,Mather,Scorpio,"Cutting and slicing machine tender",O+
+female,Carrie,M,Angus,Aries,Janitor,A+
+male,Chester,K,Fair,Libra,"Custodial worker",B+
+female,Edna,R,Jones,Aquarius,"Mechanical engineering technician",A+
+female,Rebecca,B,Odegaard,Leo,"Graduate teaching assistant",A-
+female,Sue,B,Fernandes,Aries,"Power reactor operator",O-
+male,Eduardo,M,Pittman,Leo,"Airline flight engineer",B+
+female,Ruth,R,Wilson,Gemini,"Maintenance electrician",O+
+male,Kyle,T,Perkins,Cancer,Sociologist,A+
+male,Tony,S,Rodriguez,Sagittarius,"Library media aide",B+
+male,Robert,B,Miller,Sagittarius,"Wastewater treatment plant and system operator",A+
+female,Gail,R,Rollins,Aries,"College faculty",B+
+male,George,L,Frates,Libra,"Computer operator",O-
+male,Neil,D,Fedler,Gemini,Rodbuster,O-
+male,Darryl,S,Hammond,Cancer,"Convention manager",B+
+male,Ivan,A,Doyle,Virgo,"Wound, ostomy, and continence nurse",O+
+female,Kelly,K,Cupp,Aquarius,"Letterpress setter",A-
+male,John,J,Shelton,Aquarius,"Mail clerk",A+
+female,Jeanette,D,Moon,Virgo,Mason,A+
+female,Rosita,W,Schroeder,Sagittarius,"Mail superintendent",O+
+male,Aubrey,J,Gonzales,Capricorn,Veterinarian,AB+
+female,Winnie,D,Smith,Taurus,"Plant operator",B+
+female,Rebecca,J,Russell,Leo,"Child protective services social worker",O+
+male,Joshua,M,Holmes,Cancer,"Pile driver operator",B+
+male,James,M,Torian,Libra,"Cost estimator",O+
+male,Jason,S,Lewis,Sagittarius,"Private investigator",O+
+female,Pam,T,Anderson,Virgo,"Podiatric doctor",O+
+male,Troy,A,Deleon,Capricorn,Broker,A+
+female,Nell,R,Walsh,Capricorn,"Industrial relations manager",A+
+male,John,L,Matthews,Aries,"Scheduling clerk",A+
+male,Eric,D,Bennett,Leo,"College instructor",A+
+female,Cynthia,C,Wilson,Virgo,Embalmer,A+
+male,Fred,N,Jones,Capricorn,"Estimator project manager",O+
+male,James,K,Preston,Scorpio,Ecologist,O+
+female,Elaine,P,Rodriguez,Leo,Actuarie,A+
+female,Katherine,J,Williams,Gemini,"Neonatal nurse",B+
+female,Irene,H,Oberle,Aries,"Assistant principal",B-
+male,John,M,Oliver,Virgo,"Cutting and slicing machine tender",O+
+female,Jayme,F,Perkins,Aries,"Real estate sales agent",O+
+female,Linda,B,Armour,Sagittarius,"Electrical and electronics installer",O+
+male,James,W,Mann,Cancer,"Custom inspector",O+
+female,Elsa,C,Frazier,Sagittarius,"Inside wire installer",O+
+male,Paul,T,Gonzalez,Sagittarius,"Electric motor repairer",O+
+female,Virginia,D,Fraley,Aquarius,"Career-technology teacher",B+
+female,Adele,T,Pearson,Cancer,"Film processing technician",B+
+female,Francisca,A,Dove,Virgo,"Office specialist",B+
+male,George,O,Olson,Aquarius,"Beauty care specialist",B+
+female,Kenyatta,T,Gamble,Scorpio,"Sales engineer",AB+
+male,Paul,F,Sanders,Pisces,"Horse breeder",O+
+female,Blanca,E,Zuniga,Aries,"Brace maker",A+
+female,Inez,K,Rose,Aquarius,"Transportation ticket agent",O+
+female,Maria,E,Lawrence,Sagittarius,"INS agent",O+
+female,Roberta,T,Lyman,Libra,"LAN manager",A+
+female,Matilde,A,Taylor,Capricorn,"U.S. marshal",B+
+female,Helen,A,Snyder,Aries,"EEO representative",A+
+female,Joyce,C,Urso,Virgo,Arborist,O+
+male,Richard,C,Fox,Aquarius,"Corporate office services manager",O+
+female,Julia,C,Knott,Sagittarius,"Airport terminal controller",O-
+male,John,P,Carmody,Aquarius,"Tree planter",O+
+male,Justin,H,Arnold,Aries,"Shoe machine tender",O+
+female,Kim,A,Schubert,Libra,"Front desk receptionist",A+
+female,Anna,J,Hart,Gemini,"Assistant manager",O+
+female,Lakendra,B,McKinney,Gemini,"Reactor operator",O+
+female,Edith,B,Garcia,Capricorn,"U.S. Secret Service agent",B+
+female,Demetra,B,Mann,Scorpio,"Cable line installer",A+
+female,Mary,R,Withers,Gemini,Orthotist,B+
+female,June,M,Kaiser,Capricorn,"Ambulance attendant",O+
+male,Thomas,T,Willis,Pisces,"Wound, ostomy, and continence nurse",A+
+female,Suzanne,D,Marion,Aries,"Concrete paving machine operator",A+
+female,Audra,C,Hughes,Cancer,"Qualified members of the engine department",O-
+female,Terri,K,Flanagan,Capricorn,"Amusement and recreation attendant",O+
+female,Christine,W,Chu,Capricorn,"Baggage porter",O+
+female,Sara,A,Wiedeman,Pisces,Ophthalmologist,O+
+female,Stacey,T,McCoy,Cancer,"Blood bank technologist",O+
+male,John,J,Donnell,Gemini,"Credit analyst",A+
+male,Ramiro,J,Otoole,Taurus,"Milling and planing machine setter",O+
+male,Allen,M,Polk,Capricorn,"Payroll specialist",O+
+male,James,E,White,Aries,"Crushing, grinding, and polishing machine operator",B+
+female,Sue,S,Harper,Sagittarius,"Personal secretary",O+
+female,Robin,L,Teague,Virgo,"Conservation technician",O+
+female,Mary,A,Williams,Scorpio,CPA,A+
+female,Julie,M,Espinoza,Sagittarius,"Dental surgery doctor",A+
+female,Christine,R,Hall,Pisces,"Asphalt paving machine operator",A-
+female,Grace,S,Thomas,Cancer,"Cellular technician",A+
+male,Charlie,C,Ruel,Aquarius,"ESOL teacher",O+
+male,Daniel,K,McKibben,Capricorn,"Letterpress setter",B+
+female,Sara,M,Aguiar,Sagittarius,"Railroad brake, signal, and switch operator",B+
+female,Shirley,R,Burgess,Cancer,"Electromechanical equipment assembler",O+
+male,Robert,L,Clubb,Aries,"Operational meteorologist",O+
+female,Norma,P,Vincent,Gemini,"Decommissioning and decontamination (D&D) worker",O-
+male,Robert,B,Davis,Taurus,"Airline copilots",B+
+female,Lula,D,Hedge,Taurus,"HIV/AIDS nurse",O-
+male,Louis,C,Enriquez,Virgo,Orthodontist,AB+
+female,Kayla,D,Brown,Leo,"Apparel worker",O+
+female,Evelyn,S,Allen,Pisces,"Chemical plant and system operator",O+
+female,Keri,D,Ruiz,Aquarius,"Fishing vessel operator",A+
+female,Ana,M,Hood,Pisces,"Assignment editor",A+
+male,Perry,L,Davis,Cancer,"Rigging slinger",O+
+female,Carolyne,W,Ray,Sagittarius,Farmworker,O+
+male,Danny,J,Pruett,Capricorn,"Law clerk",O+
+female,Irene,J,Allen,Taurus,Promoter,O+
+female,Dolores,J,Yamada,Virgo,"Embossing machine operator",B+
+male,Michael,J,Willingham,Pisces,"Nurse practitioner",O+
+female,Tammy,J,Hardin,Leo,"English as a second language teacher",B+
+female,Barbara,J,Bates,Pisces,"Oncology nurse",O-
+male,Brent,B,Vezina,Sagittarius,"Licensed practical nurse",B+
+female,Maggie,R,Pfister,Sagittarius,"Financial consultant",O+
+female,Virginia,L,Vineyard,Scorpio,Biographer,O+
+male,James,A,Hunt,Aries,"Electronic equipment installer",A-
+female,Delinda,D,Doty,Aquarius,"Ambulance driver",A+
+male,Robert,N,Lowe,Leo,"Elevator repairer",A-
+male,Gilbert,S,Moore,Virgo,"Vending machine technician",A+
+female,Emily,J,Ham,Libra,"Gas pumping station operator",O-
+female,Linda,M,Miller,Scorpio,"Community outreach worker",B+
+female,Annie,D,Kirk,Sagittarius,"Glass repairer",AB+
+female,Jennifer,R,Dooley,Aries,Jeweler,O+
+male,Shannon,L,Dawkins,Aquarius,Sampler,B+
+female,Martin,J,Steele,Leo,"Market research analyst",O+
+male,Michael,E,Blakely,Taurus,"Door-to-door sales worker",B+
+male,Roger,M,Laforest,Gemini,"Insurance broker",A+
+female,Patricia,L,Johnson,Aries,"EKG technician",A+
+male,Vernon,N,Moody,Cancer,Architect,O+
+female,Cathy,A,Acree,Aries,"Adult basic education teacher",A+
+male,Andrew,C,Santiago,Aries,"Hazardous materials removal worker",AB+
+female,Bonnie,E,Hooten,Aquarius,"General and operations manager",O+
+female,Mary,J,Vaughn,Libra,"Cleaning, washing, and metal pickling equipment tender",O+
+male,Guy,R,Murray,Libra,"Welding machine operator",B+
+female,Jamie,R,Ross,Pisces,Announcer,B+
+male,Darryl,K,Tate,Gemini,"Plumbing inspector",B+
+male,Mark,S,Zuniga,Scorpio,"Management consultant",O-
+female,Marisa,J,Newby,Libra,Packer,B+
+male,John,S,Walden,Virgo,"Desk clerk",B+
+female,Audrey,D,Hernandez,Scorpio,"Computer training specialist",A+
+male,Donald,D,McDonough,Pisces,"Heavy vehicle and mobile equipment service technician",A+
+male,William,D,Brumfield,Capricorn,"Automation and control technician",A+
+male,Richard,A,Torres,Virgo,"Personal banker",A+
+female,Mary,K,Leach,Taurus,Statistician,A+
+male,Roger,L,Walters,Scorpio,"Electronic home entertainment equipment repairer",B+
+female,Melinda,P,Cruz,Pisces,"Plumbing inspector",A+
+male,David,P,Fishburn,Virgo,Baker,O+
+female,Marion,J,Piper,Aries,"Desktop publisher",O+
+male,John,M,Roberts,Aries,"Choke setter",O+
+male,Rubin,L,Bridge,Scorpio,"Costume designer",A+
+male,Ronald,M,Gray,Leo,"Central office operator",B+
+male,Enrique,L,Marks,Sagittarius,"Administrative officer",A+
+male,Ernest,B,Bosserman,Taurus,"Corporate recruiter",B+
+male,Mariano,T,Signorelli,Scorpio,"Podiatric medical assistant",O+
+female,Elizabeth,K,Meagher,Pisces,"Chief executive",B+
+male,Mario,B,Holmes,Virgo,"Housekeeping cleaner",A+
+male,Michael,P,Welch,Taurus,"Parking enforcement worker",A+
+male,Donald,K,Brinkley,Cancer,"Executive assistant",B+
+female,Connie,G,Engram,Taurus,"Gaming supervisor",A-
+male,Herbert,J,Pugh,Gemini,"Earth driller",B+
+male,Kenneth,E,Perry,Gemini,"Bus driver",O+
+female,Ivy,M,Connelly,Gemini,"Refractory materials repairer",O+
+male,Harold,H,Lowe,Pisces,"Massage therapist",O-
+female,Kathleen,M,Yee,Libra,"Private detective",B+
+male,James,B,Millard,Pisces,"Molding, coremaking, and casting machine operator",O+
+female,Miguelina,L,Laroche,Capricorn,"Organic chemist",O+
+female,Lena,R,Mooney,Libra,"Real property assessor",B+
+male,Chas,I,Sheehan,Capricorn,"Rock splitter",B+
+female,Thelma,D,Snyder,Taurus,"Certified nursing assistant",O+
+female,Jennifer,J,Estrada,Gemini,"ATF agent",A+
+male,Herbert,S,Roberts,Cancer,"Localization translator",B+
+female,Karen,T,Cope,Aries,"Horse trainer",O+
+male,Dale,R,Perez,Cancer,"Television camera operator",O+
+female,Margaret,J,Thomason,Sagittarius,"Executive administrative assistant",O+
+female,Kathleen,J,Lambert,Capricorn,Endodontist,AB+
+male,Keith,M,Hill,Virgo,Songwriter,O+
+female,Melissa,T,Binkley,Libra,"Job placement specialist",O-
+male,Bobby,J,Williams,Aquarius,"Wildlife officer",O-
+male,James,C,Almeida,Aries,"Library aide",O+
+female,Patricia,E,Springer,Libra,"Workforce development officer",B+
+female,Janet,G,Dennison,Aquarius,"Business management consultant",O+
+male,Charles,O,Boulware,Pisces,"Railcar repairer",O+
+female,Jackie,F,Cerrone,Sagittarius,"Food scientist",O+
+male,James,B,Jennings,Pisces,Fumigator,O+
+female,Farah,B,Stevenson,Aquarius,"Information security specialist",B+
+female,Kara,J,Pike,Gemini,"Dairy farmer",A+
+male,Jerry,J,Lewis,Libra,"Control room operator",O+
+female,Elizabeth,M,Cole,Capricorn,"Educational counselor",B+
+female,Lucille,S,O'Donnell,Pisces,"Administrative director",A+
+male,Fernando,D,Underhill,Gemini,"Conservation forester",O+
+female,Vickie,C,Burns,Cancer,Bibliographer,A+
+male,Charles,D,Harrell,Scorpio,"Piano repairer",O+
+male,George,L,Cantu,Capricorn,"Conservation worker",O+
+male,Andrew,M,Beatty,Taurus,"Health information manager",B-
+male,Matthew,E,Byrd,Sagittarius,"Model maker",O+
+male,Freeman,T,Watson,Taurus,"Family therapist",A+
+female,Elizabeth,R,Brown,Virgo,"Elementary school teacher",A-
+male,Michael,S,Rogers,Cancer,"Rental clerk",O+
+female,Paula,D,Parker,Scorpio,"Computer control operator",O+
+female,Judi,M,Dicarlo,Cancer,"Booth cashier",O-
+male,Ralph,M,Parker,Virgo,"Payroll administrator",A+
+female,Corrine,J,Elkins,Aries,"Licensed practical nurse",A+
+male,Randy,T,Anderson,Gemini,"Multimedia artist",A+
+male,Luis,M,Thurmond,Sagittarius,"Animal trainer",O+
+male,Robert,G,Oldham,Scorpio,"Payroll analyst",A+
+male,Kip,V,Hunter,Aquarius,"Drilling and boring machine tool setter",B+
+male,Scott,R,McCormick,Scorpio,"Elementary school teacher",A+
+male,Rafael,J,Kahn,Virgo,"Activity specialist",A+
+male,Robert,M,Lux,Cancer,"Tour guide",O+
+female,Shirley,J,Boyers,Capricorn,"HVAC technician",B+
+female,Audra,E,Gaddis,Pisces,"Heating, air-conditioning, and refrigeration installer",O+
+female,Ruby,G,Jacobs,Leo,"Coin, vending, and amusement machine servicer",A+
+female,Glenda,J,Thies,Cancer,Translator,B+
+female,Gene,L,Minton,Leo,"Human resources analyst",O+
+male,Floyd,N,Carlson,Capricorn,"Manpower development specialist",A+
+female,Jamie,I,Nelson,Libra,"Paper goods tender",B+
+male,Edward,S,Houghtaling,Virgo,"Ticket seller",O+
+male,George,A,Lynn,Sagittarius,"Video editor",A+
+female,Sylvia,A,Bennett,Libra,"Manpower development specialist",O+
+female,Cathy,D,Jaramillo,Cancer,"Chief engineer",O+
+male,Dominick,C,Seymour,Scorpio,"Skills training coordinator",B+
+female,Kelly,R,Williams,Cancer,Columnist,B+
+male,Marcus,T,Arcand,Scorpio,"Cost consultant",A+
+female,Eunice,A,Jordan,Pisces,Optometrist,O+
+male,Christopher,E,Webster,Aries,"Teacher assistant",O+
+female,Wendy,L,Garrett,Leo,"Aircraft and avionics equipment mechanic",A+
+male,Billy,J,Braxton,Virgo,Chef,A+
+female,Geraldine,J,Wilson,Gemini,"Carpet installer",AB+
+female,Tiffanie,B,Fiore,Scorpio,"Painting restorer",A+
+female,Audrey,J,Eisenhauer,Cancer,"Harbor pilot",O+
+male,Archie,D,Green,Aries,"Documentation specialist",O+
+male,Cornelius,B,Adams,Capricorn,"Job training specialist",A+
+female,Wynona,K,Ahmed,Scorpio,"Economic geographer",B+
+male,Paul,L,Fogle,Aquarius,"Silvering applicator",B+
+male,Eugene,S,Ponder,Scorpio,"Financial services sales agent",B+
+female,Katie,J,Jensen,Pisces,"Job placement officer",A+
+male,Scott,B,Coulson,Capricorn,"Appellate court judge",A+
+female,Robin,H,Johnston,Aries,Packager,A+
+female,Justina,C,Vanatta,Gemini,"Real estate appraiser",A+
+male,James,C,Murray,Libra,"Disc jockey",O+
+female,Anne,W,Jones,Libra,"Beauty care specialist",O-
+male,Phillip,J,Heard,Pisces,"Power distributor",A+
+female,Jessie,P,Scott,Sagittarius,"Flight attendant",O+
+male,Daniel,J,Lage,Libra,"Fine arts photographer",O-
+female,Mary,J,Lopez,Libra,Drafter,B+
+male,Louis,D,Melgoza,Virgo,"Cardiovascular technologist",AB+
+male,Benjamin,M,Timms,Capricorn,"Electrocardiograph (EKG) technician",O+
+female,Mary,O,Higa,Leo,Stratigrapher,A-
+female,Gladys,I,Squier,Scorpio,"Occupational therapist",O+
+female,Mattie,A,Vince,Aquarius,"Support staff specialist",B+
+male,Thomas,L,Johnson,Libra,"Managing editor",O+
+male,Glenn,S,Cruz,Taurus,"Recruiting manager",B+
+male,Anthony,L,Labombard,Aries,"Cruise ship worker",A-
+male,Joe,C,Wolfe,Taurus,"Hearing therapist",O+
+female,Nicole,D,Durst,Sagittarius,"Marine biologist",O+
+male,John,S,Smith,Leo,"Photographic spotter",A+
+male,Samuel,L,Allison,Virgo,"Public relations specialist",O+
+female,Cara,A,Nickerson,Libra,Bucker,B+
+male,John,K,Currier,Libra,"Small engine mechanic",A+
+male,Lawrence,P,Hall,Scorpio,"Convention services manager",O+
+male,Marc,S,Ray,Libra,"Data typist",O-
+female,Amber,J,Gleason,Capricorn,"Astronautical engineer",A+
+male,Dallas,K,Phair,Taurus,"Excavating and loading machine and dragline operator",O+
+female,Joyce,E,Todd,Libra,Radiologist,AB+
+female,Linda,R,Sutphin,Aquarius,"Managing editor",B+
+male,Jeff,D,Cole,Gemini,"Maintenance and repair worker",O+
+male,Henry,B,Munson,Scorpio,"Diesel train engineer",B+
+male,Richard,G,Brinn,Taurus,"Lens polisher",B+
+female,Elizabeth,A,Guild,Aries,"Network systems and data communications analyst",B+
+male,Brian,W,Kent,Sagittarius,Stonemason,O+
+male,Matthew,K,Mason,Scorpio,"Independent insurance agent",A+
+male,Kurt,M,Oshea,Pisces,"Prosthetics technician",B+
+male,Kelly,G,Betancourt,Sagittarius,"Allopathic surgeon",A+
+male,Stuart,A,Nelson,Virgo,"Color printer operator",AB+
+female,Catherine,K,Bock,Sagittarius,"Employment and placement manager",A+
+male,Nicholas,J,Barnes,Gemini,"Addictions nurse",B+
+male,Edward,K,Alfaro,Virgo,"Nephrology nurse",O+
+female,Dorothy,A,Cass,Taurus,Manufacturers,A+
+male,Anthony,C,Springfield,Scorpio,Executive,A+
+female,Rose,T,Hagen,Taurus,"Ophthalmic medical assistant",O+
+female,Mary,J,Warwick,Sagittarius,"Paper goods machine setter",A+
+female,Wanda,D,Bower,Aries,"Airline flight engineer",O+
+male,Wilson,V,Waters,Cancer,"Fire dispatcher",O+
+male,Sergio,D,Myers,Gemini,"Family services social worker",A+
+female,Gertrude,T,Doyle,Aries,"Ship officer",O+
+male,Weldon,D,Truitt,Taurus,"Risk and insurance manager",B+
+male,Roy,J,Adams,Aquarius,"Reservation and transportation ticket agent",B+
+female,Deena,A,Smith,Gemini,"Older worker specialist",B+
+female,Shay,R,Davis,Leo,"Photographic retoucher",O+
+female,Desiree,A,Breit,Virgo,Manufacturers,B+
+female,Kathleen,D,Lang,Libra,"Metal-refining furnace operator",A+
+female,Janice,D,Sanchez,Gemini,Statistician,B+
+female,Lynda,J,Bigby,Taurus,"Appliance repairer",O+
+female,Lola,J,Kelley,Scorpio,Seismologist,O+
+male,Ralph,C,Edwards,Cancer,"Cleaning supervisor",A+
+male,Richard,J,Karr,Taurus,"Harbor pilot",O-
+female,Lee,D,Thompson,Taurus,"Organizational development consultant",O+
+male,Justin,C,Cline,Cancer,"Athletic trainer",O+
+male,Joel,M,Baker,Capricorn,"Cost engineer",O+
+male,James,J,Santos,Leo,"Software quality assurance analyst",A+
+male,Santiago,C,King,Scorpio,"Gaming dealer",O+
+female,Kathleen,L,Friedel,Aries,"Ornamental ironworker",O+
+female,Amanda,H,Everson,Pisces,Biometrician,O+
+male,William,I,Cole,Aquarius,"Biomedical engineer",A-
+female,Jennifer,P,Spell,Aquarius,"Vocational counselor",A+
+male,Willie,G,Barnett,Sagittarius,"English as a second language teacher",O+
+male,Scott,M,Strickland,Leo,"Meeting director",A+
+male,Paul,L,Segrest,Libra,"Immunology technologist",O+
+male,Eugene,C,Jones,Aries,"Rigging chaser",B+
+male,Maurice,S,Sipple,Scorpio,"Order filler",O+
+male,Daryl,K,Magee,Libra,"Office support team leader",O+
+male,Jack,J,Ivy,Aries,"Certified pest control applicator",O+
+female,Elizabeth,R,Polston,Cancer,"Ornamental ironworker",O+
+male,Joseph,K,Anderson,Gemini,Landlord,O+
+male,Charles,S,Ochoa,Libra,"Medical record coder",O+
+male,George,P,Roach,Gemini,"Paper goods tender",A+
+male,Sean,B,Turner,Scorpio,"Managing editor",O+
+male,Andrew,B,Maurice,Pisces,Cabinetmaker,A+
+female,Hilda,R,Moser,Scorpio,Housekeeper,A-
+female,Amy,E,Stanford,Cancer,"Condominium association manager",O+
+female,Lily,E,Knudson,Capricorn,"Industrial economist",O-
+female,Tierra,E,Arroyo,Libra,"Oral surgeon",O+
+female,Virginia,M,Williams,Cancer,"Rail transportation occupation",A+
+male,Willie,L,Burns,Cancer,"Milling and planing machine setter",A+
+female,Gloria,T,Ellis,Gemini,"Guitar repairer",A+
+female,Deanna,T,Martin,Libra,"Funeral attendant",O+
+female,Connie,L,Gallagher,Cancer,"Biomedical equipment technician",O+
+male,Ricky,E,Hemmer,Capricorn,"Poultry scientist",O+
+male,Joe,H,Webster,Sagittarius,"Travel counselor",O+
+female,Martha,A,Drury,Scorpio,Groomer,O+
+female,Mary,M,Caldwell,Libra,"Insurance underwriter",A+
+male,Ian,W,Pruett,Capricorn,"Fence erector",O+
+female,Chasity,E,Johnson,Libra,"Brokerage sales assistant",O+
+female,Tina,G,McClendon,Scorpio,"Respiratory therapist",B+
+female,Jennifer,C,Nickles,Taurus,Welder,B+
+female,Deirdre,C,Hunter,Aquarius,"Registered dietitian",B+
+female,Dena,C,Bass,Taurus,"Livestock farmer",O+
+female,Ann,J,Steele,Sagittarius,"EEO representative",B+
+female,Heather,J,Eells,Cancer,"Power distributor",AB+
+female,Lillian,L,Moya,Sagittarius,"Clinical dietitian",A-
+female,Helen,C,Quevedo,Pisces,Farmhand,A+
+male,Clark,L,Love,Libra,"Operations analyst",O+
+male,James,S,Gutierrez,Taurus,"Diesel service mechanic",O+
+female,Judith,K,Estes,Scorpio,"Public defender",O+
+female,Marian,K,Cotter,Cancer,"Medicinal chemist",O+
+male,Robert,V,Rice,Pisces,"Animal control worker",A+
+female,Frances,J,Bratt,Scorpio,"ASE teacher",O+
+male,Thomas,N,Argueta,Sagittarius,"Floor finisher",O-
+male,Christopher,H,Baez,Gemini,"Financial investigator",O+
+male,Benjamin,S,Wright,Scorpio,"Ship engineer",B+
+female,Rebecca,T,Rios,Sagittarius,"Childcare worker",B+
+female,Holly,C,Jones,Sagittarius,"Conservation technician",O+
+male,Charlie,O,Jackson,Pisces,"Powerhouse electrician",AB+
+female,Racheal,L,Williams,Cancer,"Crushing, grinding, and polishing machine tender",O+
+female,Lillian,W,Caldwell,Aquarius,Conciliator,O+
+male,Daniel,C,Luce,Cancer,Statistician,O+
+female,Linda,S,Washburn,Virgo,"Photographic processing machine operator",O-
+female,Mary,B,Clift,Sagittarius,Platemaker,B+
+male,Charles,S,Bacon,Cancer,"U.S. Secret Service agent",A+
+female,Shirley,J,Cherry,Sagittarius,"Regional geographer",A+
+female,Voncile,C,Flores,Pisces,"ABE teacher",O+
+female,Sharon,C,Rodriguez,Sagittarius,Farmer,O+
+male,John,A,Redick,Capricorn,"Extruding and drawing machine setters",B+
+male,Alan,E,Williams,Capricorn,"Refuse and recyclable material collector",A+
+male,Joseph,T,Miller,Libra,"Poultry trimmer",A-
+female,Renee,F,Solorio,Capricorn,"Religious activities and education director",B+
+female,Barbara,F,Harris,Leo,"Administrative technician",O+
+male,Justin,M,Davies,Taurus,"Information designer",B+
+male,David,G,Ramos,Sagittarius,"Optical goods worker",O+
+male,Frank,D,Ruis,Cancer,"Media director",AB+
+male,Christopher,K,Mauck,Taurus,"Dental assistant",B+
+male,Edgar,W,Jones,Sagittarius,"Electronics repairer",A-
+female,Janice,J,Hill,Leo,Administrator,A+
+female,Agnes,J,Cook,Capricorn,"Engineering geologist",O+
+female,Rebecca,J,Williams,Virgo,"Corporate secretary",A+
+female,Brittany,J,Douglas,Virgo,"Financial manager",O+
+male,Robert,N,Baker,Pisces,"Unclaimed property officer",O+
+male,Paul,J,Rohan,Libra,"Tractor driver",A+
+female,Emily,J,Ellis,Aries,Concierge,A+
+male,Richard,P,Ammons,Leo,Electrician,B+
+male,Sang,I,Clark,Capricorn,"Credit counselor",O+
+female,Elvina,M,Parsons,Libra,"Deck officer",O+
+female,Georgia,M,Anderson,Libra,"Power plant operator",A+
+male,John,J,Haile,Taurus,"Security officer",B+
+male,Tom,H,McDaniel,Pisces,"Ordnance handling expert",O+
+male,Peter,T,Pettus,Cancer,"Secondary school teacher",A+
+male,John,N,Root,Capricorn,"Certified nurse-midwife",O+
+male,James,O,Taylor,Aries,"Time recorder",B+
+male,Jeremiah,G,Schmidt,Virgo,"Gas appliance repairer",B+
+female,Nicole,Z,Davis,Sagittarius,"U.S. Secret Service special agent",O+
+female,Elizabeth,R,Bishop,Sagittarius,"Local controller",O+
+male,Vaughn,G,Tourville,Capricorn,"Payroll bookkeeper",B+
+male,Oscar,E,Hash,Scorpio,Magistrate,A+
+female,Jennette,D,Boyd,Taurus,"Employment service specialist",B+
+female,Betty,F,Smith,Aquarius,Caulker,A+
+female,Joyce,T,Jones,Taurus,"Lead abatement worker",O+
+male,Marion,L,Duarte,Virgo,"Precious stone and metal worker",O+
+female,Jean,J,Brown,Scorpio,"Podiatric medical assistant",O+
+female,Jeannie,D,Jackson,Cancer,"Employment specialist",O+
+female,Helen,B,Hill,Leo,"Publications specialist",AB+
+female,Marianna,A,Dillon,Leo,Facilitator,A-
+female,Micaela,E,Moreau,Pisces,"Health care administrator",B+
+female,Sylvia,S,Edgerton,Capricorn,"Gas furnace installer",O+
+male,Stefan,A,Provost,Gemini,"Computer database administrator",A+
+male,Micah,S,Manley,Cancer,Coder,O+
+female,Thelma,S,McBride,Capricorn,"Publication assistant",A+
+male,William,H,Eldridge,Aries,"Human resources clerk",O+
+male,Luis,M,Uhl,Taurus,"Mental health aide",A-
+female,Nancy,C,Grace,Leo,"Fitness worker",O+
+female,Mary,M,Ragsdale,Taurus,"Creative writer",B+
+male,Christopher,L,Thomas,Aries,"Support staff specialist",O-
+male,Scott,P,Hood,Aquarius,"Office machine operator",A+
+male,Harold,L,Nelson,Aries,"Poultry farmer",A+
+female,Lucille,B,Allen,Taurus,Chemist,B+
+female,Karen,A,Keenan,Libra,"Earth driller",O+
+female,Janet,M,Curry,Sagittarius,"Floor finisher",B+
+female,Ruth,J,Durrah,Aquarius,"Customs inspector",A+
+male,Felix,J,Threlkeld,Gemini,"Economic geographer",O+
+female,Martha,W,Miller,Scorpio,"Motion picture camera operator",B+
+male,Jacob,J,Lopez,Virgo,"Gas plant operator",A+
+male,Huey,M,Anderson,Gemini,"Door-to-door sales worker",AB+
+male,Edward,I,Walker,Libra,Cabinetmaker,B+
+male,Noel,E,Pierce,Libra,"Registered nurse anesthetist",O-
+female,Sharon,J,Belt,Pisces,"Computer and information systems manager",O+
+male,Jon,M,Cordova,Capricorn,"Window clerk",AB+
+female,Jessica,T,Klein,Libra,Firefighter,AB+
+female,Elizabeth,D,McKenzie,Virgo,Locksmith,A+
+female,Rachel,K,Keller,Taurus,"Recreational vehicle service technician",A+
+female,Peggy,R,Sturdivant,Libra,"Operating engineer",AB+
+female,Margaret,J,Chapman,Aquarius,"Train dispatcher",A+
+female,Roberta,J,Hanks,Pisces,"Coin, vending, and amusement machine servicer",B+
+male,David,B,Nagel,Leo,"Inside wire installer",O+
+female,Elizabeth,J,Martinez,Capricorn,"Cutting, punching, and press machine setter",O+
+female,Lois,D,Barton,Capricorn,"Fitness director",A+
+female,Mattie,R,McDonald,Gemini,"Hospice nurse",B+
+female,Elizabeth,D,Mosier,Gemini,"Power distributor",A+
+female,Ann,B,Steele,Aquarius,"Job placement specialist",A-
+female,Barbara,H,Hardy,Scorpio,Finisher,O+
+female,Patrice,G,Corbin,Gemini,"Passenger rate clerk",B+
+male,Chase,R,Mendez,Libra,"Map editor",O+
+male,Brett,L,White,Libra,"Restaurant manager",B+
+male,Willard,M,Smith,Capricorn,"Office machine operator",A+
+male,Jared,E,Chubb,Taurus,"Environmental chemist",B+
+female,Rebecca,M,Boyd,Pisces,"Garbage collector",O+
+male,Thomas,A,Tuttle,Virgo,"Glass repairer",B+
+male,Matthew,M,Collins,Pisces,"Radio mechanic",A+
+male,Ted,L,Scott,Gemini,"Pest control technician",B+
+female,Annette,R,Biggers,Aries,"Human resources recruiter",O+
+male,David,L,Martin,Pisces,"Telecommunications equipment installer",O+
+male,Harry,D,Stenberg,Pisces,"Billing and posting clerk",O+
+female,Kelly,N,White,Cancer,"School psychologist",B+
+male,Paul,D,Vann,Capricorn,"Inside wire installer",A+
+female,Branda,D,Weaver,Leo,"Clinical chemistry technologist",O-
+female,Evelyn,B,Hobson,Aquarius,"Activity specialist",O+
+male,Ryan,R,Kohler,Libra,"Set and exhibit designer",A+
+female,Marissa,J,Tuttle,Aquarius,"Kindergarten teacher",O+
+male,Wallace,D,Boston,Taurus,"Animal control worker",O+
+male,David,E,Rapoza,Capricorn,"Welding machine setter",O+
+female,Shirlee,S,Benoit,Aries,Archaeologist,B+
+male,William,C,Kuhn,Leo,"Astronautical engineer",A+
+male,William,M,Coursey,Sagittarius,"Job placement specialist",A+
+female,Amy,A,Latch,Scorpio,"Vascular sonographer",A+
+male,William,C,Powers,Aries,"Surveillance agent",A+
+female,Lois,D,Davis,Virgo,"Economic geographer",B+
+female,Florence,F,Christiansen,Aries,"Electrical and electronics repairer",B+
+male,Miguel,J,Marty,Aquarius,"Mail carrier",O+
+female,Elizabeth,P,Ferrell,Aries,"Administrative support manager",B+
+male,William,S,Booker,Virgo,"Adult basic education teacher",A+
+female,Mary,B,Leonard,Taurus,Macroeconomist,A+

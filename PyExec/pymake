@@ -1,0 +1,50 @@
+#!/usr/bin/python2.7
+
+import compiler
+import sys
+import os
+
+def link(files, data = '', filename = None):
+    code = {}
+    
+    top = files.pop(0)
+    with open(top) as f:
+        code["__main__"] = f.read()
+        
+    for name in files:
+        with open(name) as f:
+            code[name] = f.read()
+
+    if filename is None:
+        filename = top.replace(".py", "")
+
+    with open("/home/elijah/Coding/PyExec/stub") as f:
+        stub = f.read()
+
+    compiler.compile(code, filename, data, stub)
+
+if __name__ == "__main__":
+    args = []
+    filename = None
+    data = ''
+
+    raw = False
+    for arg in sys.argv:
+        if arg.startswith("-o="):
+            filename = arg[3:]
+        elif arg.startswith("-d="):
+            name = arg[3:]
+            with open(name) as f:
+                data = f.read()
+        elif arg in ('-l', '-c'):
+            raw = True
+        else:
+            args.append(arg)
+    if len(args) > 1 and raw:
+        link(args[1:], data, filename)
+    else:
+        if "Makefile.py" in os.listdir('.'):
+            with open("Makefile.py") as f:
+                makefile = f.read()
+            exec makefile
+            make()

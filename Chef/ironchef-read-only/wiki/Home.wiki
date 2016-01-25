@@ -1,0 +1,21 @@
+#summary Home
+#labels Featured
+
+= Introduction =
+
+Written by David Morgan-Mar, Chef is widely regarded as the most esoteric of programming languages. Designed with a consistent theme, it implements most of the essential actions of a programming language (and is Turing-complete). (The only thing it appears to be missing is support for file i/o, but such is not required for Turing-completeness.)
+
+Before you continue, make a point to check out the official specification for Chef over on _dangermouse.net_, linked to in the sidebar.
+
+==Purpose==
+The purpose of IronChef is to create a firm basis for Chef to take off from. There aren't any good, compliant interpreters or compilers available for the language. (There is one interpreter available in Perl, but it is neither straightforward nor easy to use.) This project (and its name) is based off of a project given in a college course discussing the structure of different families of languages. Since the initial attempt was written in Python, the initial interpreter will be in Python. (Since we also want future generations to be able to use Chef, it will be Python 3.)
+
+The interpreters will not be using any libraries that are not included in their respective language packages.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

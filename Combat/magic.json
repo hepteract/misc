@@ -1,0 +1,79 @@
+{
+  "nul":{
+    "damage":0,
+    "bonus":0,
+    "stats":{},
+    "debuff":{},
+    "class":{},
+    "precision":0
+  },
+
+  "fus":{
+    "class":{
+      "melee":1.5}
+  },
+
+  "lun":{
+    "class":{
+      "pierce":2}
+  },
+
+  "ro":{
+    "stats":{},
+    "damage":20,
+    "bonus":0
+  },
+
+  "kon":{
+    "stats":{},
+    "damage":10,
+    "bonus":10
+  },
+
+  "dah":{
+    "precision":20,
+    "stats":{},
+    "bonus":0
+  },
+
+  "vul":{
+    "precision":10,
+    "bonus":0
+  },
+
+  "nol":{
+    "precision":10,
+    "stats":{}
+  },
+
+  "yol":{
+    "class":{
+      "fire":0.5}
+  },
+
+  "liz":{
+    "class":{
+      "ice":0.5}
+  },
+
+  "strun":{
+    "class":{
+      "energy":0.5}
+  },
+
+  "ov":{
+    "stats":{"END":[20,1]},
+    "damage":1,
+    "bonus":0
+  },
+
+  "od":{
+    "stats":{"END":10},
+    "precision":-5
+  },
+
+  "namaste":{
+    "damage":100,
+    "bonus":100
+  }
+}

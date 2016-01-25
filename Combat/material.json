@@ -1,0 +1,61 @@
+{
+  "plate":{
+   "arcana":0.5,
+   "weight":20,
+   "resists":{
+     "fire":5,
+     "ice":5,
+     "energy":0,
+     "pierce":1000,
+     "melee":20,
+     "ballistic":10},
+   "weakness":20},
+
+  "chain":{
+   "arcana":0.5,
+   "weight":10,
+   "resists":{
+     "fire":5,
+     "ice":5,
+     "energy":0,
+     "pierce":1000,
+     "melee":10,
+     "ballistic":0},
+   "weakness":0},
+
+  "scale":{
+   "arcana":0.5,
+   "weight":15,
+   "resists":{
+     "fire":5,
+     "ice":5,
+     "energy":0,
+     "pierce":1000,
+     "melee":20,
+     "ballistic":8},
+   "weakness":10},
+
+  "hide":{
+   "arcana":1,
+   "weight":5,
+   "resists":{
+     "fire":10,
+     "ice":10,
+     "energy":10,
+     "pierce":1000,
+     "melee":10,
+     "ballistic":5},
+   "weakness":10},
+
+  "cloth":{
+   "arcana":2,
+   "weight":0,
+   "resists":{
+     "fire":20,
+     "ice":20,
+     "energy":1000,
+     "pierce":0,
+     "melee":0,
+     "ballistic":0},
+   "weakness":10}
+}

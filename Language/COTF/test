@@ -1,0 +1,5 @@
+#!/usr/bin/env cotf
+
+hello() = {print("Hello,", args.0);};
+
+hello ( input("What is your name? ") );

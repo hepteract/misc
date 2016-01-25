@@ -1,0 +1,38 @@
+Simple CPU Simulator -- CPU Hooks interface
+
+The CPU Hooks interface has changed a lot since it was first released, it no longer supports custom op-code creation, as that
+made little sense, as CPUs don't just get new op-codes when you insert new hardware.  Rather they usually have their own
+memory addresses they access and that's how the CPU talks to the new hardware.  This I believe is called DMA(direct memory access).
+
+The new hooks system works similar to the original system where you sub-class a special class and create methods there.
+
+The class you need to sub-class is BaseCPUHook, and you need to supply one class variable, called ports.  Here is an
+example Hello World one, taken from the previous Hooks example and tailored for the new system:
+
+class HelloWorldHook(BaseCPUHook):
+    """ This is an example I/O Hook which demonstrates how the I/O hook system works. """
+    ports = [32,33]
+    def out_32(self, addr):
+        self.addr = addr
+    def in_32(self):
+        self.cpu.mem[self.addr] = "Hello World!"
+        return self.addr
+    def out_33(self, reg):
+        sys.stdout.write("%s\n" % getattr(self.cpu, self.cpu.var_map[reg]).b)
+
+Here we are telling the CPU that this virtual I/O device can be accessed on CPU I/O ports 32 and 33.  And we supply some logic for
+these ports to work within the CPU/Virtual Machine.  The first method "out_32" is an OUTPUT method, where the CPU can send some
+data over to this virtual device to process.  This is in the form of a register, so it will be a 16-bit integer.  The second
+method "in_32" allows the CPU to request data from this virtual device, the data returned should be a 16-bit integer.
+
+To access these methods in your code using the included Coder interface, you can use them like so:
+
+mov ax,300
+out 32,ax
+in ax,32
+mov ax,1
+out 33,ax
+
+By using the standard OUT and IN operations you can write and read data from your virtual I/O device.
+The Virtual I/O device also has access to the CPU, and can access memory and other registers.
+You can use "self.cpu" to access the connected CPUs resources.
