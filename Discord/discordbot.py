@@ -24,8 +24,8 @@ def test(message):
 
 def remove(message):
     channels.remove(message.channel)
-    if message.channel in chatbots.keys():
-        del chatbots[message.channel]
+    if message.channel in sindomes.keys():
+        del sindomes[message.channel]
     client.send_message(message.channel, "You are now unsubscribed!")
 
 def shout(message):
@@ -48,13 +48,23 @@ def chat(message):
 #    client.send_message(message.channel, "! Chatbot started !")
     pass
 
+def remind(message):
+    pass
+
+sindomes = []
+def sindome(message):
+    sindomes[messsage.channel] = socket.socket()
+    sindomes[message.channel].connect(("moo.sindome.org", 5555))
+
 bots = {
     "!test" : test,
     "!shout " : shout,
     "!remove" : remove,
     "!fortune" : fortune,
     "!play" : play,
-    "!chat" : chat
+    "!chat" : chat,
+    "!remind" : remind,
+    "!sindome" : sindome
     }
 
 last = ""
@@ -71,24 +81,18 @@ def valid(message):
 def on_message(message):
     global last
 
-    with open("chat.log", "a") as log:
-        if message.content[0] not in nope:
-            log.write(valid(message))
-
     for cmd, func in bots.items():
         if message.content.startswith(cmd):
             func(message)
             return
 
-    if message.channel in chatbots.keys():
+    if message.channel in sindome:
 	if message.content != last:
-	    last = chatbots[message.channel].get_response(message.content)
-            client.send_message(message.channel, last)
+	    last = sindome
 
 def mainloop():
     while True:
-	broadcast(subprocess.check_output("fortune", shell = True))
-        time.sleep(432000)
+	pass
 
 @client.event
 def on_ready():
