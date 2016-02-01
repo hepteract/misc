@@ -3,7 +3,7 @@
 def _main(prompt = "> "):
     while True:
         try:
-            exec input(prompt)
+            exec compile(input(prompt), "<string>", "single")
         except ProcessInterrupt:
             break
         except:

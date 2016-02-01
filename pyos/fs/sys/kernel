@@ -32,8 +32,6 @@ def do_import(_name, local = True, include = False, reuse = True, dict = None):
         module_dict["__dict__"] = module.__dict__
         module.__dict__.update(module_dict)
 
-    __modules__[name] = module
-
     obj = compile(code, name, "exec")
     
     exec obj in module.__dict__
@@ -45,10 +43,12 @@ def do_import(_name, local = True, include = False, reuse = True, dict = None):
             for name, value in module.__dict__.items():
                 __dict__[name] = value
 
-    module = module.__imp__(module, name)
-
     for name in name.split(".")[1:]:
         module = getattr(module, name)
+
+    module = module.__imp__(module, name)
+
+    __modules__[name] = module
 
     return module
 
@@ -59,7 +59,7 @@ __builtins__["__import__"] = __import__
 def include(name):
     return do_import(name, include = True)
 
-@clean_function
+@force_clean_function
 def get_path(path, bytes = 0):
     tree = path.split("/")
     branch = __files__

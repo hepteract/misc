@@ -1,2 +1,2 @@
-# misc
+# Miscellaneous
 Miscellaneous coding projects

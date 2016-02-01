@@ -1,0 +1,3 @@
+#!/bin/sh
+
+fab go -i ~/.ssh/id_rsa -H $1

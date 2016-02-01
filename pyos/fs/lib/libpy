@@ -85,6 +85,9 @@ def min(iterable):
             minimum = item
     return minimum    
 
+def time():
+    return open("/dev/clock").read()
+
 @clean_function
 def ls(path = "."):
     return get_path(path).listdir()

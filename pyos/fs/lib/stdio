@@ -139,11 +139,10 @@ def input(prompt = "", echo = True, char = 1000000000, raw = False, endchar = '\
             __log__(len(last), ", ", len(escape), ", ", cursor)
 
 @clean_function
-def multiline_input(prompt = "", echo = True, char = 1000000000, raw = False, endchar = '\x18\x04', history = ()):
-    printf(prompt, end = "")
+def multiline_input(prompt = "", echo = True, char = 1000000000, raw = False, endchar = '\x18\x04', history = (), start = None):
     char += 1
 
-    out = []
+    out = [] if start is None else list(start)
     last = "x"
     escape = ""
 
@@ -151,8 +150,16 @@ def multiline_input(prompt = "", echo = True, char = 1000000000, raw = False, en
 
     assert '\n' not in endchar, "multiline_input() does not support single-line input"
 
-    cursor = 0
+    cursor = 0 if start is None else len(start)
     hist = -1
+
+    terminal.clear()
+
+    printf(prompt, end = "")
+
+    if start is not None:
+        printf(start, end = "")
+    
     while char > 0:
         last = next(__files__["dev"]["stdin"])
         if last in endchar and last:
@@ -169,16 +176,14 @@ def multiline_input(prompt = "", echo = True, char = 1000000000, raw = False, en
                     cursor -= 1
                     terminal.cursor.move(-1)
                     terminal.cursor.save()
-                    terminal.cursor.move(-(cursor) - len(prompt))
-                    terminal.erase_line()
+                    terminal.clear()
                     printf(prompt + ''.join(out), end = ' ')
                     terminal.cursor.restore()
                 elif out != []:
                     out.pop(cursor - 1)
         elif last == '\x12':
             terminal.cursor.save()
-            terminal.cursor.move(-(cursor + 1) - len(prompt))
-            terminal.erase_line()
+            terminal.clear()
             printf(prompt + ''.join(out), end = '')
             terminal.cursor.restore()
         elif last == "\x1b" and not raw and echo:

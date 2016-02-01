@@ -17,7 +17,7 @@ def child_wrapper(name, main, *args, **kwargs):
 def _main(prompt = ">>> "):
     while True:
         try:
-            exec input(prompt)
+            exec compile(input(prompt), "<string>", "single")
         except SystemInterrupt:
             raise
         except ProcessInterrupt:

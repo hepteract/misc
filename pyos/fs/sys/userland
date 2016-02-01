@@ -5,6 +5,8 @@ import path
 
 class ProcessError(Exception): pass
 
+DEBUG = False
+
 @clean_function
 def create_process(name, dict):
     if name.startswith("/"):
@@ -55,12 +57,15 @@ def create_activity(name, dict):
 processes = []
 
 @clean_function
-def spawn(name, dict = {}, args = [], kwargs = {}):
+def spawn(name, dict = None, args = [], kwargs = {}):
+    if dict is None:
+        dict = __dict__
     try:
         process = create_process(name, dict)
     except:
         #process = create_activity(name, dict)
-        return -1
+        #return -1
+        raise
         
     if None in processes:
         index = processes.index(None)
@@ -104,13 +109,17 @@ def fallback():
     pass
 
 def bootstrap():
+    global DEBUG
     printf("Bootstrapping...")
+    
+    shellfile = open("/etc/shell").read()
+    shell = shellfile.split("\n")[0]
 
     if len(CIOS_MAGIC) > 1:
-        shell = CIOS_MAGIC[1]
-    else:
-        shellfile = open("/etc/shell").read()
-        shell = shellfile.split("\n")[0]
+        if CIOS_MAGIC[1] == "debug":
+            DEBUG = True
+        else:
+            shell = CIOS_MAGIC[1]
 
     spawn(shell, __dict__)
 
@@ -123,10 +132,13 @@ def bootstrap():
                 run_all()
             except SystemInterrupt:
                 interrupt = SystemInterrupt
+            except KeyboardInterrupt:
+                pass
             except:
                 exc = file("/dev/error").read()
                 printf("userland (" + __name__ + "):", exc[0].__name__ + ":", exc[1], file="stderr")
-                raise
+                if DEBUG:
+                    raise
 
         if interrupt is SystemInterrupt:
             break

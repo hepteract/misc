@@ -1,0 +1,4 @@
+#!/bin/sh
+
+fab node -i ~/.ssh/id_rsa -H $1
+fab local:$1 -i ~/.ssh/id_rsa -H atercap.com
