@@ -1,0 +1,15 @@
+#!/usr/bin/env python2
+
+from txrestapi.methods import GET, POST, PUT, ALL
+from txrestapi.resource import APIResource
+from twisted.web.server import Site
+from twisted.internet import reactor
+
+class RESTful(APIResource):
+    @GET('^/')
+    def default(self, request):
+        return "Hello, World!"
+
+api = RESTful()
+site = Site(api, timeout = None)
+reactor.listenTCP(8090, site)
