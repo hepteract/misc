@@ -45,7 +45,7 @@ def chat(message):
 #    chatbots[message.channel] = chatbot.ChatBot("MassiveDynamic")
 #    with open("chat.log") as log:
 #	chatbots[message.channel].train(log.read().split("\n"))
-#    client.send_message(message.channel, "! Chatbot started !")
+#        client.send_message(message.channel, "! Chatbot started !")
     pass
 
 def remind(message):
