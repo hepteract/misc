@@ -10,6 +10,4 @@ class RESTful(APIResource):
     def default(self, request):
         return "Hello, World!"
 
-api = RESTful()
-site = Site(api, timeout = None)
-reactor.listenTCP(8090, site)
+resource = RESTful()
