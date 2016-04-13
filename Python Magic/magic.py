@@ -6,7 +6,7 @@ def _trace(frame, event, arg):
     filename = frame.f_code.co_filename
     lineno = frame.f_lineno
 
-    print filename, f_lineno
+    print filename, lineno
     frame.f_lineno = input("Goto: ")
 
 sys.settrace(_trace)
