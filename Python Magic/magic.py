@@ -8,3 +8,5 @@ def _trace(frame, event, arg):
 
     print filename, f_lineno
     frame.f_lineno = input("Goto: ")
+
+sys.settrace(_trace)
