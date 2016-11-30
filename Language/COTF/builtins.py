@@ -75,12 +75,14 @@ def set(obj, name, value):
         obj[name] = value
     except:
         setattr(obj, name, value)
+    return value
 
 _exit = exit
 def exit(code = None):
     _exit(code)
 
-builtins = {"input" : clean(raw_input),
+builtins = {
+            "input" : clean(raw_input),
             "exit" : clean(exit),
 
             "import" : _import,
@@ -91,7 +93,9 @@ builtins = {"input" : clean(raw_input),
             "if" : _if,
             
             "undefined" : undefined,
-            "null" : null,
+            "null" : null
+           }
 
-            "true" : number(1),
-            "false" : number(0)}
+builtins_mod = _import("builtins")
+if builtins_mod is not null:
+    builtins.update(builtins_mod.scope)

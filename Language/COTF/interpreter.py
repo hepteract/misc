@@ -53,6 +53,10 @@ class array(list):
         return "".join(("array", repr(tuple(self))))
     def cotf(self):
         return "".join(('(', " ".join([getattr(item, "cotf", lambda: "<unknown object>")() for item in self]), ')'))
+    
+    @property
+    def length(self):
+        return clean( len(self) )
 
 def clean(value):
     if type(value) in (int, float, long):
@@ -199,6 +203,7 @@ def handle_code(source, scope = None):
     if scope is None:
         scope = collections.defaultdict(lambda *args, **kwargs: undefined)
         scope.update(builtins.builtins)
+
     parser = tokens.grammarParser(parseinfo = False, eol_comments_re = "#.*?$")
     ast = parser.parse(source, 'root')
     return CodeObject(ast["code"], scope)
@@ -227,7 +232,11 @@ def interact():
     scope.update(builtins.builtins)
 
     while True:
-        code = raw_input("cotf> ")
+        try:
+            code = raw_input("cotf> ")
+        except EOFError:
+            break
+
         if code.startswith("!"):
             obj = compile(code[1:], "<string>", "single")
             try:

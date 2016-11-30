@@ -1,5 +1,9 @@
 #!/usr/bin/env cotf
 
-hello() = {print("Hello,", args.0);};
+hello() = {
+	print("Hello,", args.0);
+	meme = "hi";
+};
 
 hello ( input("What is your name? ") );
+print( hello.meme );

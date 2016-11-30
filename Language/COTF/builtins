@@ -1,0 +1,29 @@
+class() = {
+	func = get(args, 0);
+	decorator = {
+		return = func();
+		return();
+	};
+	return = decorator();
+};
+
+true = 1;
+false = 0;
+
+obj = { return = null; };
+
+foreach() = {
+	iterable = get(args, 0);
+	func = get(args, 1);
+	item = 0;
+	length = get(iterable, "length")
+
+	each() = {
+		value = get(iterable, item);
+		func( item, value );
+
+		if( item > length, each );
+	};
+
+	each();
+};

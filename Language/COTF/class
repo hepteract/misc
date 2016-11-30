@@ -1,8 +1,0 @@
-class() = {
-	func = get(args, 0);
-	decorator = {
-		return = func();
-		return();
-	};
-	return = decorator();
-};
