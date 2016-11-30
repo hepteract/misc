@@ -17,7 +17,7 @@ funcblock = '()' func:codeblock;
 
 expr = contain | funcdef | funcblock | call | tuple | codeblock | set | operation | not | number | getattr | keyword | string;
 
-OPERATION = '+' | '-' | '*' | '/' | '%' | '|' | '&' | '==' | '!=' | '>' | '<' | '<=' | '>=';
+OPERATION = '+=' | '-=' | '/=' | '*=' | '+' | '-' | '*' | '/' | '%' | '|' | '&' | '==' | '!=' | '>' | '<' | '<=' | '>=';
 operation = input+:expr op:OPERATION input+:expr;
 
 funcdef = function:keyword '()' '=' value:expr;
