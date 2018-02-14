@@ -25,6 +25,7 @@ game.cmd_list['eat (item)'] = "Attempt to eat the item 'item'"
 game.cmd_list['orbit (planet)'] = "Enter orbit around 'planet' or leave orbit"
 game.cmd_list['refuel [item]'] = "Generate electroplasma from fuel"
 game.cmd_list['battery'] = "Check current charge value"
+game.cmd_list['status'] = "List modules and their health values"
 
 def generate_materials(num = -1):
     logging.debug('Generating materials')
@@ -190,6 +191,19 @@ def prospect(world, cmd, playerid):
 
 
 game.new_cmd['prospect'] = prospect
+
+def status(world, cmd, playerid):
+    player = world.players[playerid]
+
+    modules = [module for line in player.layer.map for module in line]
+    for module in modules:
+        if module._func is None:
+            modules.remove(module)
+
+    for index, module in enumerate(modules, 1):
+        print "%i: %s - %i" % (index, repr(module)[1:-1], module.hp)
+
+game.new_cmd['status'] = game.new_cmd['modules'] = status
 
 def mine(world, cmd, playerid):
     player_system = world.system_list[world.players[playerid].systemID]

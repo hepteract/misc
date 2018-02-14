@@ -72,7 +72,56 @@ def craft(world, cmd, playerid):
     print name, "added.\n"
 
 game.new_cmd["craft"] = craft
+game.cmd_list["craft [items ...]"] = "combine items to create a crafted item"
 
+def repair(world, cmd, playerid):
+    player = world.players[playerid]
+
+    mat = None
+    plate = None
+    for item in player.cargo:
+        if item.endswith("plate") and item in world.blu.keys():
+            for material in world.mat_data.keys():
+                if material in item:
+                    plate = item
+                    mat = world.mat_data[material][2]
+                    break
+
+    if plate is None:
+        print "No valid plates to repair with"
+        return
+
+    else:
+        print "Plate chosen: %s (hardness %i)" % (plate, mat)
+
+    modules = [module for line in player.layer.map for module in line]
+    for module in modules:
+        if module._func is None:
+            modules.remove(module)
+
+    for index, module in enumerate(modules, 1):
+        print "%i: %s - %i" % (index, repr(module)[1:-1], module.hp)
+
+    choice = None
+    while choice is None:
+        try:
+            index = int(raw_input("Module number to repair: "))
+        except:
+            print "Invalid choice"
+            continue
+        if index > len(modules):
+            print "Invalid choice"
+            continue
+        else:
+            print "%s selected." % (repr(modules[index - 1]),)
+            choice = (index - 1)
+
+    modules[choice].hp += mat
+    print "%s consumed" % (plate,)
+    player.cargo.remove(plate)
+
+game.new_cmd["repair"] = game.new_cmd["armor"] = game.new_cmd["reinforce"] = repair
+game.cmd_list["repair"] = "use manufactured plates to reinforce your hull"
 lp.blueprint_types.append("warhead")
 lp.blueprint_types.append("missile")
 
@@ -104,7 +153,7 @@ def generate_material_data(new, world):
             values = []
             values.append(0x00)
             values.append(random.randrange(0, 20))
-            values.append(random.randrange(0, 20))
+            values.append(random.randrange(20, 100))
             values.append(random.randrange(0, 20))
             
             material_data[mat] = values
