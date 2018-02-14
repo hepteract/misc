@@ -468,11 +468,18 @@ class ShipModule(object):
 
     def __init__(self, hp = 100, func = 'hull', symbol = None, crew = CrewRoster(), **data):
         self.hp = hp
-        self.func = func
+        self._func = func
         self.data = data
         self.layer = None
         self.symbol = symbol
         self.crew = CrewRoster(crew)
+
+    @property
+    def func(self):
+        if self.hp > 0:
+            return self._func
+        else:
+            return False
 
     def link(self, layer):
         self.layer = layer
@@ -483,12 +490,15 @@ class ShipModule(object):
             self.hp -= mag
         else:
             self.hp = 0
-            self.func = False
+            #self.func = False
             for human in self.crew:
                 human.skin = human.vital_organs = human.nonvital_organs = 0
                 human.alive = False
 
     def activate(self, target):
+        if self.hp <= 0:
+            logging.debug('Destroyed ship module not activating')
+            return
         logging.debug('Ship module activated')
         if self.func == 'dmg':
             target.dmg(self.data['mag'], self.data['axis'], self.data['pos'] + self.layer.offset(target, self.data['axis']))
@@ -533,7 +543,7 @@ class ShipModule(object):
             else:
                 return ' '
         else:
-            if self.func is None:
+            if self._func is None:
                 return ' '
             return '*'
 
