@@ -3,9 +3,6 @@ import leviathans_world as game
 import leviathans_planets as lp
 import sys
 
-import leviathans_craft
-import leviathans_clone
-
 def multiline_input(prompt = ''):
     input = ''
     input += raw_input(prompt)
