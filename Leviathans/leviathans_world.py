@@ -127,7 +127,7 @@ prefix_mods = {'3/27': 'Specially Named',
  '11/28': ('Thanksgiving', 'Thank You'),
  '11/29': ('Black', 'Shopping'),
  '12/7': ('Pearl', 'Pearl Harbor', 'Remembrance'),
- '12/7': ("Elijah's", 'Birthday'),
+ '12/7': ("Ellie's", 'Birthday'),
  '12/21': ('Solstice', 'Winter'),
  '12/26': ('Kwanzaa', 'Unity', 'Umoja', 'First')}
 body_mods = {}
