@@ -3,6 +3,10 @@ import leviathans_world as game
 import leviathans_planets as lp
 import sys
 
+import logging
+if __name__ != "__main__":
+    logging.debug("leviathans_obc imported")
+
 def multiline_input(prompt = ''):
     input = ''
     input += raw_input(prompt)

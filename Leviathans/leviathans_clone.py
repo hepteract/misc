@@ -5,6 +5,9 @@ import logging
 import random
 import copy
 
+if __name__ != "__main__":
+    logging.debug("leviathans_clone imported")
+
 lp.blueprints["Clone contract"] = "Cadaver"
 
 @game.loop_hook

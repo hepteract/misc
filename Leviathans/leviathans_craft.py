@@ -1,8 +1,12 @@
 import leviathans_planets as lp
 import leviathans_world as game
 
+import logging
 import binascii
 import random
+
+if __name__ != "__main__":
+    logging.debug("leviathans_craft imported")
 
 def dedupe(seq):
     seen = set()
