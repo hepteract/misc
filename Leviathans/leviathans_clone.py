@@ -1,6 +1,7 @@
 import leviathans_planets as lp
 import leviathans_world as game
 
+import logging
 import random
 import copy
 
@@ -25,3 +26,16 @@ def check_clones(world, playerid):
                     y.crew[0] = clone.captain
 
         lp.update_cargo(world, playerid)
+
+@game.world_hook
+def enable_clones(new, world):
+    world.CLONES = True
+
+@game.death_hook
+def check_clones(world, playerid):
+    if playerid < len(world.players) and hasattr(world, "CLONES"):
+        if raw_input("Activate clone (y/n)? ").lower() != "n":
+            print 'Clone activated.\n'
+            logging.info('Clone activated')
+            game.play_world(world, playerid)
+

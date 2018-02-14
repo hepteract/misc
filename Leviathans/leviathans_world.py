@@ -51,6 +51,12 @@ def world_hook(hook):
     world_hooks += (hook,)
     return hook
 
+death_hooks = ()
+def death_hook(hook):
+    global death_hooks
+    death_hooks += (hook,)
+    return hook
+
 def wrap_loop_hook(world, playerid):
     def wrapper(func):
         def main(*args):
@@ -524,11 +530,8 @@ def play_world(world, playerid = 0):
         print '\nSorry, you died.\n'
         logging.info('Player dead')
         world.players.pop(playerid)
-        if playerid < len(world.players):
-            if raw_input("Activate clone (y/n)? ").lower() != "n":
-                print 'Clone activated.\n'
-                logging.info('Clone activated')
-                play_world(world, playerid)
+        for hook in death_hooks:
+            hook(world, playerid)
         cmd = None
         while cmd != '':
             cmd = raw_input('Press the [Enter] key to exit> ')
