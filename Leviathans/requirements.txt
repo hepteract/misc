@@ -1,0 +1,2 @@
+progressbar>=2.3
+-e git+https://github.com/hepteract/nova.git#egg=nova
