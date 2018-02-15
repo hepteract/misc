@@ -423,8 +423,9 @@ def _play_world(world, playerid = 0):
                 found = True
                 try:
                     new_cmd[_cmd](world, cmd, playerid)
-                except:
+                except Exception, e:
                     print "I'm sorry Captain, that didn't work."
+                    logging.error(e)
                 break
 
         if found:
