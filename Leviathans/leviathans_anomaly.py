@@ -72,6 +72,8 @@ def research(world, cmd, playerid):
 
     system = world.system_list[world.players[playerid].systemID]
 
+    print
+
     if system.anomaly is None:
         print "There is no anomaly to research here, Captain"
     else:
@@ -82,9 +84,10 @@ def research(world, cmd, playerid):
         print
         print 'The following has been added to your cargo bay:'
 
-        item = system.anomaly.discover()
+        item = system.anomaly.discover(world)
         logging.info('Adding %s to player cargo bay', item)
         world.players[playerid].cargo.append(item)
         print item
+        print
 
 game.new_cmd['research'] = game.new_cmd['discover'] = research
