@@ -161,12 +161,79 @@ def generate_material_data(new, world):
 
             values = []
             values.append(0x00)
-            values.append(random.randrange(0, 20))
-            values.append(random.randrange(20, 100))
+            values.append(random.randrange(5, 20))
+            values.append(random.randrange(20, 120))
             values.append(random.randrange(0, 20))
             
             material_data[mat] = values
         world.mat_data = material_data
+
+def value_fuel(fuel):
+    value = 10
+
+    for mat in world.mat_data:
+        if mat in fuel:
+            value = world.mat_data[mat]
+            break
+
+    for prefix in game.item_prefix:
+        if prefix in fuel:
+            value *= 2
+            break
+
+    return value
+
+def refuel(world, cmd, playerid):
+    player = world.players[playerid]
+
+    for item in player.cargo:
+        if "fuel" in item.lower() and item.lower() in cmd and item not in blueprints.values():
+            logging.info("Refueliing using %s", item)
+            print "Refueling using", item
+
+            player.cargo.remove(item)
+
+            value = value_fuel(item)
+
+            for i in xrange(value):
+                player.cargo.append("")
+            return
+        elif item == "Antimatter Canister" and item.lower() in cmd:
+            logging.info("Refueliing using %s", item)
+            print "Refueling using", item
+
+            player.cargo.remove(item)
+            for i in xrange(40):
+                player.cargo.append("")
+
+            return
+
+    for item in player.cargo:
+        if "fuel" in item.lower() and item not in blueprints.values():
+            logging.info("Refueliing using %s", item)
+            print "Refueling using", item
+
+            player.cargo.remove(item)
+
+            value = value_fuel(item)
+
+            for i in xrange(value):
+                player.cargo.append("")
+            return
+        elif item == "Antimatter Canister":
+            logging.info("Refueliing using %s", item)
+            print "Refueling using", item
+
+            player.cargo.remove(item)
+            for i in xrange(40):
+                player.cargo.append("")
+
+            return
+
+    logging.info("No fuel to burn")
+    print "I'm sorry, sir, but we don't have any fuel to burn."
+
+game.new_cmd['refuel'] = game.new_cmd["burn"] = refuel
 
 for i in xrange(3):
     lp.blueprint_types.append("plate")
