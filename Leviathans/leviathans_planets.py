@@ -174,9 +174,7 @@ scan_hook = HookTarget()
 
 def prospect(world, cmd, playerid):
     if cmd: logging.info('Prospecting solar system for planetary resources')
-    else: logging.debug('Prospecting solar system for planetary resources')
-    
-    scan_hook.run(world, playerid)
+    else: logging.debug('Prospecting solar system for planetary resources') 
     
     materials = world.mat
     player_system = world.system_list[world.players[playerid].systemID]
@@ -191,7 +189,10 @@ def prospect(world, cmd, playerid):
 
     else:
         print 'Sorry, there are no planets in this solar system.'
+
     print
+
+    scan_hook.run(world, playerid)
 
 
 game.new_cmd["scan"] = game.new_cmd['prospect'] = prospect
