@@ -8,7 +8,13 @@ game.modules = []
 with open("modules.conf") as conf:
     modules = conf.readlines()
     for module in modules:
-        game.modules.append(__import__("leviathans_" + module[:-1]))
+        if module.startswith("#"):
+            continue
+        elif module.startswith("*"):
+            pass
+        else:
+            module = "leviathans_" + module
+        game.modules.append(__import__(module[:-1]))
 
 if __name__ != "__main__":
     raise ImportError("leviathans_main does not support being imported!")
