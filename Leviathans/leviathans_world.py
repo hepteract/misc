@@ -6,6 +6,7 @@ SYSTEM_BASE = {}
 SOUNDTRACK = 'below_the_asteroids.mp3'
 LOOT = ('Metal Scrap', 'Metal Scrap', 'Metal Scrap', 'Officer Insignia',\
         'Top Secret Report', 'Antimatter Canister')
+from nova.hook import HookTarget
 from leviathans import ShipLayer, ShipModule, generate_crew_roster
 from progressbar import ProgressBar, AnimatedMarker
 import leviathans_battle as lb
@@ -33,42 +34,17 @@ class Apotheosis(Exception):
 class Death(Exception):
     pass
 
-loop_hooks = ()
-def loop_hook(hook):
-    global loop_hooks
-    loop_hooks += (hook,)
-    return hook
+loop_hook = HookTarget()
 
-battle_hooks = ()
-def battle_hook(hook):
-    global battle_hooks
-    battle_hooks += (hook,)
-    return hook
+battle_hook = HookTarget()
 
-world_hooks = ()
-def world_hook(hook):
-    global world_hooks
-    world_hooks += (hook,)
-    return hook
+world_hook = HookTarget()
 
-death_hooks = ()
-def death_hook(hook):
-    global death_hooks
-    death_hooks += (hook,)
-    return hook
+death_hook = HookTarget()
 
-def wrap_loop_hook(world, playerid):
-    def wrapper(func):
-        def main(*args):
-            return func(world, playerid)
-        return main
-    return wrapper
-
-def wrap_battle_hook(world, playerid):
-    def wrapper(func):
-        def main(*args):
-            return func(world, playerid, *args)
-        return main
+def wrap_loop_hook(func):
+    def wrapper(world, playerid, *args, **kwargs):
+        return func(world, playerid)
     return wrapper
 
 def get_help():
@@ -372,8 +348,7 @@ def new_world(save = True, notify = True):
     logging.debug('Generating new world')
     world = GameWorld()
 
-    for hook in world_hooks:
-        hook(True, world)
+    world_hook.run(True, world)
     
     worldfile = open('world.dat', 'wb')
     if save:
@@ -402,8 +377,7 @@ def load_world(save = True, notify = True):
         exit()
     worldfile.close()
 
-    for hook in world_hooks:
-        hook(False, world)
+    world_hook.run(False, world)
         
     return world
 
@@ -437,8 +411,7 @@ def _play_world(world, playerid = 0):
     player = world.players[playerid]
     print 'Welcome to', world.systems[player.systemID].name + ', Captain!\n'
     while True:
-        for hook in loop_hooks:
-            hook(world, playerid)
+        loop_hook.run(world, playerid)
             
         cmd = raw_input("We're currently in " + world.systems[player.systemID].name + ', Captain. Your orders?\n').lower()
         logging.info("Command '%s' recieved", cmd)
@@ -503,10 +476,9 @@ def _play_world(world, playerid = 0):
         if world.systems[player.systemID].enemy != None:
             print '\nSir! An enemy ship is aproaching us', random.choice(('out of nowhere!', 'from behind a planet!', 'after leaving a station!', 'with its guns loaded!')), '\n'
 
-            wrapper = wrap_loop_hook(world, playerid)
-            wrap = wrap_battle_hook(world, playerid)
-            lb.loop_hooks = tuple([wrapper(func) for func in loop_hooks])
-            lb.loop_hooks += tuple([wrap(func) for func in battle_hooks])
+            lb.loop_hook = HookTarget(world, playerid)
+            lb.loop_hook.hooks = tuple([wrap_loop_hook(func) for func in loop_hook.hooks])
+            lb.loop_hook.hooks += battle_hook.hooks
             
             ship = lb.main(False, ship0=player.layer, player_crew=player.crew, diff=player.systemID)
             if ship == False:
@@ -530,8 +502,7 @@ def play_world(world, playerid = 0):
         print '\nSorry, you died.\n'
         logging.info('Player dead')
         world.players.pop(playerid)
-        for hook in death_hooks:
-            hook(world, playerid)
+        death_hook.run(world, playerid)
         cmd = None
         while cmd != '':
             cmd = raw_input('Press the [Enter] key to exit> ')

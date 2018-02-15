@@ -125,8 +125,7 @@ def new_world(save = True, notify = True):
         item_blueprint = item + ' ' + random.choice(('Blueprint', 'Schematic', 'Template'))
         world.blu[item] = item_blueprint
 
-    for hook in game.world_hooks:
-        hook(True, world)
+    game.world_hook.run(True, world)
     
     if save:
         worldfile = open('world.dat', 'wb')
@@ -163,8 +162,7 @@ def load_world(save = True, notify = True):
     standing_offers = world.ofr
     game.LOOT += (random.choice(materials.values()), random.choice(materials.values()), random.choice(materials.values()))
 
-    for hook in game.world_hooks:
-        hook(False, world)
+    game.world_hook.run(False, world)
     
     return world
 

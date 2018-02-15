@@ -1,5 +1,6 @@
 #Embedded file name: leviathans_battle.pyc
 from leviathans import *
+from nova.hook import HookTarget
 from threading import Thread
 import logging
 if __name__ != '__main__':
@@ -40,12 +41,7 @@ def boarding_parties():
         print "Your boarding party failed to sabotage one of the enemy's systems, and they all died trying."
         logging.info("Your boarding party failed to sabotage one of the enemy's systems, and they all died trying")
 
-loop_hooks = ()
-
-def loop_hook(func):
-    global loop_hooks
-
-    loop_hooks += (func,)
+loop_hook = HookTarget()
 
 def _simple_demo(captain = True, ship0 = None, player_crew = None, ship1 = None, ship1_crew = None, diff = 0):
     if captain == True:
@@ -72,11 +68,7 @@ def _simple_demo(captain = True, ship0 = None, player_crew = None, ship1 = None,
         print 'Your orders, Captain?'
         cmd = raw_input().lower()
 
-        cont = True
-        for hook in loop_hooks:
-            if hook(cmd, ship0, ship1) == -1:
-                cont = False
-        if cont is False:
+        if loop_hook.run(cmd, ship0, ship1, check = -1):
             continue
             
         if 'fire' in cmd or 'kill' in cmd or 'blow' in cmd or 'shoot' in cmd:
