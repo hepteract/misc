@@ -421,12 +421,15 @@ def _play_world(world, playerid = 0):
         for _cmd in new_cmd:
             if _cmd in cmd:
                 found = True
-                new_cmd[_cmd](world, cmd, playerid)
+                try:
+                    new_cmd[_cmd](world, cmd, playerid)
+                except:
+                    print "I'm sorry Captain, that didn't work."
                 break
 
         if found:
-            continue
-        if 'jump' in cmd or 'warp' in cmd:
+            pass
+        elif 'jump' in cmd or 'warp' in cmd:
             jumped = None
             try:
                 for jump in world.systems[player.systemID].jumpgates:
