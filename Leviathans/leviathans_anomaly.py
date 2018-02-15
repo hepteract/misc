@@ -42,6 +42,13 @@ class Anomaly(object):
         else:
             return "Assorted Data"
 
+@lp.scan_hook
+def find_anomalies(world, playerid):
+    player_system = world.system_list[world.players[playerid].systemID]
+
+    if player_system.anomaly:
+        print "There is a", player_system.anomaly, "here.\n"
+
 @game.world_hook
 def generate_anomalies(new, world):
     if new:

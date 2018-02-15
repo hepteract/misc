@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #Embedded file name: leviathans_planets.pyc
 from leviathans_world import System, worldgen
+from nova.hook import HookTarget
 from name import int_to_roman, name, romanize, seed, element_name
 import collections
 import random, pickle
@@ -169,9 +170,14 @@ def load_world(save = True, notify = True):
 
 game.load_world = load_world
 
+scan_hook = HookTarget()
+
 def prospect(world, cmd, playerid):
     if cmd: logging.info('Prospecting solar system for planetary resources')
     else: logging.debug('Prospecting solar system for planetary resources')
+    
+    scan_hook.run(world, playerid)
+    
     materials = world.mat
     player_system = world.system_list[world.players[playerid].systemID]
     if len(player_system.planets):
@@ -188,7 +194,7 @@ def prospect(world, cmd, playerid):
     print
 
 
-game.new_cmd['prospect'] = prospect
+game.new_cmd["scan"] = game.new_cmd['prospect'] = prospect
 
 def status(world, cmd, playerid):
     player = world.players[playerid]
