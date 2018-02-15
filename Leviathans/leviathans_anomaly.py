@@ -3,6 +3,7 @@ import leviathans_world as game
 
 import logging
 import random
+import time
 
 if __name__ != "__main__":
     logging.debug("leviathans_anomaly imported")
