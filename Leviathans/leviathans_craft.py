@@ -85,10 +85,15 @@ def repair(world, cmd, playerid):
     plate = None
     for item in player.cargo:
         if item.endswith("plate") and item in world.blu.keys():
+            mult = 1
+            for prefix in game.item_prefix:
+                if prefix in item:
+                    mult = 2
+
             for material in world.mat_data.keys():
                 if material in item:
                     plate = item
-                    mat = world.mat_data[material][2]
+                    mat = world.mat_data[material][2] * mult
                     break
 
     if plate is None:
