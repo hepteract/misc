@@ -11,7 +11,7 @@ with open("modules.conf") as conf:
         if module.startswith("#"):
             continue
         elif module.startswith("*"):
-            pass
+            module = module[1:]
         else:
             module = "leviathans_" + module
         game.modules.append(__import__(module[:-1]))
