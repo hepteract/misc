@@ -22,10 +22,47 @@ def generate_blueprint(world):
     logging.info('Player discovered %s', item_blueprint)
     return item
 
+anomalies = (
+        "black hole",
+        "rift",
+        "time vortex",
+        "gravitational anomaly",
+        "singularity",
+        "neutron star",
+        "dyson sphere",
+        "hyperlane",
+        "derelict vessel",
+        "derelict",
+        "portal",
+        "space whale",
+        "pod of space whales",
+        "dyson swarm",
+        "void rift",
+        "time rift",
+        "anti-time bubble",
+        "rogue planet",
+        "rogue star",
+        "quasar",
+        "pulsar",
+        "nebula",
+        "gas cloud",
+        "white hole",
+        "supernova",
+        "derelict shipyard",
+        "kraken",
+        "space-time tear",
+        "large asteroid field",
+        "blazar",
+        "comet",
+        "dust cloud",
+        "collapsed wormhole",
+        "time anomaly"
+    )
+
 class Anomaly(object):
     def __init__(self):
         self.blu = None
-        self.name = "black hole"
+        self.name = random.choice(anomalies)
 
     def __repr__(self):
         if self.blu is None:
