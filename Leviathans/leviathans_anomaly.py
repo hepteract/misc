@@ -95,6 +95,7 @@ def generate_anomalies(new, world):
         logging.info('Retroactively generating anomalies')
     else:
         logging.debug('Anomalies already generated in this world')
+        return
 
     world.ANOMALIES = True
 
